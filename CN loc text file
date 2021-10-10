@@ -1,0 +1,5185 @@
+你 好 。 那 么 ， 在 你 的 冒 险 开 始 之 前 ， 让 我 来 为 你 讲 述 一 段 很 久 以 前 的 故 事 吧 。
+坐 下 来 ，#好 好 听 。 #这 个 故 事 非 常 重 要 。
+( 咳 咳 。 )
+\"很 久 很 久 以 前 #和 平 的 地 球 由 两 个 种 族 共 同 统 领 着 ： 人 类 和 怪 物 。\"
+\"直 到 那 命 中 注 定 的 一 天 ， 这 两 个 种 族 之 间 爆 发 了 战 争 。\"
+\"战 争 极 其 惨 烈 ， 无 数 的 友 谊 和 灵 魂 因 此 破 碎 。\"
+\"人 类 们 人 多 势 众 ， 怪 物 们 也 由 于 长 久 疲 惫 的 作 战 最 终 选 择 了 投 降 。\"
+\"一 道 魔 法 屏 障#将 他 们 封 印 在 他 们 曾 称 之 为 家 的 土 地 之 下 。\"
+`#`\"许 多 许 多 年 过 去 了 .`p1`.`p1`.\"
+\"伊 波 特\\ 山 , 201X 。\"
+\"地 上 的 人 们 都 传 说 前 往 那 座 山 的 人 都 将 一 去 不 复 返 。\"
+\"一 个 人 类 小 孩 由 于 雨 天 的 寒 冷 和 潮 湿 而 前 往 那 里 寻 求 庇 护 。\"
+\"在 那 之 后 ...\"
+\"... 故 事 讲 完 了 。\"`p5`
+* 你 确 定 吗 ？
+是
+否
+* 不 幸 的 是 ， 你 的 时 间 还 没 到 。 `@`;)
+* 好 。 你 是 时 候 做 出 这 个 选 择 了 。 `@`;)
+* 太 糟 糕 了 。 现 在 改 主 意 已 经 太 晚 了 。 `@`;)
+警告：游戏版本过旧。请更新到最新版本，以免出错。
+请重启游戏来更新Discord Rich Presence
+警告：这个设备不支持着色器，所以一些效果可能无法正常工作。如果游戏崩溃，请访问游戏官网上的故障排除页面。
+找不到名称为`$0`的翻译文件！
+名称为`$0`的翻译文件无效
+免 责 声 明
+这 是 一 款 `cY`非 官 方 的`c$` 基 于\nToby Fox 制 作 的 《 Undertale》 的 同 人 游 戏 。
+不 论 如 何 ，我 们 还 是 建 议 你 在 游 玩 本 作 前 \n先 游 玩 《 Undertale》 。
+（ 游 玩 游 戏 原 版 英 文 版 本 以 获 得 最 佳 游 戏 体 验 ）
+- Switched 团 队
+选择语言:\n< 简体中文 >
+选择边框:\n< `$0` >
+开启低特效？\n< `$0` >
+适用于设备不能处理\n闪烁图像，画面抖动\n以及其他效果的玩家。
+继续
+开启
+关闭
+[Z/回车] - 选择\n十字键 - 移动 / 调整选择
+[Z键] - 选择\n方向键 - 移动 / 调整选择
+(更多设置详见主菜单。)
+登录GameJolt？
+你也可以稍后在额外菜单中登录。\n当你登录 Gamejolt 后，你的成就将会被保存，\n并将自动保存备份数据。\n(备份数据可以下载至另一台设备)
+(注意：我们强烈推荐你在移动平台上这样做，\n因为程序的更新会导致\n本地的数据被永久删除！)
+启用 Discord Presence？
+启用 Discord Presence 会让你\n在游玩游戏时在 discord\n有实时的状态更新。不过，出于某些原因你也可能\n不想这么做。
+返回
+是
+否
+重试
+[按下Z或回车]
+[按下Z键]
+[按下`$0`]
+[按下`$0`或回车]
+开始游戏
+继续
+重置
+设置
+感谢名单
+附加
+--介绍--
+(Z / 回车) 选择\n(X / SHIFT) 取消\n(C / CTRL键) 菜单\n(F4键) 全屏\n(按住ESC键) 退出游戏
+(`$0`) 选择\n(`$1`) 取消\n(`$2`) 菜单\n(F4键) 全屏\n(按住ESC键) 退出游戏
+(Z 键) 选择\n(X 键) 取消\n(C 键) 菜单\n(拖动/点击 方向键d)\n   移动
+当你的HP\n降为0时,你就输了。
+选项
+综合
+控制
+窗口
+音量
+边框
+游戏手柄
+别看着我...
+确认:
+取消:
+菜单:
+上:
+下:
+左:
+右:
+综合
+语言: 简体中文
+将自动跳过对话绑定至\n 菜单键: `$0`
+垂直同步: `$0`
+自适应边框: `$0`
+低特效: `$0`
+开启
+关闭
+控制
+(按下合适的键位。)
+重置
+完成
+选择窗口\n风格
+当前窗口:
+经典
+最佳大小
+双重经典
+全屏
+声音
+总音量
+音效
+音乐
+`$0`%
+选择一个边框
+当前边框:
+无边框
+动态
+经典
+简易
+深色调
+游戏手柄
+此机器不\n支持\n游戏手柄！
+无游戏手柄\n连接！
+游戏手柄\n已连接！
+重新设置按钮键位
+重置为默认
+重置
+完成
+模拟方面:\n  `$0`
+右
+左
+模拟盲区:\n  `$0`
+(按下手柄上合适的按键。)
+按钮顺序:\n  `$0`
+撤销
+正常
+覆盖阿尔法
+`$0`%
+盲区
+上
+下
+左
+右
+CTRL
+Alt键
+空格
+回车
+Shift键
+DEL键
+退格键
+_
+你 的 名 字 是 \n\"`$0`。\"
+完成
+退格
+返回
+\"`$0`。\"
+这 就 是\n你 选 择 的\n名 字 。
+你 想 要\n继 续 吗 ？
+好 吧\n其 实 这 就 是 你 的\n本 名 ！
+...或 者 换 一 个 ？\n你 确 定 吗 ？
+...不\n这 不 太 对 。
+快 想 想 。\n你 的 名 字\n是 什 么 ...？
+这 个 名 字 其 实\n并 不 是 很 有\n创 造 性 ，但 是 ...
+既 然 你 想\n起 这 个 名 字 ...？
+你 似 乎 很 疲 倦 。
+也 许 是 个 标 识 ？
+你 似 乎 非 常 的\n疲 倦 。
+也 许 是 个 标 识 ？
+即 使 经 过 了 \n漫 长 的 坠 落\n你 还 是 记 得 。
+这 便 是 你\n真 正 的 名 字 。
+不 可 思 议 。\n这 个 名 字 \n属 于 坠 落 \n之 人 。
+来 吧 ， 快 想 想 \n你 的 名 字 \n是 什 么 ... ？
+吼 吧 ... 介 是\n腻 的 名 纸 了 ！！
+但 - 但 是 ，提 米 ... \n己 经 被 取 了 ...！
+...啊 ， 真 不 错 ！ \n你 一 直 都 很\n喜 欢 花 和 茶 。
+但 是 ... 这 个 名 字 \n承 载 了 太 多 缺 憾 。
+这 个 名 字 ... 让 你\n 感 到 非 常 愤 怒\n愤 怒 ！愤 怒 ！！
+怎 么 会 有 人\n起 这 种 名 字 ？！？
+这 个 名 字 ...\n你 觉 得 自 己 \n像 是 一 个\n残 忍 玩 笑\n的 主 人 公 。  
+痛 苦 。痛 苦 ！ \n 痛 苦 ！！！！
+你 感 觉 你\n就 像 是 \n这 个 故 事 的\n英 雄 。
+...但 是 这\n并 不 能 让 你\n取 这 个 名 字 。
+你 感 觉 你 自 己\n非 常 强 壮 。 
+但 这 并 不 是 \n你 的 名 字 ; ) 
+你 的\n力 ———— 量 \n深 不 可 测 ————— ！ 
+但 是 这 真 的\n是 你 ———\n的 名 字 吗 ？ 
+你 听 到 四 周 传 来\n愤 怒 的 史 莱 姆\n的 声 音 。 
+这 ... 可 能\n不 是 你 的 名 字 。 
+光 是 想 想 \n这 个 名 字\n你 就 害 怕 了 。
+能 跑 就 赶 紧\n跑 吧 ，小 伙 计 。 
+哎 呀 ，跟 一 个#超 酷 的 名 字#就 差 一 个#字 母 。 
+我 准 了 ！！！ 
+用 你 的 小 把 戏\n和 小 玩 意 ,\n你 肯 定 能\n愚 弄 你 的 敌 人 。 
+...如 果 你 是 个 \n超 级 英 雄 的 话 。 
+哈 ，真 不 错 ，#你 一 定 是 个#幽 默 大 师 吧。 
+只 不 过 ，呃 ，#这 是 我 的 名 字 。  
+你 觉 得 这 个 名 字 \n和 你 有 某 种\n相 似 之 处 。
+但 也 许 最 好 \n还 是 顺 其 自 然 吧 。
+这 个 名 字 ... \n感 觉 很 强 大 ！
+...而 - 而 且 它\n并 不 属 于 你 ！ 
+这 个 名 字 与 另 一 个 相 似 ，但 是 ...
+...你 就 用 吧 ？？？ 
+这 个 名 字 的 \n违 反 者 将 被 起 诉 ！！ 
+被 巨 大 机 器 人 ！！ 
+这 个 名 字 ... \n我 觉 得 ，也 许 吧 。 
+嘎 啊 啊 啊 ... \n用 完 赶 紧 爬 吧 ！！！ 
+你 的 名 字\n还 真 是 古 怪 啊 ！ 
+然 而 ，它 的 \n... 版 权 ... 
+这 个 名 字 让 你\n 像 个 垃 圾 一 样 ...
+躺 在 地 上 ...
+哇 哦 ，这 个 \n名 字 太 配 你 了 ！
+如 果 你 喜 欢 \n蜘 蛛 网 的 话 。\n啊 呼 呼 呼~
+...
+...
+...............\n...............
+..............\n这 个 不 是 \n你 的 名 字 。
+我 天 ！\n这 个 名 字 \n已 经 有 主 了 !
+想 个 别 的 吧 。
+你 好 ！这 个 \n名 字 ... 呃 ...\n可 以 是 你 的 ？
+如 果 你 \n这 么 坚 持\n的 话...？
+你 会\n举 吗 ，人 类 ？
+这 是 缓 冲 区\n的 名 称 。  
+从 这 个 名 字 里 \n响 起 了 一 种\n可 怕 的 咯 咯 声 ！
+这 是\n下 一 个 版 本\n的 预 告 吗 ？
+当 然 ， 这 个 名 字\n非 常 适 合 一 段\n艰 难 的 旅 程 ！
+...好 吧 , 其 实\n不 是 。\n你 为 什 么\n会 这 么 想 ？
+这 个 名 字 \n听 起 来\n挺 准 确 的 。
+继 续 么 ？
+起 了 这 个 名 字 ，\n就 连 你 也\n不 能 超 越 死 亡 。
+永 久 死 亡 ：\n死 亡 会\n导 致 重 置 。
+你 听 到 远 处 \n有 一 只 小 狗\n在 打 呼 噜 。
+它 的 力 量\n在 你 体 内 闪 耀 。
+这 个 名 字\n有 点 ... 奇 怪 。
+就 像 从 来 都 不 是\n给 你 准 备 的 一 样 。
+这 个 名 字\n让 你 感 觉\n受 人 爱 戴 ，感 激 。
+这 真 的 是 \n你 的 名 字 吗 ？
+狡 猾 的 蛇\n的 力 量 在 你 体 内\n产 生 了 共 鸣 。
+然 而 ，你 准 备\n好 了 吗 ？
+捏 嘿 嘿 ...\n一 个 绝 妙 的 名 字 ，\n超 棒 的 ！！！
+你 棒 到 可 以 \n用 了 吗 ？？
+这 名 字 感 觉 ...\n挺 特 别 的 。
+你 准 备 好 \n伸 张 正 义 了 吗 ？
+你 一 想 到\n这 个 名 字 \n就 想 挥 舞\n你 的 武 器 。
+你 想 清 楚 了 吗 ？
+这 个 名 字\n让 你 感 觉 ...\n很 纯 真 。
+你 想 清 楚 了 吗 ？
+最 累 人 的 名 字 \n，祝 你 好 运 。 
+它 会 是 你 在 这\n最 棒 的 伙 伴 。
+不 是 我 说 ，这 个 \n名 字 还 蛮 烧 的 。
+...太 烧 了 。\n换 一 个 吧 。
+这 个 名 字 让 你 想 \n钻 进 一 件 淡 紫 色 的\n连 帽 衫 ...
+但 是 你\n并 没 有 连 帽 衫 ，\n呜 呼 。
+星 光 反 射 在 \n闪 闪 发 光 的\n金 属 上 。
+这 个 名 字 \n不 是 你 的 ，\n对 不 起 ！！>:3
+这 个 名 字 的 由 来 \n... 仍 然 是 个 谜 。  
+继 续 么 ？  
+永 远 要 感 激\n你 的 亲 人 。  
+也 不 要 忘 了\n 你 自 己 。  
+组 装 的 东 西\n 本 身 ... 然 后 消 失 了 。  
+继 续 吗 ?  
+如 此 接 近 ，却 又 \n如 此 遥 远 。\n真 是 令 人 悲 伤 。  
+最 好 起 个 别 的 ...  
+这 个 名 字 给 人 的 感 觉 \n是 有 一 段 复 杂 的 历 史 。  
+不 论 如 何 都 想 \n尝 试 一 下 ？  
+你 思 考 着 一 个 \n古 老 的 问 题 ...  
+这 是 一 个 漏 洞 ，\n还 是 一 个 特 性 ?  
+你 从 噩 梦 中\n醒 来 了 。  
+前 进 吧 ，净 化 \n这 个 世 界 的 。  
+具 有 讽 刺 意 味 的 是 ，\n这 个 名 字 并 没 有\n经 过 太 多 的 改 变 。  
+讽 刺 的 是 ，这 个 名 字\n 并 没 有 经 过\n太 多 的 修 改 。  
+具 有 讽 刺 意 味 的 是 ，\n这 个 名 字 并 没 有\n经 过 太 多 的 修 改 。  
+这 就 是 你 的\n最 终 答 案 吗 ？  
+你 感 到 胸 口 有 什 么\n东 西 压 着 你 ...\n 这 是 爱 吗 ？还 是 心 痛 ？  
+嗯 ... 继 续 么 ？  
+这 个 名 字\n有 一 种 美 感 。  
+拿 上 你 的 合 成 器 \n和 太 阳 镜 ，继 续 走 ...  
+未 定 义 的  
+该 死 ，我 忘 记 \n重 新 编 译 了 ...\n还 是 第 二 次 了 ...
+没 有 人 喜 欢\n这 个 名 字 。  
+求 你 了 ，别 用 它 。
+关 注 PALOOODIA\n耶 耶 ！
+
+你 不 屈 的 激 情\n永 世 都 不 会 被 遗 忘 。
+你 得 敬 重\n这 个 名 字 。
+有 学 问 的 黑 色 的 三 叶 草 。
+哦 ！ 我 的 意 思 是\n喔 ... 在 另 一 面 抓 住 你 ？
+......呃 ， 我 想 这 个\n名 字 是 可 以 的 ......
+......就 这 么 决 定 了 吗 ？
+这 个 名 字 让 你 感 觉\n像 是 重 启 了 一 个\n被 废 弃 的 项 目 。
+...下 次 再 说 吧 。
+让 我 们 前 进 吧 。
+你 准 备 好 了 吗 ？
+没 人 这 样 叫 我 的 。
+至 少 在 这 里\n还 没 有 。
+小 心 蓝 色 的\n眼 睛 ...
+谨 慎 行 事 ？
+你 想 四 处 走 走 ， 结 识 点 新 的 朋 友 。
+继 续 吗 ？
+你 的 力 量\n十 分 强 大 。
+愿 你 能 好 好 利 用 它 。
+一 种 怪 怪 的 味 道\n进 入 你 的 嘴 里 。
+太 怪 了 。 赶 紧\n把 它 弄 走 吧 。
+使 用 这 个 名 字\n将 会 开 启\n\"小 鸟 模 式 。\"
+你 愿 意 吗 ？
+你 觉 得 自 己 是\n这 项 伟 大 事 业\n的 一 部 分 。
+一 起 来 吗 ？
+LV
+HP
+G
+`$0`/`$1`
+物品
+状态
+电话
+道具
+重要
+使用
+介绍
+丢弃
+装备
+卸下
+\"`$0`\"
+LV `$0`
+血量 `$0` / `$1`
+攻击 `$0` (`$1`)
+防御 `$0` (`$1`)
+EXP: `$0`
+距下一LV:`$0`
+武器: `$0`
+防具: `$0`
+金钱: `$0`
+击杀数: `$0`
+<无>
+------------------
+K
+M
+Rich
+RICH
+HP
+`$0`/`$1`
+`$0`  LV `$1`
+LV `$0`
+`$0` / `$1`
+   * `$0`
+* 我 胜 利 了 ! * 我 得 到 了 `$0`XP和 `$1`金 钱 。
+* 我 的 LOVE 提 升 了 。
+   * 饶 恕
+   * 逃 跑
+   * 我 还 有 别 的 要 忙 。
+   * 我 走 了 。
+   * 逃 走 了 ...
+   * 不 要 停 下 来 啊 。
+   * 逃 跑 获 得 了 `$0` EXP#     以 及 `$1` 金 钱 。
+ A
+ B
+ C
+[按下 X/SHIFT键 使移动变慢!]
+[按下 `$0` 使移动变慢!]
+空
+LV `$0`
+HP `$0`
+G `$0`
+EXP `$0`
+`$0`:`$1`
+保存存档
+取消
+返回
+回到菜单
+退出游戏
+--
+存档已保存！
+Rich
+$ - `$8`G
+背包空间 - `$8`/`$9`
+$ - Rich
+* 我 装 备 上 了 `$0` 。
+* 我 卸 下 了 `$0` 。
+* 我 扔 下 了 `$0` 。
+`p1`* 恢复了 `$0` HP 。
+`p1`* HP 恢 复 满 了 。
+#* 速 度 提 升 了 `$1` 回 合 ！
+#* 速 度 提 升 了 `$1` 个 回 合 ！
+#* 速 度 提 升 了 ！
+#* 防 御 力 提 升 了 `$1` 回 合 ！
+#* 防 御 力 提 升 了 `$1` 个 回 合 ！
+#* 防 御 力 提 升 了 ！
+尖 锐 的 棍 子
+`#`* \"尖 锐 的 棍 子\ " \\- 武 器   攻 击 1#* 一 种 简 单 的 自 卫 工 具 。
+* 我 不 情 愿 的 扔 下 了 尖 锐 的 棍 子 。
+* 我 对 尖 锐 的 棍 子 说 了 声 再 见 。 
+* 我 扔 下 了 尖 锐 的 棍 子 ， 违 背 了 我 的 想 法 。
+巧 克 力 棒
+* 我 不 情 愿 的 扔 下 了 巧 克 力 棒 。
+* 我 对 巧 克 力 棒 说 了 声 再 见 。
+* 我 扔 下 了 巧 克 力 棒 ， 违 背 了 我 的 想 法 。
+`t3`  10 HP`cG`
+上 帝 奶 酪
+* 我 不 情 愿 的 扔 下 了 上 帝 奶 酪 。
+* 我 对 上 帝 奶 酪 说 了 声 再 见 。 
+* 我 扔 下 了 上 帝 奶 酪 ， 违 背 了 我 的 想 法 。
+`#`* \"巧 克 力 棒\ " \\- 治 愈 10 HP#* 有 一 股 浓 郁 ， 深 沉 且 迷 人 的 味 道 。
+* 就 是 有 点 粘 ...
+`#`* \"上 帝 奶 酪\" \\- 治 愈 10 HP#* 一 种 神 秘 的 ， 以 奶 制 品 为 基 础 `i`并 用 某 种 神 秘 的 力 量 制 成 的 食 物 。
+* 呣 呣 呣... 好 吃 。#`$0`
+* 啊 ， 真 好 吃 ！#`$0`
+* 纯 粹 的 美 味 。#`$0`
+日志
+* \"日 志\ " \\- 重 要 物 品 * 用 来 记 录 我 的 旅 程 的 `#`一 本 书 。 #* 这 是 艾 斯 戈 尔 给 我 的 。
+* 我 不 能 扔 下 这 个 物 品 。
+* 抱 歉 ， 我 不 能 这 么 做 。 * 三 秒 定 律 对 书 可 是 不 起 作 用 的 。
+* 日 志 无 法 被 丢 弃 。
+(新)
+怪 物 糖 果
+怪 物 糖 果 ？
+* \"怪 物 糖 果\ " \\- 治 愈 10 HP * 有 一 种 独 特 的 ，非 甘 草 的 味 道 。
+* 不 是 甘 草 味 。#`$0`
+* 嗯 ， 不 是 甘 草 。#`$0`
+* 竟 然 真 的 不 是 甘 草 ！#`$0`
+* 我 吃 下 了 怪 物 糖 果 。
+* 我 扔 下 了 怪 物 糖 果 。
+* 我 把 怪 物 糖 果 放 在 了 地 上 。
+* 我 把 怪 物 糖 果 拍 了 拍 ， 放 在 了 地 上 。
+`t3`  10 HP`cG`
+`t3`  11 HP`cG`
+ \"怪 物 糖 果\\ ？\\\ " \\- 恢 复 11 点 HP * 糖 果 和 包 装 闻 起 来 都 没 有 甘 草 味 。
+* ... 结 果 发 现 ， 胶 带 也 粘 在 上 面 了 。 
+牛 仔 帽
+* \"牛 仔 帽\ " \\- 装 备  防 御  3 * 让 我 看 起 来 能 强 硬一 点 ， 恐 吓 我 的 对 手 。
+* 抱 歉 ， 搭 档  * 我 扔 掉 了 牛 仔 帽 。
+* 我 扔 掉 了 牛 仔 帽 。
+* 我 不 再 会 带 着 牛 仔 帽 了 。
+玩 具 枪
+* 我 拔 出 玩 具 枪 ， 然 后 慢 慢 把 它 放 在 地 上 。
+* 我 把 玩 具 枪 放 在 了 一 旁 。
+* 我 扔 下 了 玩 具 枪 。
+`#`* \"玩 具 枪\ " \\- 武 器 攻 击 3 #* 一 把 古 董 玩 具 左 轮 手 枪 ， 开 火 时 `i`会 射 出 一 个 不 牢 固 的 带 有 绳 子 的 软 木 塞 。
+金 币 巧 克 力
+`#`* \"金 币 巧 克 力\ " \\- 治愈 12 HP #* 用 金 箔 包 装 着 的 `i`远 古 货 币 造 型 巧 克 力 。
+* 呼 呣 呣 ... 好 吃 。#`$0`
+* 啊 ， 真 好 吃 !#`$0`
+* 纯 粹 的 美 味 。#`$0`
+* 我 不 情 愿 的 扔 下 了 金 币 巧 克 力 。
+* 我 对 金 币 巧 克 力 说 了 声 再 见 。 
+* 我 扔 下 了 金 币 巧 克 力 ， 违 背 了 我 的 想 法 。
+`t3`  12 HP`cG`
+解 密 大 师 之 证
+`#`* \"解 密 大 师 之 证\ " \\- 重 要 物 品 #* 一 个 证 明 了 我 完 成 了 `i`谜 题 挑 战 的 徽 章 。
+`#`* 我 欣 赏 着 解 密 大 师 之 证 。 #* 我 内 心 充 满 了 自 豪 。
+* 我 拒 绝 扔 下 解 密 大 师 之 证 。
+海 茶
+`#`* \"海 茶\ " \\- 治愈 5 HP #* 特 别 咸 ， 没 什 么 甜 味 。
+* 在 1 场 战 斗 中 提 升 移 速 。
+* 这 也 太 咸 了 ...#`$0``$1`
+* 得 再 加 些 糖 。#`$0``$1`
+* 阔 步 前 行 ！#`$0``$1`
+* 我 喝 下 了 海 茶 。#`$0``$1`
+`#`* 我 扔 下 了 这 杯 海 茶 。#* 它 撒 在 了 地 上 。
+* 我 小 心 地 把 海 茶 放 在 了 地 上 。
+* 我 \" 一 不 小 心\" 把 海 茶 给 忘 在 身 后 了 。
+`t3`  5 HP, 1 SPD`cG`
+`#`* \"海 茶\ " \\- 治 愈 10 HP #* 特 别 咸 ， 没 什 么 甜 味 。
+* 在 1 回 合 内 提 升 移 动 速 度 。
+果 冻 果 汁
+`#`* \"果 冻 果 汁\ " \\- 治 愈 8 HP #* \"摇 摇 扭 扭 ， 芜 湖 ， 嗨 起 来 `@`！\"`p1`#* \"它 会 让 你 的 心 跳 加 速 ！ \"
+* 在 3 回 合 内 提 升 移 速 。
+* 哇 哦 ！ 几 乎 是 纯 糖 做 的 ！#`$0``$1`
+* 我 喝 的 时 候 它 在 晃 来 晃 去 。#`$0``$1`
+* 芜 湖 ？ 就 一 点 点 吧 ...#`$0``$1`
+* 我 喝 下 了 果 冻 果 汁 。#`$0``$1`
+* 我 扔 掉 了 果 冻 果 汁 。 * 但 它 又 弹 回 了 我 的 手 里 。
+`t3`  8 HP, 1 SPD (3)`cG`
+`#`* \"果 冻 果 汁\ " \\- 治 愈 12 HP #* \"摇 摇 扭 扭 ， 芜 湖 ， 嗨 起 来 `@`！\"`p1`#* \"它 会 让 你 的 心 跳 加 速 ！ \"
+* 在 3 回 合 内 提 升 移 速 。
+哞 哞 牛 奶
+`#`* \"哞 哞 牛 奶\" \\- 治 愈 4 HP #* 一 盒 简 单 的 由 巧 克 力 斑 点 `i`装 饰 的 香 草 牛 奶 。
+* 在 1 回 合 内 提 升 防 御 力 。
+* 啊 ！ 神 清 气 爽 ！#`$0``$1`
+`#`* 我 倒 掉 了 哞 哞 牛 奶 。#* 毫 不 值 得 为 此 哭 泣 。
+* 我 扔 下 了 哞 哞 牛 奶 。
+* 我 把 哞 哞 牛 奶 放 在 了 地 上 。
+`t3`  5 HP, 2 DF`cG`
+`#`* \"哞 哞 牛 奶\ " \\- 治 愈 10 HP #* 一 盒 简 单 的 由 巧 克 力 斑 点 `i`装 饰 的 香 草 牛 奶 。
+* 在 1 回 合 内 提 升 防 御 力 。
+猫 耳 咖 啡
+`#`* \"猫 耳 咖 啡\ " \\- 治 愈 8 HP #* 一 杯 咖 啡 ， 但 是 `i`有 可 爱 的 猫 耳 装 饰 。
+* 在 2 回 合 内 提 升 防 御 力 。
+* 这 真 大 胆 。#`$0``$1`
+* 我 喝 下 了 猫 耳 咖 啡 。#`$0``$1`
+* I dropped the Cute Coffee. * It broke into a million pieces.
+`t3`  8 HP, 2 防 御 (2)`cG`
+`#`* \"可 爱 咖 啡\" \\- 治 愈 12 HP #* It's just a cup of coffee, but `i`with adorable cat ears.
+* 在 2 回 合 内 提 升 防 御 力 。
+酥 脆 薯 条
+`#`* \"酥 脆 薯 条\ " \\- 治 愈 12 HP #* 高 热 量 和 高 盐 分 的 小 零 食 ， `i`还 放 了 番 茄 酱 。
+`t3`  12 HP`cG`
+* 我 吃 掉 了 酥 脆 薯 条 。#`$0`
+* 真 的 好 咸 ！#`$0`
+* 这 盐 放 得 也 太 多 了 ... 太 咸 了 。#`$0`
+* 尝 起 来 像 快 餐 。#`$0`
+* 实 在 是 太 咸 了 。 * 我 扔 下 了 酥 脆 薯 条 。
+* 番 茄 酱 实 在 是 太 多 了 。 再 见 啦 ， 酥 脆 薯 条 。
+* 我 扔 下 了 酥 脆 薯 条 。
+Grillburger
+`#`* \"Grillburger\" \\- 治 愈 24 HP #* Made with love and plenty `i`of preservatives.
+`t3`  24 HP`cG`
+* I ate the Grillburger.
+`#`* I can almost taste the `i`preservatives.#`$0`
+* Ah, grease. Who would have thought?#`$0`
+* This isn't what I ordered... * ... #`$0`
+* Too much grease! * I dropped the Grillburger.
+* I put the Grillburger inside the nearest trash can. Maybe someone else will eat it.
+* I dropped the Grillburger.
+金 花 茶
+苦 茶
+`#`* \"苦 茶\ " \\- 治 愈 一 些 HP #* 说 实 话 ， 我 真 的  `i`不 太 喜 欢 这 个 ...
+`t3`  全 部 HP`cG`
+`t3`  一 些 HP`cG`
+* \"金 花 茶\ " - 全 部 HP * 治 愈 你 的 身 体 ， 思 想 甚 至 是 灵 魂 。 还 放 了 奶 油 糖 果 ！
+* \"金 花 茶\ " - 全 部 HP * 治 愈 你 的 身 体 ， 思 想 甚 至 是 灵 魂 。 还 放 了 肉 桂 ！
+* 艾 斯 戈 尔 的 呼 吸 有 那 么 一 会 变 得 很 好 笑 ......
+* 艾 斯 戈 尔 的 攻 击 力 降 低 了 ！ * 艾 斯 戈 尔 的 防 御 力 降 低 了 ！
+* 呣 呣 呣 ... 令 人 安 心 。#`$0`
+* 啊 ... 正 是 我 所 需 要 的 。#`$0`
+* 如 果 放 的 是 奶 油 糖 果 就 更 好 了 ！#`$0`
+* 呣 呣 呣 ... 令 人 安 心 。#`$0`
+* 啊 ... 正 是 我 所 需 要 的 。#`$0`
+* 如 果 放 的 是 肉 桂 就 更 好 了 ！#`$0`
+* 真 恶 心 。#`$0`
+* 味 道 ... 太 差 了 。#`$0`
+* 我 小 心 翼 翼 地 将 金 花 茶 放 在 地 上 。
+* 我 扔 下 了 金 花茶 。 它 砸 在了 地 上 。
+* 我 扔 掉 了 苦 茶 ， 它 的 杯 子 被 摔 成 了 碎 片 。
+* 我 对 苦 茶 冷 笑 一 声 ， 把 它 扔 在 了 身 后 。
+花 生 酱 三 明 治
+`#`* \"花 生 酱 三 明 治\" - 治 愈 6 HP #* A bunch of peanuts stuffed `i`between tiny slices of bread.
+* Mm, crunchy!#`$0`
+`t3`  6 HP`cG`
+黄 油 三 明 治
+`#`* \"黄 油 三 明 治\" - 治 愈 6 HP #* A chunk of butter squeezed `i`between tiny slices of bread.
+* The butter's surprisingly soft, and melts in my mouth.#`$0`
+`t3`  6 HP`cG`
+果 酱 三 明 治
+`#`* \"果 酱 三 明 治\" - 治 愈 6 HP #* Tiny slices of bread, with a `i`glob of jelly between them.
+* Tastes distinctly like... cherries?#`$0`
+`t3`  6 HP`cG`
+Pup Purse
+* \"Pup Purse\" - Key Item * Smells like cookies and milk...
+* It doesn't seem like I'm able to drop this item.
+* Not much left.
+* On closer inspection, there's some loose G in this purse.
+* ... 要 拿 走 吗 ？
+是
+否
+* ... 我 从 袋 子 中 拿 走 了 15G 。
+* 不 ， 这 些 钱 不 属 于 我 。 我 应 该 把 钱 还 回 去 。
+狗 狗 曲 奇
+* 谁 会 拒 绝 巧 克 力 呢 ？#`$0``$1`
+* 呣 呣 呣 ... 就 跟 家 里 做 的 一 样 。#`$0``$1`
+* 太 好 吃 了 ！#`$0``$1`
+* 我 吃 下 了 狗 狗 曲 奇 。#`$0``$1`
+* 我 扔 下 了 狗 狗 曲 奇 。
+* 我 把 狗 狗 曲 奇 放 到 了 地 上 。
+* 我 把 狗 狗 曲 奇 放 在 了 地 上 并 摸 了 摸 它 的 肚 子 。
+`t3`  5 HP， 1 速度 (1)`cG`
+* \" 狗 狗 曲 奇\" - 治 愈 5 HP * 简 单 的 巧 克 力 夹 心 曲 奇 。
+* 在 1 回 合 内 提 升 移 动 速 度 。
+电 话
+* \"电 话\ " \\- 重 要 物 品 * 可 以 用 来 给 人 打 电 话 。 * 这 是 艾 斯 戈 尔 给 我 的 。
+* 我 不 能 扔 下 这 个 物 品 。
+* 抱 歉 ， 我 不 能 这 么 做 。 * 三 秒 定 律 对 电 话 是 不 起 作 用 的 。
+* 电 话 无 法 被 丢 弃 。
+* (我 随 意 按 下 了 电 话 上 的 按 键 。 ）
+* (...)`p1` * (什 么 都 没 有 发 生 。 )
+* (...)
+* ( 没 有 信 号 。 )
+* ( 别 人 的 电 话 。 )
+* ( 一 个 电 话 。 ) * ( 它 属 于 艾 斯 戈 尔 )
+*（ 我 随 意 按 下 手 机 上 的 按 键 。）
+*（ 不 知 怎 的 ，我 拨 通 了  \"白 痴 婴 儿 热 线 。\ "）
+*（ 我 在 手 机 上 输 入 了 \"707\" 。）
+*（...）
+*（ 我 把 手 机 倒 转 了 过 来 。)
+*（...）
+*（ 嘿 嘿 。）
+*（ 我 随 意 按 下 手 机 上 的 按 键 。）
+*（...）`p1` * （有 人 接 电 话 了 ...`@`！）
+* 你 好 。你 的 冰 箱 还 能 用 吗 ？
+* ... 不 能 了 ？
+* 好 吧 ，那 没 事 了 。
+*（ 嗒 。）
+*（ 我 - ) * ( 我 是 被 ... 恶 作 剧 了`@` ？）
+*（ 我 随 意 按 下 手 机 上 的 按 键 。）
+*（...）`p1` *（有 人 接 电 话 了 ...`@`！）
+* 你 好 。这 是 皇 家 海 军 的 热 线 。
+* 如 果 你 想 申 请 ，请 按 1 。
+* 如 果 您 想 与 成 员 交 谈 ，请 按 2 。
+* 其 他 问 题 请 按 3 。
+* 直 接 客 户 服 务 请 按 4 ，或 在 哔 声 后 等 待 。
+*（ 我 按 下 了 4 。）
+* 请 稍 后 。
+*（ 休 闲 音 乐 。）
+*（ 更 多 的 休 闲 音 乐 。）
+*（ 还 有 更 多 的 休 闲 音 乐 。）
+*（ 狗 狗 的 声 音。）
+* ...
+* 你 好，这 里 是 客 服 。请 问 我 能 为 您 做 些 什 么 ？
+*（ 我 大 声 尖 叫 着 。）
+* ...
+* ( 嗒 。）
+*（ 我 随 意 按 下 手 机 上 的 按 键 。）
+*（...）`p1` *（有 人 接 电 话 了 ...`@`！）
+* 你 好 ，人 类 ！出 什 么 事 了 ？
+* ... 嗯 ？你 拨 了 一 个 随 机 号 码 ... 却 不 小 心 给 我 打 了 电 话 ？
+* 吼 吼 吼 ！ * 令 人 惊 奇 ！
+*（ 嗒 。）
+*（ 我 随 意 按 下 手 机 上 的 按 键 。）
+*（...）`p1` *（ 有 人 接 电 话 了 ...`@`！）
+噢 ，你 好 ！ #请 问 有 什 么 能 帮 到 你 的 吗 ？
+... 啥 ？？
+`#`你 随 便 按 了 #几 个 按 钮 然 后 #就 打 给 我 了 ？？
+`#`哦 ，我 一 直 都 是 #这 么 做 的 ！ #捏 嘿 嘿 ！！！
+*（ 嗒。）
+*（ 我 随 意 按 下 手 机 上 的 按 键 。）
+*（...）`p1` * （ 有 人 接 电 话 了 ...`@`！）
+* 天 呐 ， 我 讨 厌 别 人 无 缘 无 故 给 我 打 电 话 ， 你 明 白 么 ？
+* 我 真 的 不 喜 欢 这 种 事 ， 你 能 懂 我 吗 ？
+* 你 知 道 吗 ？ 有 一 次 ， 我 想 吃 金 枪 鱼 砂 锅 。
+* 但 是 突 然 ， 有 人 打 电 话 给 我 ，把 金 枪 鱼 吓 跑 了 ！
+* 你 说 我 要 怎 么 跟 我 老 婆 解 释 这 个 ？！
+* 没 声 了 。
+* 蛙 吉 特 跳 了 过 来 ！
+* 蛙 吉 特 跳 近 了 我 。
+* 一 对 蛙 吉 特 跳 向 了 我 。
+* 蛙 吉 特 跳 向 了 我 ， 他 的 同 伴 紧 随 其 后 。
+* 遭 遇 了 蛙 吉 特 。 * 害 羞 虫 虫 ... 也 在 这 。
+* 蛙 吉 特 和 忧 郁 虫 虫 接 近 了 ！
+* 忧 郁 虫 虫 温 顺 地 靠 近 了 ！
+* Whimsun quietly flutters up to me.
+* Loox stomps towards me, chuckling.
+* Loox drew near!
+* Loox stomps near with an arrogant atmosphere.
+* A pair of Loox decided to pick on me!
+* Loox and its cohort draw near!
+* Loox and its cohort charge forward!
+`@`* Loox and co. decided to pick on me!
+* Loox and its cohort drew near!
+* Loox drew near, with Froggit hopping close behind.
+* Loox grins menacingly, waving over to Migosp.
+* Vegetoid sprung up from the ground!
+* Vegetoid sprung forth!
+* Vegetoid drew near!
+* Vegetoid and Syrose noticed me!
+* Vegetoid and Loox attacked!
+* I've tripped over a Moldsmal.
+* The scent of limes hits me like a bus. * It's a couple of Moldsmal.
+* A line of Moldsmal block my way!
+* Syrose has noticed me.
+* Syrose struts towards me!
+* I've caught the attention of Syrose and Moldsmal.
+`#`* Syrose stops me in my tracks. * Is that a Whimsun behind her?
+* Butchy skids to a stop, looking incredibly cool as she does so.
+* Butchy zooms into battle!
+* Butchy approaches at high speed!
+* Smells like mustard seed.
+* Froggit puffs out its chest.
+* Froggit hops to and fro.
+* I'm intimidated by Froggit's raw strength.
+* Froggit doesn't seem to know why it's here.
+* Smells like mustard seed and anxiety.
+* Whimsun mutters to itself. * Froggit gives a ribbit of reassurance.
+* Whimsun has the confidence of a melting ice cube.
+* Whimsun started to say something, but fear choked back the words.
+* Whimsun continues to mutter apologies.
+* Whimsun avoids eye contact.
+* Whimsun is fluttering.
+* It smells like lavender and mothballs.
+* Loox is checking to see if his horns are still sharp.
+* Loox gnashes his teeth and growls, trying to look intimidating.
+* Loox is gazing at me intently.
+* Smells like eyedrops.
+* Loox checks if its horns are still sharp. * Its cohort nods in response.
+* Loox and its cohort gaze at me intently.
+* Smells like double-strength eyedrops.
+* Both Loox gnash their teeth and growl, trying to look intimidating.
+* Migosp whispers to Loox, causing them both to chuckle.
+* Migosp chitters nervously. * Loox gives Migosp a concerned pat on the back.
+* Froggit hops to and fro, while Loox gnashes its teeth.
+* I'm intimidated by the raw strength of Froggit and Loox.
+* Loox lets out a cackle. * Froggit ribbits.
+* I stare into Froggit's eyes. * Loox stares back at me.
+* Vegetoid cackles to itself.
+* Smells like a produce aisle.
+* Vegetoid gives an awkward, lopsided grin.
+* Smells like a greenhouse.
+* Syrose tries gossiping to Vegetoid, but to no avail.
+* Syrose asks Vegetoid about the latest dirt. Apparently, it's high in nutrients.
+* Syrose seems to be expecting a compliment from Vegetoid.
+* Moldsmal wriggles about curiously.
+* Smells like lemon and lime.
+* Moldsmal is ruminating.
+* I detect the faintest smell of lemons.
+* Moldsmal jiggles from side to side.
+* Moldsmal and its cohort jiggle from side to side.
+* Smells like lemon and lime.
+* I detect the faintest smell of lemons.
+* Moldsmal and its cohorts jiggle from side to side.
+* Smells like lemon and lime.
+* I detect the faintest smell of lemons.
+* Syrose tries to hand me a slip of paper. * Is this... a phone number?
+* Syrose swivels her stem.
+* Syrose pauses to re-apply her Cerise \\#6 lipstick.
+* Syrose is about to burst with gossip.
+* Syrose swivels her stem, and Moldsmal jiggles from side to side.
+* Syrose hands Moldsmal her phone number, but it gets dissolved.
+* Syrose asks Moldsmal about the latest gossip. * Moldsmal gurgles in response.
+* Syrose tries to gossip with Whimsun, but it flutters away in fear.
+* Syrose swivels her stem while Whimsun mutters apologies.
+* Butchy looks to see if her girlfriend is watching.
+* Smells like burnt rubber.
+* 听 起 来 像 摇 滚 。
+这 只 是 一 场 # 噩 梦 ...
+再 试 一 次 ？
+继续
+退出
+重置
+也 许 休 息 会#就 能 好 些 了 ...
+总 会 有#机 会 的 ...
+`$0`! #保 持 你 的 决 心 !
+醒 醒 ! 这 才 刚 刚 #开 始 呢 !
+这 只 是 一 场 #噩 梦 ...
+而 你 似 乎 永 远#都 无 法 醒 来 ...
+
+醒 醒 ! 现 在 还 不 是 #放 弃 的 时 候 !
+醒 醒 ! 不 要 放 弃 希 望 !
+醒 醒 ! 你 的 命 运 #正 依 靠 于 此 !
+醒 醒 ! 别 放 弃 !
+醒 醒 ! 不 要 逃 避 !
+醒 醒 ! 还 有 #机 会 的 !
+醒 醒 ! 不 要 放 弃 尝 试 !
+醒 醒 ! 不 要 气 馁 !
+醒 醒 ! 不 要 生 气 !
+醒 醒 ! 他 们 因 团 结#而 强 大 !
+醒 醒 ! 小 心 你 头 顶 上 的 #攻 击 !
+醒 醒 ! 坚 持 下 去 !
+醒 醒 ! 努 力 躲 避 攻 击 !
+醒 醒 ! 世 界 正 #依 靠 于 此 !
+醒 醒 。 醒 醒 ! 醒 醒 !!!
+醒 醒 ! 观 众 们 #还 在 等 着 呢 !
+醒 醒 ! 表 演 还 没 结 束 呢 !
+醒 醒 ! 人 群 们 还 在 欢 呼 着 呢 !
+醒 醒 ! 给 观 众 看 看 #他 们 想 看 的 !
+醒 醒 ! 给 他 们 好 好 上 一 课 !
+醒 醒 ! 吓 退 他 们 !
+醒 醒 ! 别 让 那 些 恶 霸 #得 逞 !
+醒 醒 ! 那 个 快 递 员#还 需 要 你 !
+醒 醒 ! 一 定 会 有#办 法 的 !
+醒 醒 ! 奋 力#前 进 !
+醒 醒 ! 胜 利 就 在 #眼 前 !
+* ( 感 觉 好 像 在 被 人 看 着 一 样 。)
+* 这 是 个 用 硬 纸 板 临 时 搭 建 的 咨 询 台 。
+* 我 想 知 道
+* 当 心 虚 假 广 告 ...
+* 等 — — 等 等 ！！ 憋 走 ！！！球 球 尼 ！！！
+* 提 米 这 里 有 ... 教 程 ！！！ 快 肥 来 ！！
+* 你 吼 ！！！ 我 是 提 米 ！ ！ * 欢 因 来 到 ... 提 米 商 店 ！！！ 
+* 哇 哦 ... 一 个 可 耐 的 银 类 ？！？ 
+* 呜 哇 呜 哇 呜 哇 ...  提 米 最 喜 欢 可 耐 的 银 类 了 ！！ 
+* 腻 看 起 来 ... 有 点 眼 熟 啊 ... 
+* 腻 认 得 我 ， 对 吧 ？ 
+* 银 类 买 东 西 可 以 ... 打 折 的 ！！！！
+* 提 米 商 店 ， 有 很 多 商 品 ！！ 
+* 商 品 很 不 错 的 ... 很 棒 的  ！！！
+* 而 且 还 有 对 于 在 地 下 的 腻 来 说 最 有 用 的 ... ！
+* 知 识 ！ ！
+* ... 啊 ？ ？ ？ 腻 没 有 钳 ？
+* 呋 唔 呋 唔 呋 唔 呋 唔 好 吧 ！ ！ 提 米 还 有 ... 不 同 架 位 的 ... 
+* 呋 唔 呋 唔 呋 唔 呋 唔 呋 唔 呼
+* 算 了 ， 这 并 不 重 药 。
+* 似 时 候 ... 让 提 米 来 教 教 腻 了 ， 好 么 ？ ！
+* 哦 ， 是 腻 啊 。
+* 介 一 点 都 不 好 玩 ， 腻 作 弊 了 ！！
+* 你 要 是 一 直 作 弊 ， 提 米 药 怎 么 帮 你 呢 ？
+* 别 担 心 ！！
+* 银 类 买 东 西 可 以 ... 打 折 的 ！！！！ 
+* 讲 真 ， 烦 了 。
+* 我 们 再 来 一 次 吧 呋 咯 呋 咯 呋 咯 呋 咯 呋 咯
+听 着 ， 我 们 都 清 楚 结 局 会 是 怎 样 的 。
+我 告 诉 你 用 方 向 键 ， 十 字 键 或 是 摇 杆 来 操 纵 你 的 灵 魂 ...
+我 告 诉 你 用 十 字 键 来 控 制 你 的 灵 魂 ...
+我 告 诉 你 用 方 向 键 来 控 制 你 的 灵 魂 ...
+躲 避 子 弹 ... LOVE ...
+所 以 你 为 什 么 不 就 当 帮 我 个 忙 ...
+吼 吼 吼 吼 吼 ... 看 看 辣 个 灵 魂 ！！
+太 ... 太 ... 太 完 美 了 ！！
+在 地 下 世 界 ， 灵 魂 ... 非 常 重 要 ... ！
+所 友 人 都 想 要 腻 的 灵 魂 ！ ！
+`#`呋 咯 呋 咯 呋 咯 呋 咯 好 滴#`p1`所 以
+腻 的 灵 魂 九 是 你 存 在 的 体 现 ！！
+也 就 是 说 它 肥 肠 重 药 ！！！！！
+但 耶 因 此 ， 人 们 都 想 得 到 它 ！！
+介 太 坏 了 。
+你 得 用 你 的 方 向 键 ，十 字 键 或 是 摇 杆 来 操 纵 你 的 灵 魂 。
+你 得 用 你 的 十 字 键 来 操 纵 你 的 灵 魂 。
+你 得 用 你 的 方 向 键 来 操 纵 你 的 灵 魂 。
+然 后 躲 避 攻 鸡 ！ ！
+哦 - 哦 不 ！！！ 辣 个 攻 鸡 失 控 了 ！！！！
+银 类 ！ 小 心 辣 个 攻 鸡 ！！
+...
+好 八 ，就 当 无 事 发 身
+但 - 但 是 ！！ 教 学 还 没 结 束 呢 ！
+教 学 ... 继 续 ... ！
+噢 ， 拜 托 ， 别 那 么 惊 讶 啊 。
+那 你 以 为 会 发 生 什 么 呢 ？
+哇 - 哇 哦 ... 银 类 很 擅 长 手 艺 活 呢 ， 是 吧 ？ ？
+干 得 漂 亮 ！ 非 常 厉 害 呢 ... ！
+一 定 是 与 生 俱 来 的 吧 ！
+但 介 还 没 完 ... 更 多 的 教 学 要 来 了 ... ！
+天 辣 ， 银 类 我 对 不 起 腻 ...
+我 不 似 故 意 要 伤 害 你 的 ...
+但 - 但 是 没 关 西 ， 提 米 ... 会 弥 补 错 误 的 ！！
+教 学 还 得 继 续 ... ！
+所 以 ！！辣 就 是 腻 的 LV ！ 意 思 就 是 ... LOVE ！！！
+LOVE 在 地 下 世 界 肥 肠 重 药 。
+你 得 学 会 获 得 LOVE 从 而 活 下 去 ！
+而 且 提 米 想 要 ... 很 多 LOVE ！ ！
+所 以，银 类 ... 教 程 的 学 费 就 是 ... 就 是 ... 是 ... ！
+给 提 米 LOVE ！ ！ ！
+噢 ， 拜 托 ， 别 那 么 惊 讶 啊 。
+那 你 以 为 会 发 生 什 么 呢 ？
+惊 讶 ？ 有 一 点 点 吧 ？
+我 总 感 觉 你 是 有 意 那 么 做 的 ...
+说 真 的 ， 你 有 什 么 毛 病 ？
+我 一 定 是 看 错 你 了 。
+显 然 ， 你 肯 定 明 白 到 底 是 什 么 情 况 。
+亦 或 者 你 没 有 ？ 毕 竟 ... 
+怎 - 怎 么 了 ， 银 类 ？ 提 米 已 经 教 学 完 成 了 ！ 
+提 米 只 是 想 药 LOVE ！ ！ ！ 
+你 蓝 道 不 想 给 提 米 LOVE ？ ？
+那 这 样 ... 如 何 呢 ！
+咯 呼 咯 呼 咯 呼 咯 呼 ... 银 类 ， 球 球 了 ！！！！！！
+你 一 定 药 给 提 米 LOVE ！ ！ 你 保 证 过 的 ！
+不 要 再 远 离 提 米 了 ... ！
+所 以 . . . 你 不 想 给 提 米 LOVE ？ ？
+但 是 我 教 会 了 你 一 且 ...
+提 米 药 肿 么 办 ... ？
+我 ... 我 ...
+...
+我 懒 得 跟 你 讨 价 还 价 了 。
+你 用 你 的 灵 魂 在 那 里 来 回 移 动 ...
+... 还 想 让 我 傻 愣 着 什 么 也 不 做 ？
+还 是 在 我 失 去 了 灵 魂 的 前 提 下 ？
+如 果 你 是 这 么 想 的 话 ， 那 么 抱 歉 了 ， 因 为 ...
+你 大 错 特 错 了 。
+所 以 ， 就 当 帮 我 个 忙 吧 ...
+给`p3`
+我`p3`
+你 的`p3`
+灵 魂 ...!`p3`
+你 好 ！ 有 人 在 那 里 吗 ... ？
+... 好 吧 。
+还 蛮 让 人 失 望 的 。
+...
+... 哦 。
+是 他 。
+...
+窝 天 ! 针 是 扫 兴 ， 对 吧 ？！  
+我 们 玩 得 那 么 开 心 ...   
+但 却 有 人 来 干 设 ！  
+我 想 ... 我 得 走 了 ...
+寨 见 了 ， 银 类 ！！
+... 哦 , 我 ...
+...
+... 啊 ! 你 是 个 人 类 !
+我 已 经 很 久 没 有 见 过 人 类 了 。
+看 看 ，你 年 纪 可 真 小 !
+...我 - 我 天 ！你 受 伤 了 吗 ， 孩 子 ？
+抱 歉 ， 我 来 晚 了 。 看 来 我 得 准 备 的 更 充 分 些 !
+或 许 我 该 在 那 堆 花 上 放 个 垫 子 的 ...
+...但 我 觉 得 这 不 是 重 点 。
+`#`哦 ! 我 的 名 字 叫 #`cR`艾 斯 戈 尔 • 逐 梦`c$` 。
+我 每 天 都 会 来 这 里 照 看 这 些 花 。
+不 过 看 来 今 天 是 个 例 外 。
+起 来 吧 ， 孩 子 。 就 让 我 来 指 引 你 穿 过 这 些 遗 迹 长 廊 吧 。
+`#`* 没   有   人   `i`能  听  到  你  的  尖  叫 。
+蛙吉特
+忧郁虫虫
+卢克眼
+蔬菜兽
+Migosp
+Moldsmal
+Syrose
+Butchy
+* That `$0` you killed, back there...
+* Why them, in particular?
+* Of all the monsters to kill...
+* Why `$0` and `$1`?
+* Ooh, ooh! The SOUL...! Gimme, gimme!
+* It's like a dream come true...
+* How lovely, a present just for us!
+* I wonder what a SOUL tastes like?
+* Your little adventure ends HERE!
+* Haha... excellent work, I must say.
+* Far better than I, all by myself, could manage.
+* Though, this begs the question...
+* Why?
+* What was it that drove you to do what you've done?
+* And now that you've gotten this far...
+* What do you plan on doing next?
+* Well, don't worry. Fortunately for us both...
+* I have friends who can offer guidance.
+* Yes! You let your rage flow, and cut them all down to size!
+* This city's never been so quiet! It's almost kind of beautiful~!
+* Whatever you wanted, you took.
+* Yeah, and what you took, you used!
+* I'd probably want to take a nap after all that...
+* Outstanding...
+* Through sheer determination, you reduced an entire city to dust.
+* Whether you wanted to or not... you've started something, human.
+* And now we, the Temmies...
+* ...Will be here every step of the way, to help you complete it.
+* Isn't that just grand?
+* Uh... I don't think the human's interested in a partnership.
+* This is... not ideal.
+* Temmies, retreat!
+* W-wait... where are you guys going?!
+* da HOOMAN is totally OKE! Rite???
+* ...R-right?
+* Howdy--
+* Woah. Where'd everybody go? I thought...
+* Gah! You too?!
+* Oh... I-I see how it is!
+* You and the human are in CAHOOTS!
+* You... you probably convinced them to do all this!
+* In exchange for something else!
+* `cY`FLOWEY`c$`... I've never had your charisma or confidence...
+* I just do what the others tell me to do!
+* Well, you know what?!
+* I think I'll do something on my own, for once!
+* D`p1` I`p1` E`p1` !
+* Whew! That could've been bad.
+* So... you.
+* You've been causing quite a stir...
+* And you haven't even left these catacombs yet.
+* You've got quite the journey ahead of you, kid.
+* But... maybe that's what you want?
+* I'll see you up ahead.
+* Is this some sort of joke to you?
+* Well, we're not laughing.
+* You have the power to reset. To go back...
+* And this is how you use it?!
+* There are so many...
+* \\.\\.\\. so many who would DIE for the chance to gain your ability.
+* But you already knew that, didn't you?
+* What is it you desire, really?
+* What is it that you want from this world?
+* Hehe... I guess, ultimately...
+* We'll ALL just have to wait and see.
+* At LAST...! The SOUL is OURS!
+* It took us long enough...
+* Ooh, I'm gushing with excitement!
+* I can almost TASTE it...
+* Got you now, you little FREAK!
+* And now...
+* With your SOUL, we shall become powerful.
+* More than you could ever dream to be.
+* There's no happy ending to this story for you.
+* You haven't made a difference. Nothing's changed.
+* And this cheap attempt at \"atoning\" for your actions?
+* It's all been for absolutely nothing.
+* You may have undone your mistakes, but still?
+* Haha... you couldn't live with the weight of your sins, could you?
+* \"I'll get it right this time\\!\"
+* \"I'll get the Good Ending, and make everyone happy\\!\"
+* What a foolish thing to wish for.
+* This world is full of broken people, but you won't be the one to fix them.
+* In fact...
+* ...I must admit, I'm surprised.
+* You got through without killing anyone.
+* Better than I could manage, considering the circumstances.
+* After facing the brink of death...
+* Well, look who's decided to show up.
+* I can't say that I'm surprised...
+* You were bound to kill eventually.
+* Especially considering the circumstances.
+* After facing the brink of death...
+* ...And winning every time.
+* Humans really are something...
+* \\.\\.\\.persisting in the face of certain defeat.
+* But at what cost?
+* ...And even succumbing to it.
+* You have died once already.
+* You have died a total of `$0` times.
+* Far more than anyone else is able to.
+* Well, was it worth it?
+* All of your brand new \"friends\\?\"
+* You'll never see them again.
+* Not like those old folks would even remember you.
+* ...
+* oh nos... is hooman SADE???
+* Don't worry! I brought you some friends!
+* Don't worry! I have some \"friends\" of my own!
+* So if you're worried about being alone, well...
+* You'll never be alone again!
+* You almost had us going for a moment, human!
+* Made us think you were sparing the old man.
+* Oh, the look on his face was PRICELESS!
+* He was left stuttering and confused in his final moments.
+* If there's anything I truly regret, it's that now...
+`#`* H e   w o n ' t   `i`h e a r   y o u   s c r e a m .
+* Ah, the human...
+* Such a kind soul... until they met the Greasers.
+* Did you lose your temper?
+* Or... were you perchance trying to scare them?
+* If it's the latter, then your technique needs some work.
+* Take myself, for example! See how I do it...
+* And now...
+* With your SOUL, we shall become powerful.
+* More than anyone in these caverns can possibly imagine.
+* There's no happy ending to this story for you.
+* You haven't made a difference. Nothing's changed.
+* It's all been for absolutely nothing.
+* You may have been lucky before, but now?
+* Ah, the human...
+* So kind to everyone in RUINED HOME.
+* But you just couldn't figure out old Asgore, could you?
+* There's still time to do it all over. * I'm sure you know how.
+* ...
+* ...Still not resetting, I see.
+* Perhaps... you don't regret what you did, after all?
+* Such a shame, too. Because, now...
+`#`* H e   w o n ' t   `i`h e a r   y o u   s c r e a m .
+* Interesting...
+* Was it something they said? * Something they did?
+* Or were you simply... curious, as to what would happen?
+* Regardless... * Now that you're here?
+* Hmm...
+* Was it something they said? * Something they did?
+* Or were you simply... curious, as to what would happen?
+* Regardless... * Now that you're here?
+* Ah, the human...
+* Such a kind soul... until they met the Knights.
+* Then, something about them... must have made you angry.
+* Was it their foolhardy postering? The misplaced confidence?
+* Or were you just curious to see what would happen...
+* \\.\\.\\. if three became two, then one...
+* Were you satisfied? * Was it enough?
+* If they were alive, maybe they could've protected you. But now?
+* You should've gone all in, human.
+* Did you get lazy?
+* Oh, poor little monster... all alone!
+* There's less mouths to feed, at least.
+* Foolish human!
+* You were so close...
+* Inches away from eradicating them all!
+* But, alas... you missed one.
+* Did your conscience finally catch up to you?
+* Or did you just get bored?
+* Well, thanks to your little rampage...
+* You should've gone all in, human.
+* Did you get lazy?
+* Oh, poor ASGORE... all alone!
+* There's less mouths to feed, at least.
+* What perverted sentimentality!
+* You were so close...
+* Inches away from eradicating them all!
+* But, alas... you couldn't do it, could you?
+* You couldn't kill the old man... * Although...
+* In some ways, you gave him a fate worse than death.
+* But it's not psychological damage we're after.
+`#`* I t ' s   y o u r   `i`S O U L !
+* Corpse looter!
+* Apathetic freak...
+* Victim of passion!
+* Devourer of life itself!
+* MURDERER!
+* Interesting...
+* You carved your way through RUINED HOME...
+* And left a trail of dust in your wake.
+* I imagine you're quite proud of yourself!
+* But... now that you're here?
+* Oh, did they leave already?
+* Am I interrupting something?
+* You seem kinda... busy.
+* !! * What are YOU doing here?
+* None of your concern, plushie!
+* Now, tell your little entourage to back off!
+* Am I interrupting something?
+* \\.\\.\\. 再 来 一 次 ？
+* You AGAIN? * What exactly do you hope to accomplish?
+* I could ask you the same thing!
+* Now, tell your little entourage to back off!
+* Isn't this song and dance getting a little too old?
+* It's like rewatching a horror movie...
+* You already know the monster's going to pop out!
+* ...
+* See? You get it! * Now, scram!
+* Unless you're looking to pick a FIGHT...?
+* Unless you want me to get ASGORE...?
+* Grrh... ha.
+* Is this a joke? Are you having a chuckle?
+* Ha ha, very funny.
+* Lucky for you both, we're in a good mood.
+* We'll leave the human be, for now...
+* But sooner or later, they're bound to fall into our clutches.
+* We both know you won't always be watching over them, \"Flowey.\"
+* Grrh... ha.
+* You just can't leave it alone, can you?
+* Well, lucky for you both, we're in a good mood.
+* We'll leave the human be, for now...
+* But sooner or later, they're bound to fall into our clutches.
+* We both know you won't always be watching over them, \"Flowey.\"
+* ...Fine. Just remember, \"Flowey...\"
+* We both know you won't always be watching over this human.
+* Sooner or later, they're bound to fall into our clutches.
+* Well, that sure happened! * Now, then...
+* I guess an introduction is in order, huh?
+* Howdy! * I'm `cY`FLOWEY`c$`. * `cY`FLOWEY`c$` the `cY`FLOWER`c$`!
+* ...What? Don't you know how to greet a new pal?
+* But you already knew that, didn't you?
+* Seeing as that jerk had to go and spoil it...
+* Well, that's okay! * After all, I can tell you're just like me...
+* Pushing the world to its limit.
+* I mean, not to intrude...
+* But this doesn't seem to be your first time around the block.
+`#`* I'm guessing you weren't `i`particularly proud of `i`something you did.
+* Well, that's okay!
+* You recognize flaws in yourself and strive to improve!
+* With that said, I'm sure you don't need to be told, but...
+* Be careful about how you choose to use your powers, alright?
+* You've got a twisted dark side.
+* Or maybe a sick sense of humor.
+* I'll admit, sometimes I'm no better than those Temmies.
+* Part of me wants to see where this goes...
+`#`* A defender of the little `i`guy, ready to teach `i`some bullies a lesson!
+* Not everyone's going to chicken out like those Greasers, though.
+* It's kill or be killed, out there!
+* Think you can manage?
+* ...I guess we'll find out, huh?
+* Cute and considerate to a fault!
+* Though, while these qualities tend to get you far...
+* ...Sometimes, this world isn't so kind to people like us.
+* Those bullies from before are a shining example of that.
+* You'll meet a relentless killer...
+* \\.\\.\\. and your sweetness won't work.
+* What will you do then?
+* ...
+* Well, that's for you to figure out!
+* Someone with some complicated family issues!
+* Or maybe you're just stubborn.
+* But whatever the case is...
+* You should know that ASGORE...
+* He isn't the only relentless killer around here.
+* Curious, but not naive!
+* Or maybe you're just picky.
+* The kind of person that cuts the crust off bread...
+* And eats it separately.
+* What's that look for? Am I wrong...?
+* ...
+* Well, anyways!
+* Curious, but not naive!
+* Or maybe you're just picky.
+* The kind of person that plucks pepperoni off a pizza...
+* And eats them separately.
+* What's that look for? Am I wrong...?
+* ...
+* Well, anyways!
+* Ready to take on any challenge!
+`#`* Although, there might be `i`consequences to certain `i`monsters' deaths.
+* Like pulling on a loose thread on some clothing.
+* You keep pulling, you're just gonna have a soft, fluffy heap!
+* Willing to do whatever it takes to survive!
+* At least... that's what I hope you were trying to do?
+* Maybe you just like seeing numbers go up.
+* Or maybe...
+`#`* \\.\\.\\. you wanted to see `i`what would happen if you `i`stopped just short.
+* Of course, I can't read your mind!
+* Having a soft spot for family.
+* The rest of the UNDERGROUND's not going to be like RUINED HOME.
+* The monsters out there are made of tougher stuff.
+* Especially... * Well, you'll see!
+* Willing to do whatever it takes to survive!
+* Though, while this quality tends to get you far...
+`#`* ...Sometimes, it's `i`important to consider `i`what's really necessary.
+* For instance... Did any of those monsters really deserve to die?
+* And if you could go back and change that... would you?
+* ...
+* Well, that's for you to figure out!
+* Just know that if you ever need some help...
+* Your new pal, Flowey, knows a thing or two! * 嘿 嘿 嘿 。
+* 再 见 喽 ！
+`#`* 你 还 能 走 路 吗 ？ #* ... 啊 ,  这 就 好 。 跟 `i`我 来 吧 。
+* 欢 迎 来 到 「 遗 迹 之 家 」 ， 怪 物 文 明 的 旧 都 ！
+* 在 这 里 还 有 着 一 些 谜 题 尚 待 解 决 ， 而 且 ...
+* 好 吧 ， 为 什 么 我 不 直 接 展 示 给 你 看 看 呢 ？
+* ... 真 是 有 趣 。 * 有 时 候 我 都 忘 记 了 「 遗 迹 之 家 」 是 真 的 小 !
+* 好 吧 ， 上 了 岁 数 就 是 这 样 ， 嗯 ？
+* 好 了 ! 现 在 我 们 到 了 这 里 ...
+* 你 可 能 很 想 知 道 为 什 么 你 得 解 决 谜 题 才 能 通 过 这 里 。
+* 战 争 结 束 后 不 久 ， 我 们 设 置 了 这 些 谜 题 来 阻 止 人 类 入 侵 。
+`#`* 不 过 一 段 时 间 之 后 ， `i`这 些 谜 题 就 失 去 `i`他 们 原 本 存 在 的 意 义 了 ...
+* 不 过 现 在 它 们 已 经 融 入 了 我 们 的 生 活 了 ！
+* 解 决 谜 题 已 经 成 为 了 一 种 传 统 。
+* 所 以 ， 你 觉 得 怎 么 样 ？ * 让 我 们 试 试 吧 ！
+`#`* 怎 么 了 ， `i`孩 子 ？ #* 你 需 要 帮 助 吗 ？
+* 或 许 我 可 以 给 你 一 点 提 示 。
+* \"真 相 埋 没 谎 言 之 中 ， 火 眼 金 睛 此 关 方 通 。\"
+* \"冷 静 分 析 沉 着 思 考 ， 答 案 一 出 拍 案 叫 好 。\"
+* 我 天 ， 希 望 这 能 帮 到 你 ！
+`#`* 吼 吼 吼 ！ * 这 可 不 是 正 确 答 案 。
+* 来 吧 ， 我 来 给 你 演 示 正 确 的 答 案 。
+* 现 在 我 觉 得 这 个 谜 题 还 挺 让 人 困 惑 的 。
+* 不 过 你 在 后 面 遇 到 的 谜 题 会 越 来 越 庞 大 ...
+`@`* ... 你 得 做 好 准 备 。
+* 这 也 当 然 包 括 ... 阅 读 告 示 牌 。
+* 要 不 然 你 怎 么 知 道 该 去 做 什 么 呢 ？
+* 别 担 心 ！ * 我 们 的 时 间 还 很 充 裕 。
+* 我 建 议 你 在 之 后 多 去 读 一 些 告 示 牌 。
+* 这 样 你 就 不 会 错 过 那 些 重 要 的 信 息 了 ！
+* ...
+* 不 管 怎 样 ， 让 我 们 到 下 个 房 间 去 吧 。
+* 完 美 ！ * 我 为 你 自 豪 ， 孩 子 ！
+* 不 过 ， 这 还 是 个 很 简 单 的 测 试 。
+* 越 往 后 走 ， 谜 题 就 会 越 来 越 困 难 。
+* 不 过 ... 我 很 好 奇 。 * 你 解 决 这 个 谜 题 竟 然 如 此 轻 松 ...
+* 你 在 之 前 就 做 过 这 个 谜 题 吗 ...？
+* ...
+* 不 过 ， 我 猜 你 肯 定 有 什 么 窍 门 。
+* ...
+* 你 好 像 很 清 楚 自 己 在 做 什 么 。
+* 你 以 前 这 做 过 类 似 的 事 情 吗 ？
+* ...
+* 不 管 怎 样 ， 我 们 先 到 下 个 房 间 去 吧 。
+* 好 了 ， 现 在 这 个 会 比 刚 才 的 简 单 一 点 ！
+* 要 解 决 这 个 谜 题 ， 你 得 通 过 两 个 迷 宫 。
+* 只 要 拉 下 正 确 的 开 关 就 可 以 降 低 这 些 尖 刺 障 碍 。  
+* 拉 下 错 误 的 开 关 是 会 被 惩 罚 的 ， 所 以 你 要 小 心 ！
+* 这 些 尖 刺 是 橡 胶 做 的 ， 所 以 不 要 害 怕 ！
+* 这 个 谜 题 还 挺 简 单 的 。
+* 用 那 些 标 识 和 你 的 智 慧 解 决 这 个 谜 题 吧 ！
+* 来 吧 ， 加 油 ！ * 你 可 以 的 ！
+* 很 好 ！ * 就 剩 下 一 个 开 关 了 ， 加 油 ！
+* 吼 吼 吼 ！
+* 不 ， 人 类 ，你 不 该 按 下 那 个 开 关 的 。
+* 所 以 ， 我 必 须 惩 罚 你 ！
+* . . .
+* . . .
+* 这 是 时 间 的 惩 罚 ， 不 管 是 谁 都 会 被 惩 罚 的 。
+* 现 在 去 拉 下 正 确 的 开 关 吧 。
+* 你 做 的 很 棒 ！
+* 你 已 经 很 清 楚 这 些 谜 题 运 作 的 方 式 了 。
+* 不 过 在 后 面 还 有 更 加 困 难 的 障 碍 。
+* 到 下 个 房 间 里 我 再 给 你 解 释 。
+* 吼 吼 吼 ！ * 我 天 ，我 们 是 在 玩 什 么 游 戏 吗 ?
+* 不 过 ， 我 还 是 要 提 醒 你 慢 一 点 。
+* 转 的 我 快 头 晕 了 ！
+* 我 - 我 天 , 我 有 点 头 晕 了 ！
+* 人 类 ， 虽 然 说 我 很 喜 欢 和 你 一 起 转 来 转 去 ...
+* 但 我 得 叫 你 停 下 了 。
+* 或 许 我 们 可 以 过 会 再 玩 ？
+* 我 天 ！
+* 我 从 来 不 知 道 人 类 竟 然 能 从 开 关 中 找 到 这 么 大 的 乐 趣 !
+* 或 许 我 应 该 在 家 里 造 个 \"开 关 地 下 城\ " ？
+* 哦 ， 这 可 真 有 趣 啊 ， 人 类 ！
+* 我 知 道 你 在 找 乐 子 ， 但 我 们 还 有 事 要 做 ！
+* 等 你 准 备 好 ， 就 去 拉 下 正 确 的 开 关 吧 。
+* 啊 ， 我 们 到 了 ！
+* 这 扇 门 后 是 一 间 非 常 老 旧 的 训 练 室 。
+`#`* 因 为 你 是 「 地 下 世 界 」 `i`中 的 人 类 ， `i`所 以 怪 物 们 很 可 能 会 攻 击 你 。
+* 但 是 ， 请 别 误 会 ！
+* 这 里 的 大 多 数 怪 物 ... 还 是 很 痛 恨 人 类 的 。
+* 不 管 怎 样 ， 你 必 须 知 道 如 何 保 护 你 自 己 。
+* 需 要 我 来 教 教 你 吗 ， 孩 子 ？
+是
+否
+* 太 好 了 ！ * 那 就 来 吧 。
+* 好 的 ， 没 问 题 ！ 我 尊 重 你 的 决 定 。
+`@`* 你 是 一 个 \"酷 小 孩 ，\"`p1` 不 是 吗 ？
+* 那 么 你 就 没 必 要 在 这 里 浪 费 时 间 了 。
+* 你 ！！！
+* 什 么 ， 你 以 为 你 够 强 壮 ， 够 聪 明 ...
+* 甚 至 可 以 不 用 训 练 ？！
+* 我 从 未 这 样 ... 这 样 ...！
+* 被 侮 辱 。 * 被 侮 辱 ！ * 被 侮 辱 ！！！
+* 用 你 最 亮 的 笔 记 下 我 这 句 话 ， 人 类 ！
+* 我 们 现 在 是 ...
+* 死 对 头 了 ！！！！！！！！
+* ... 好 吧 ！ * 那 真 是 ... 在 意 料 之 外 ！
+* ...
+* 当 怪 物 攻 击 你 时 ， 你 就 会 进 入 「 战 斗 」 。
+* 在 这 里 ， 你 的 对 手 是 这 个 训 练 人 偶 ！
+* 你 准 备 好 了 就 去 靠 近 他 吧 。
+* 没 什 么 好 担 心 的 ！
+* 人 偶 不 会 被 任 何 事 打 扰 。
+* ... 大 概 吧 。
+* 哦 ， 我 亲 爱 的 。 * 你 很 紧 张 吗 ， 孩 子 ？
+* 没 事 的 ， 没 事 的 。 * 这 要 不 了 多 少 时 间 的 。
+* 你 就 把 这 想 象 成 ... 去 看 牙 医 就 好 了 ！
+* 是 的 ， 虽 然 很 吓 人 。 但 是 你 不 得 不 做 。
+* 额 ... 我 想 我 的 比 喻 好 像 没 什 么 帮 助 ...
+* . . .
+* . . .
+* 不 管 怎 么 说 ... * 这 个 战 斗 训 练 应 该 完 成 了 。
+* 在 我 们 继 续 走 之 前 ， 我 想 给 你 个 东 西 。
+`#`* `cY`日 志`c$` 被 加 入 进 你 的 `cY`重 要 物 品`c$` 之 中 。
+* 这 是 一 个 日 志 。 * 还 有 一 些 蜡 笔 ！
+* 你 可 以 用 这 些 写 下 任 何 你 想 写 的 东 西 。
+* 不 管 是 记 下 每 个 人 的 简 介 ， 笔 记 或 者 涂 鸦 ...
+* 我 相 信 你 会 做 的 很 好 的 。
+* 我 会 给 你 一 点 时 间 ， 我 会 先 走 在 前 头 。
+* 你 可 以 自 由 记 录 下 你 的 一 些 想 法 ， 或 者 休 息 一 会 儿 ！
+* 毕 竟 这 个 房 间 还 挺 安 静 的 。
+* 真 是 个 野 炊 或 者 开 茶 话 会 的 好 地 方 啊 ...
+* ... 呸 ， 我 又 开 始 说 胡 话 了 。
+* 不 管 怎 样 ， 人 类 ， 别 着 急 。
+* 吼 吼 吼 ！ * 哦 ， 你 看 那 里 ！
+* 这 是 一 碗 糖 果 ！
+* 嘿 ... 你 为 什 么 不 来 犒 劳 下 自 己 呢 ？
+* 毕 竟 这 是 你 应 得 的 ！
+* 嗯 ？ 怎 么 了 ， 孩 子 ？
+* 你 不 想 要 糖 吃 吗 ...？
+* 我 保 证 这 些 糖 真 的 很 好 吃 ！
+* 它 们 尝 起 来 一 点 也 不 像 甘 草 。
+* 你 确 定 吗 ， 孩 子 ？
+* 这 可 不 是 普 通 的 糖 果 ！ * 这 是 一 个 魔 法 物 品 。
+* 你 可 以 用 它 在 战 斗 之 中 治 疗 自 己 。
+`#`* 我 强 烈 建 议 你 `i`再 考 虑 一 下 ... #* 不 过 你 开 心 就 好 。
+* 好 了 ， 现 在 ...
+* 在 我 们 继 续 参 观 「 遗 迹 之 家 」 的 其 他 部 分 之 前 ...
+* 让 我 们 来 散 会 步 吧 。
+* 来 看 看 风 景 ， 聊 聊 天 吧 。
+* 走 吧 ， 孩 子 。
+* 啊 ， 你 闻 到 这 些 花 香 了 吗 ？
+* 我 知 道 这 好 像 没 什 么 大 不 了 的 。
+* 因 为 这 只 是 些 花 而 已 。
+* 但 是 ... 你 看 。 这 一 切 还 远 不 止 这 些 。
+* 尽 管 这 个 世 界 注 定 是 我 们 的 监 狱 ....
+* 他 们 把 我 们 封 闭 在 明 亮 的 天 空 和 歌 唱 的 鸟 儿 之 下 ...
+* 生 命 在 这 里 依 旧 顽 强 根 植 生 存 着 。 * 以 希 望 相 伴 。
+* 我 们 希 望 能 有 个 更 好 的 明 天 。 * 为 了 和 平 。 为 了 自 由 。
+* 这 么 长 时 间 都 过 去 了 ...
+* 那 些 糟 糕 的 事 情 好 像 已 经 过 去 很 久 了 ... 却 又 那 么 熟 悉 。
+* 我 一 直 致 力 于 让 这 些 怪 物 们 内 心 充 满 希 望 与 快 乐 。
+* 所 以 即 使 我 们 再 也 回 不 掉 地 面 了 ...
+* 至 少 我 们 还 有 一 个 可 以 称 之 为 家 的 地 方 。
+* 至 少 还 有 这 个 小 小 的 自 由 之 地 。这 个 只 属 于 我 们 的 世 界 。
+* 还 有 ... 它 也 大 概 属 于 你 ？
+* 我 有 个 朋 友 住 在 「 遗 迹 之 家 」 附 近 。
+* 他 十 分 快 活 ， 活 泼。
+* 有 时 ， 我 会 邀 请 他 进 来 ， 我 们 一 起 喝 茶 聊 天 。
+* 无 论 是 分 享 精 妙 的 谜 语 和 谜 题 想 法 ...
+* 讨 论 彼 此 日 常 生 活 ， 甚 至 是 天 气 ...
+* 额，虽 然 我 们 没 有 天 气 ...
+* 有 这 样 一 个 朋 友 真 的 太 好 了 。
+* 这 样 一 个 对 未 来 充 满 希 望 的 人 。 这 样 的 如 此 的 善 良 和 乐 观 。
+* 一 个 人 ， 即 使 周 围 一 切 看 起 来 都 十 分 黯 淡 ...
+* 依 旧 在 设 法 让 我 的 脸 上 露 出 笑 容 。
+* 也 许 ...... 我 可 以 介 绍 一 下 让 你 们 俩 认 识 ？
+* 生 活 变 得 艰 难 的 时 候 ， 有 个 朋 友 总 是 好 的 。
+* 你 知 道 ， 这 很 有 趣 。
+`#`* 作 为 「 遗 迹 之 家 」 中 的 `i` 圣 人 ， 我 还 得 去`i`认 识 那 么 多 的 怪 物 ...
+* 你 会 觉 得 我 认 识 这 里 的 每 个 人 。
+* 这 是 因 为 我 总 是 在 这 个 城 市 里 散 步 ...
+`#`* 我 尽 可 能 多 的 `i`和 人 打 招 呼 ， `i`尽 可 能 去 参 加 那 些 社 交 聚 会 。
+`#`* 但 是 有 些 `i`时 候 ... 我 会 看 见 `i`一 些 陌 生 的 面 孔 。
+* 可 是 其 中 的 一 个 就 像 ...
+* ... 不 ， 不 可 能 。 应 该 只 是 一 个 巧 合 。
+* 那 是 非 常 非 常 久 之 前 的 故 事 了 ... 甚 至 可 能 在 我 出 生 之 前 就 发 生 过 了 ！
+* 你 可 能 想 知 道 其 他 的 怪 物 是 什 么 样 子 的 。
+* 它 们 会 有 什 么 行 为， 它 们 长 得 怎 么 样 ...
+* 不 过 它 们 没 有 一 个 长 得 像 我 一 样 。
+* 「 地 底 世 界 」 里 各 种 各 样 的 怪 物 。
+* 蜘 蛛 ， 骷 髅 ， 史 莱 姆 ， 爬 行 生 物 ... * 甚 至 还 有 植 物 呢 ！
+* 蜘 蛛 ， 骷 髅 ， 史 莱 姆 ， 石 头 ... * 甚 至 还 有 植 物 呢 ！
+* 我 发 誓 我 之 前 还 见 过 一 个 金 花 怪 物 ！
+* 我 倒 是 想 知 道 它 们 有 多 少 个 ...？
+* 也 许 我 们 可 以 和 它 们 都 做 朋 友 ！
+* 啊 ... 我 现 在 真 想 喝 杯 茶 。
+* 这 里 的 植 物 是 多 么 美 丽 ， 多 么 的 生 机 勃 勃 啊 。
+* 这 里 真 让 人 感 到 平 静 和 放 松 。
+* 欣 赏 大 自 然 的 风 光 总 有 好 处 的 。
+* 而 且 我 最 喜 欢 的 茶 来 自 这 当 地 的 金 花 ！
+* 我 喜 欢 称 它 为 \"金 花 茶 。\"
+* 虽 然 ... 别 人 都 跟 我 说 我 起 名 很 没 有 创 意 ...
+* 但 我 觉 得 我 起 的 那 些 名 字 都 非 常 简 约 明 了 ！
+* 即 便 他 们 确 实 很 缺 乏 原 创 性 。
+* 或 许 等 我 们 找 个 时 候 可 以 一 起 喝 杯 茶 ？
+* 不 管 是 在 花 园 里 ， 还 是 在 壁 炉 边 ， 还 是 城 市 里 ...
+* 一 杯 好 茶 能 让 人 放 松 下 来 。
+* 你 要 知 道 ...
+* 每 当 这 种 时 候 ， 我 就 去 回 想 过 去 的 时 日 。
+* 就 像 当 你 想 到 花 的 时 候 ， 你 会 想 到 它 的 表 面 ...
+* 我 不 禁 回 想 起 我 小 时 候 那 些 淘 气 的 岁 月 。
+* 天 啊 ， 那 时 候 我 惹 了 一 身 的 麻 烦 。
+* 我 们 当 时 可 是 一 群 淘 气 鬼 呢 。
+* 探 索 世 界 ， 思 考 生 命 的 奥 秘 ...
+* 不 断 敢 于 探 索 没 有 感 去 的 地 方 。
+* 我 还 记 得 我 们 其 中 有 个 人 非 常 有 决 心 ...
+* ...但 那 都 是 过 去 的 事 情 了 。
+* 孩 子 ， 不 是 所 有 的 东 西 都 能 永 世 留 存 的 。
+* 天 哪 ， 我 们 已 经 走 到 这 个 走 廊 的 尽 头 了 吗 ？
+* 时 间 过 得 可 真 快 啊 。
+* 尤 其 是 像 我 这 种 上 了 年 纪 的 ， 吼 吼 吼 ！
+* 现 在 我 们 已 经 走 到 了 尽 头 ...
+* 而 你 一 直 表 现 的 都 很 好 ！
+* 到 目 前 为 止 一 切 都 十 分 顺 利 ！
+* ...好 — 好 吧 ， 除 了 那 个 人 偶 ， 不 过 ...
+* 我 相 信 你 已 经 了 解 了 「 遗 迹 之 家 」 的 基 本 情 况 了 。
+* 你 干 的 相 当 不 错 ， 人 类 。
+* 不 过 ... 我 还 是 想 提 醒 你 记 得 三 思 而 后 行 。
+* 我 们 不 想 伤 害 任 何 人 ...
+* 不 过 ... 你 确 实 证 明 了 你 的 能 力 。
+* 我 知 道 你 一 定 还 是 很 害 怕 。
+* 但 - 但 是 ， 嗯 ... 我 知 道 你 不 想 伤 害 任 何 人 。
+* 只 是 ... 以 后 要 记 得 多 加 小 心 。
+* ... 无 论 如 何 , 我 ... 假 设 你 已 经 证 明 了 你 的 能 力 。
+* 来 吧 ！ 让 我 们 到 我 家 去 。 也 许 你 能 帮 我
+* ( 铃 铃 铃 ， 铃 铃 铃 ...)
+* 谁 会 在 现 在 打 电 话 ？
+* 你 好 ！ 我 能 —
+* . . .
+* 哦 ， 天 哪 ！ 这 也 太 出 乎 意 料 了 ！
+* 我 马 上 就 来 解 决 。
+* ( 嗒 ...)
+* 我 很 抱 歉 ！ 有 个 紧 急 事 件 发 生 了 。
+`#`* 我 得 去 办 点 事 ， `i`所 以 你 得 一 个 人 待 一 会 了 。
+* ... 我 明 白 ， 我 明 白 。
+* 你 已 经 向 我 证 明 了 你 对 「 遗 迹 之 家 」 的 了 解 。
+* 然 而 ， 似 乎 有 人 一 直 在 制 造 骚 乱 ...
+* 它 在 用 大 声 且 愤 怒 的 尖 叫 扰 乱 着 怪 物 们 。
+* 我 相 信 你 ， 但 我 还 是 很 担 心 你 的 安 全 。
+* ...啊 ！ 我 还 有 一 部 `cY`电 话`c$` 。 拿 着 吧 。
+`#`* `cY`电 话`c$` 被 加 入 进 你 的 `i``cY`重 要 物 品`c$` 中 。 * 打 开 `cY`菜 单`c$` 以 使 用 。
+* 如 果 你 需 要 我 的 话 ， 尽 管 给 我 打 电 话 就 行 了 ！
+* 我 很 快 就 回 来 。 请 注 意 安 全 ， 孩 子 。
+* 这 有 好 多 东 西 还 需 要 消 化 。
+* 一 个 全 新 的 地 下 怪 物 世 界 。
+* 但 尽 管 如 此 ...
+`#`* 遗 迹 中 耸 立 的 高 墙 `i`让 我 充 满 了 `i``cY`决 心`c$` 。
+* (HP 完 全 恢 复 了 。)
+* 虽 然 我 对 前 方 有 着 未 知 的 恐 惧 ...
+* 但 这 些 花 的 香 味 使 我 充 满 `cY`决 心`c$` 。
+* 我 知 道 总 有 一 天 蛋 会 孵 化 。
+* 这 让 我 充 满 了 `cY`决 心`c$` 。
+* 奔 流 的 水 声 从 前 方 回 响 ，让 我 的 心 中 充 满 了  `cY`决 心`c$` 。
+* 我 从 头 到 脚 都 湿 透 了 ，然 而 ...
+* 从 前 面 传 来 的 可 怕 的 回 声 让 我 充 满 了 `cY`决 心`c$` 。
+* 追 逐 中 肾 上 腺 素 的 分 泌 ，还 有 滴 水 的 声 音 ...
+* 滴 水 的 声 音 ...
+* 让 我 充 满 了 `cY`决 心`c$` 。
+* 从 前 面 传 来 的 打 闹 声 让 我 心 中 充 满 了  `cY`决 心`c$` 。
+* 打 败 那 些 恶 霸 的 满 足 感 让 我 充 满 了 `cY`决 心`c$` 。
+* 前 面 人 群 的 声 音 让 我 充 满 了 `cY`决 心`c$` 。
+* 公 园 的 宁 静 让 我 充 满 了 `cY`决 心`c$` 。
+* 艾 斯 戈 尔 家 的 美 丽 让 我 充 满 了 `cY`决 心`c$` 。
+* 决  心 。
+遗 迹 之 家 - 入 口
+-遗 迹 之 家 -\n入 口
+遗 迹 之 家  - 试 炼 之 地
+-遗 迹 之 家 -\n 试 炼 之 地
+遗 迹 之 家  -孵 蛋 处
+-遗 迹 之 家 -\n孵 蛋 处
+遗 迹 之 家  - 桥 头
+-遗 迹 之 家 -\n桥 头
+遗 迹 之 家  - 下 水 道
+-遗 迹 之 家 -\n下 水 道
+遗 迹 之 家  - 下 水 道 出 口
+-遗 迹 之 家 -\n下 水 道 出 口
+遗 迹 之 家  - 艾 斯 戈 尔 的 家
+-遗 迹 之 家 -\n艾 斯 戈 尔 的 家
+遗 迹 之 家  - 古 城
+-遗 迹 之 家 -\n古 城
+遗 迹 之 家  - 古 城 广 场
+-遗 迹 之 家 -\n古 城 广 场
+* \"绚 烂 世 界 就 现 面 前 ，欺 骗 蒙 蔽 真 相 之 眼 。\ "
+* \"放 亮 双 眼 看 清 真 相 ，聪 颖 之 人 方 见 瑞 祥 。\ "
+* \"我 只 说 真 话 。\ "
+* \"为 了 过 关 ， 你 应 该 最 后 拉 下 我 。\"
+* \"你 要 小 心 ， 最 右 边 的 拉 杆 是 骗 子 。\"
+* \"我 是 骗 子 。\ "
+* \"为 了 过 关 ， 你 应 该 第 二 个 拉 下 我 。\ "
+* \"同 时 你 要 最 后 拉 下 最 右 边 的 拉 杆 。\ "
+* \"你 要 小 心 ， 最 左 边 和 最 右 边 的 拉 杆 都 是 骗 子 。\ "
+* \"我 只 说 真 话 。\ "
+* \"为 了 过 关 ， 你 要 先 拉 下 我 。\ "
+* \"你 要 小 心 ， 最 中 间 的 拉 杆 是 骗 子 。\ "
+* \"生 活 不 同 遵 旨 答 题 ， 人 生 真 相 常 披 糖 衣 。\ "
+* \"人 生 路 途 分 岔 繁 乱 ， 自 身 抉 择 千 万 千 万 。\ "
+* \"行 程 之 中 若 遇 迷 途 ， 望 向 四 周 便 见 出 路 。\ "
+* \"常 备 后 手 切 记 切 记 ， 多 有 计 划 自 免 分 歧 。\ "
+* \"按 下 [`$0`] 键 来 打 开 你 的 菜 单 。\"
+* \"「 遗 迹 之 家 」 困 难 无 断 ，谜 题 挑 战 便 在 眼 前 。\"
+* \"前 途 艰 险 谜 题 常 设 ，不 畏 苦 难 答 案 自 解 。\"
+* \"三 扇 门 后 三 间 天 地 , 天 地 之 中 谜 题 各 一 。\"
+* \"此 间 天 地 谜 题 已 来 ， 不 知 为 何 十 分 异 怪 \\。\"
+* \"金 花 鲜 艳 样 式 美 好 ， 而 我 独 喜 自 大 至 小 \\。\"
+* \"Remember to treasure those closest to you.\"
+* \"Especially those you see yourself reflected in.\"
+* \"In the end, you will keep each other on the right path.\"
+* \"提 示 ： 拉 下 红 色 开 关 以 重 置 谜 题 。\"
+* This plaque is semi-obscured by some vines. * I can read the other half...
+* \"...control bridge...\"
+* \"...cross chasm...\"
+* \"...start... bottom left...\"
+* \"...end... bottom right...\"
+* \"...diagonal order...\"
+* 起 不 了 多 大 帮 助 ...
+* \"拉 下 栏 杆 以 重 置 谜 题 。\"
+* \"Some solutions are very straightforward, and require but a push forward.\"
+* \"From left to right...\"
+* \"In order to avoid being last in life, you must first consider your options.\"
+* \"There are many paths available to you.\"
+* \"If your initial idea doesn't work out, consider secondary options.\"
+* \"If that doesn't work, then the third time's the charm\\!\"
+* \"Long ago, a legendary pirate sailed the Starlight Isles.\"
+* \"They say he buried his treasure to the west, on fertile green islands...\"
+`#`* \"With a trail of clues leading `i`from the top, to bottom, and `i`finally to the southeast.\"
+* \"Only by following them, one by one, can their secrets be unlocked.\"
+* \"Yar har har! Ye'll never find me precious treasure\\!\"
+* \"While it's true those clues point the way...\"
+* \"They be only HALF the puzzle\\!\"
+* \"Out abroad these oceans blue, at the opposite end of the earth...\"
+* \"Ye'd be flipped around and about trying to find yer way\\!\"
+* \"- The Pirate\"
+* It's an ancient monolith, inscribed with mystical runes.
+* ...Which has advertisements plastered all over it.
+* \"Witness an experience of drama, action, romance...\"
+* \"A performance to rock your world and steal your heart...\"
+`#`* \"For the very low price of `i`600G\\!\"`p1` * \"- MTC Productions\"
+* \"This area has been decreed the Human Capture Bridge.\"
+* \"Humans, beware\\!\"
+* \"Not even [`$0`] to `cY`slow down`c$` in `cY`FIGHTs`c$` will save you\\.\\.\\.\\!\"
+* \"- 遗 迹 骑 士 团 \"
+* \"This plaque certifies the puzzle gauntlet as 100% anti-human\\!\"
+* \"Not a singnle one should be able to breach these defenses.\"
+* ...
+* It seems they spelled \"single\" wrong.
+* \"You're almost there\\!\"`p1` * \"Stay determined\\!\"
+* \"Never fret, for the leaves shall catch your fall.\"
+* \"You mustn't order the rocks around\\!\"
+* \"They already have been, after all...\"
+* \"Long ago, a little monster came across a valley of flowers.\"
+* \"First, it smelled the roses in the middle.\"
+* \"Second, it admired the violets.\"
+* \"And third, it took a clover for good luck.\"
+* \"Use this switch to reset the puzzle.\"
+* \"Three contestants, top to bottom, enter a race.\"
+* \"Try as they might to win, however...\"
+* \"...Only one can make it to first place.\"
+* \"Note: the switch resets the puzzle.\"
+* \"One, two, three, four...\"
+* \"So many choices, yet so little...\"
+* \"Before you make a lasting decision, however...\"
+* \"Consider the one which precedes it.\"
+* \"Note: the switch resets the puzzle.\"
+* \"While the body exists in one realm, the spirit dwells in another.\"
+* \"But together, both make the same world.\"
+* \"A change in one shall affect the other.\"
+* \"Congratulations on completing the puzzle gauntlet\\!\"
+`#`* \"As a reward for `i`accomplishing this challenge, `i`you may have a piece of candy\\!\"
+`#``p1``i`\"- ASGORE\"
+* There's a piece of candy taped to the back of the sign.
+* I take it off the sign, but the tape is still stuck to the candy.
+* I decide to put it in my pocket anyway.
+* ...I don't have room for it.
+* \"Have you forgotten something behind\\?\"
+* \"If so, use this door to return to the start.\"
+* \"Howdy! If you're reading this...\"
+* \"It means you've stumbled into the sewer.\"
+* \"Please be careful\\!\"`p1` * \"Some of the pipes have sprung a leak...\"
+* \"Be on the look-out for dripping hot water\\!\"
+`#``p1``i`\"- ASGORE\"
+* \"Workers in the sewers always have to tend to water leaks.\"
+* \"Anything that leaks the most should be tended to first.\"
+* \"Whatever leaks the least is best saved for later.\"
+* \"Pull this lever to reset the puzzle.\"
+* \"Emergency door switch, for use in emergencies.\"
+* \"Please do not flip if there is no emergency.\"
+* 我 干 了 什 么 ...？
+* 这 是 一 碗 糖 果 。
+* 上 面 有 告 示 写 着 ： \"一 人 一 个 。\"
+* 我 应 该 拿 一 块 糖 吗 ？
+是
+否
+* 我 又 拿 了 一 块 糖 ...
+* 但 就 在 我 还 在 犹 豫 的 时 候 ， 我 不 小 心 把 碗 打 翻 了 。
+* ... 呃 啊 。
+* 哦 ， 我 亲 爱 的 。 * 没 事 的 ， 孩 子 ...
+* 就 是 我 也 难 以 抵 挡 美 食 的 诱 惑 。
+* 现 在 跟 上 来 吧 。
+* 我 带 了 太 多 的 物 品 了 。
+* 我 拿 了 一 块 怪 物 糖 果 。
+* 我 又 拿 了 一 块 怪 物 糖 果 。 * 我 感 觉 很 难 过 ...
+* 我 又 拿 了 一 块 怪 物 糖 果 。
+* 我 的 口 袋 沉 了 许 多 。
+* 选 的 好 ！ * 你 运 气 真 好 ， 这 块 糖 是 一 个 魔 法 物 品 。
+* 如 果 你 的 灵 魂 在 战 斗 中 受 伤 了 ...
+* 你 就 可 以 用 这 些 物 品 来 治 疗 你 在 战 斗 中 收 到 的 伤 害 。
+* 或 者 仅 仅 是 吃 点 它 休 息 一 下 ！ * 它 会 舒 缓 你 的 身 体 ， 思 想 甚 至 是 灵 魂 。
+* 我 决 定 还 是 不 拿 了 。
+* 你 确 定 吗 ， 孩 子 ？
+* 这 可 不 是 普 通 的 糖 果 ！ * 这 是 一 个 魔 法 物 品 。
+* 这 些 物 品 可 以 用  以 治 疗 你 在 战 斗 中 收 到 的 伤 害 。
+`#`* I strongly urge you to `i`reconsider... #* Though only if you wish.
+* There's a switch hidden in this broken pillar.
+* I press it and hear a click.
+* There's a switch hidden under this flower. * I press it.
+* I press it and hear a click.
+* This rock seems out of place...
+* Seems like someone was in a hurry.
+* WHOA there, pardner! * I'm not lookin' for trouble!
+* ...HMM? * You're just tryin' to do this puzzle?
+* Well, you ain't the first. * There was this feller before you...
+* ...But they didn't even finish the puzzle.
+* Just kept screamin' about how HARD it is.
+* They even knocked me on this button tryin' to get through!
+* HMM? * Want some advice, pumpkin?
+* Don't push people around.
+* Without asking, that is.
+* HMM? * Wonderin' why you're back here?
+* I guess you didn't take the right door.
+* Inside the treasure chest is a Pirate Gold.
+* I'm carrying too many items to take it.
+* I took the Pirate Gold.
+* It's an egg, nuzzled comfortably in its nest.
+* ... * On closer inspection, it's hard-boiled...
+* Abuse!
+* There's an old cowboy hat lying in the corner, all alone.
+* 我 要 带 走 吗 ？
+是
+否
+* I obtained the Cowboy Hat.
+* I'm carrying too much to take it.
+* See ya 'round, pardner.
+* (The basket has a few tiny sandwiches inside...)
+* ( 我 要 拿 一 个 吗 \\?)
+是
+否
+* (... 我 获 得 了 花 生 酱 三 明 治 。)
+* ( 我 没 有 足 够 的 空 间 。)
+* ( 也 不 一 定 。)
+* (... 我 要 再 拿 另 一 个 三 明 治 吗 \\？)
+是
+否
+* (... 我 获 得 了 黄 油 三 明 治 。)
+* ( 我 没 有 足 够 的 空 间 。)
+* ( 也 不 一 定 。)
+* ( 篮 子 里 只 剩 最 后 一 个 三 明 治 了 。)
+* (... 我 要 拿 走 吗 \\？)
+是
+否
+* (... 我 获 得 了 果 酱 三 明 治 。)
+* (I don't have enough room.)
+* (Perhaps not.)
+* (The basket is devoid of sandwiches.)
+* Somewhere near, I hear the sound of spikes receding.
+* Inside the treasure chest is a Puzzler's Proof.
+* I'm carrying too many items to take it.
+* I took the Puzzler's Proof.
+* Inside the treasure chest is 15G.
+* I took the 15G.
+* An old toy cap gun. * It might be useful to have.
+* Should I take it?
+是
+否
+* I obtained the Toy Gun.
+* I'm carrying too much to take it.
+* I don't need this.
+* (It's locked behind me.)
+* . . . * Is that... ketchup?
+* There's a note with messy handwriting.
+* It says... * \"`cR`Beware of Crossbones`c$`.\"
+* ...!? * There's a camera hidden in the bushes.
+艾 斯 戈 尔
+* ( 铃 铃 铃 ...)
+* ...
+* 没 信 号 。
+问 好
+关 于 你 自 己
+叫 他 \" 爸 爸\"
+调 情
+请 求 谜 题 帮 助
+叫 他 \" 圆 滚 滚 好 好 爸 爸\"
+遗 迹 骑 士 团
+捣 蛋 鬼 小 分 队
+呼 叫
+镁 格 丽 特
+* ( 铃 铃 铃...)
+* 你 好 ！
+* I'm not sure why you called me, since I'm in the living room.
+* I'm not sure why you called me, since I'm in the kitchen.
+* Feel free to take a seat on the couch if you'd like!
+* (Click...)
+* There's no need to call him. * He's sitting right there.
+* There's no need to call him. * He's standing right there.
+* ( 铃 铃 铃 ...)
+* 没 有 回 应 。 * 或 许 他 在 小 睡 吧 。
+* ( 铃 铃 铃 ...)
+* 没 有 回 应 。
+* ( 铃 铃 铃 ...)
+* . . . * 没 有 声 音 。
+* ( 铃 铃 铃 ...)
+* 你 好  ！ 你 现 在 还 好 吗 ， 孩 子 ？
+* 啊 ， 好 ， 很 好 。
+* 我 很 高 兴 能 听 到 这 些 。
+* 你 好 ！ I hope that RUINED HOME isn't giving you trouble.
+* I know that in the past, other children have-
+* . . .
+* ... 你 会 没 事 的 。
+* I have complete faith in you, young one.
+* Why, hello again!
+* My, you sure are calling quite a lot, aren't you?
+* ...Ah! * I see what the problem is.
+* Silly me, leaving you alone without much to preoccupy you.
+* Well, if you grow bored with the JOURNAL...
+* There is something else you have...
+* Your imagination!
+* Picture yourself as the leader of a flowery kingdom...
+* Having tea parties and giving jolly speeches!
+* I bet that would be fun.
+* Do you need anything, child?
+* ...Ah, just wanted to say hello again?
+* You sure are determined to keep greeting me.
+* I would love to talk more, but I DO have things I must be doing.
+* If you have any pressing matters, please call me again.
+* Remember, young one.
+* I am quite busy, so please only call for pressing matters.
+* (Click...)
+* ( 铃 铃 铃 ...)
+* 你好！
+* ... 呃 ， 关 于 我 自 己 ？
+* 关 于 我 自 己 其 实 没 什 么 好 说 的 。
+* I'm just an old man who likes to spend his time relaxing.
+* Taking care of the flowers, telling stories...
+* Enjoying cups of tea, holding conversation with the locals...
+* Why, even sharing useful life advice with others!
+* It is quite rewarding.
+* (Click...)
+* ( 铃 铃 铃 ...)
+* ... 嗯 ？
+* 等 一 下 ， 我 敢 打 包 票 你 刚 刚 叫 了 我 声 \" 爸 爸 。\"
+* ... 哦 ， 这 是 真 的 吗 ？
+* 已 经 好 久 没 人 这 么 叫 我 了 ...
+* 我 ... 想 如 果 你 自 己 都 不 介 意 的 话 ， 那 就 随 你 叫 吧 。
+* ( 嗒 ...)
+* ( 铃 铃 铃 ...)
+* Ermh... did... did I hear that correctly?
+* 我 天 ， 这 也 名 字 真 可 爱 ！ * 我 还 真 有 点 始 料 未 及 呢 。
+* You will find I am far too old for you, child.
+* Perhaps you may find love where least expected?
+* My, you sure are determined.
+* I'm... not sure how to respond, frankly!
+* You could do much better than a kooky old man like me.
+* You have your whole life ahead of you!
+* Now, I know I gave you permission to call me \"Dad.\"
+* And calling me \"Daddy\" is perfectly within reason!
+* But... why did you do it so suggestively, young one?
+* I don't know whether to laugh or feel disturbed.
+* (Click...)
+* ( 铃 铃 铃 ...)
+* 哦 吼 吼 ！ 你 需 要 谜 题 的 帮 助 吗 ？
+* 好 吧 ， 让 我 们 来 看 看 ...
+* ...
+* Do you see all of the pillars, young one?
+* They're all in such good shape! * Except for one...
+* I wonder why that must be...?
+* I would recommend inspecting it.
+* Golly, what lovely flowers!
+* Perhaps you should inspect them closer...
+* And in a particular order, too!
+* ...Hm? There are rocks on the switches...?
+* Well, then! * At least that should make things easier.
+* I would highly recommend reflecting on this matter.
+* And do remember to take the right path!
+* Oh? * There are vines covering the hints?
+* My sincerest apologies, young one.
+* To make it up for you...
+* Start with the bottom left switch, and move diagonally.
+* At the end, be sure to stop with the bottom right switch!
+* Well, this should be easy!
+* Simply push the rocks onto the pressure plates.
+* Then, you shall succeed!
+* Hm... perhaps there is a solution to this riddle?
+* An order of the switches, even?
+* Look for any keywords that may indicate a sequence!
+* Hm... that pirate sure is a crafty fellow!
+* Firstly: all switches must be flipped.
+* Look for key words which indicate the order...
+* And remember to try flipping your perspective!
+* Oh, this should be an easy one!
+* It's less of a puzzle, and more of a lesson.
+* What comes down must come up!
+* Ah, this is a tricky one.
+* I must admit, I tend to have trouble with it!
+* If the leaves are meant to catch your fall...
+* How come there are spots without any?
+* Do you see the colors of the switches, young one?
+* Perhaps they correspond to certain flowers...
+* You haven't ordered the rocks around, have you?
+* They're already in order, so there's no need to do that!
+* Look where they're placed, though...
+* ...Well, only one contestant may come in first, correct?
+* Think about that!
+* Remember, human. * If you keep having trouble...
+* The third time's the charm!
+* Ah... quite a difficult puzzle, indeed.
+* My advice would be to observe your surroundings.
+* Take note of certain shapes, and changes to the rooms...
+* 我 相 信 你 可 以 做 到 的 ！
+* ... 等 一 下 。 * 你 所 描 述 的 这 个 房 间 ...
+* 哦 ， 傻 孩 子 ！ * 这 里 可 不 是 谜 题 房 间 ！
+* Unless you consider the mystery of life to be a puzzle, hoho!
+* ...Hm?
+* Oh, human! * That isn't a puzzle, either.
+* Ho ho, I do enjoy a good jape now and again.
+* But please, call in case you get stuck on a puzzle.
+* Alright?
+* Now, now. I am quite busy right now, little one.
+* When there is a puzzle, I shall give you a hint...
+* ...But please, only when there is a puzzle.
+* (Click...)
+* ( 铃 铃 铃 ...)
+* ...
+* My, have I really gained that much weight over the years?
+* ...Perhaps I should consider more dietary options.
+* (Click...)
+* ( 铃 铃 铃 ...)
+* Oh, goodness! * The Knights attacked you?
+* I'm... terribly sorry, human.
+* I shouldn't have left you by yourself.
+* A-are you okay? * How did you fare against...
+* . . .
+* O-oh. That... erm...
+* . . .
+* A-ah! I must attend to something. * 原 谅 我 吧 。
+* ...Oh! * You were able to talk things out?
+* Why, that's a relief! * However...
+* I will have a stern talking-to with them later.
+* After all, you haven't hurt a fly!
+* ...Have you?
+* (Click...)
+* ( 铃 铃 铃 ...)
+* Those hooligans?! * Again?!
+* ...Well, that settles it.
+* It seems I must pay Aaxel's mother yet another visit.
+* At least she enjoys my tea...
+* (Click...)
+* ( 铃 铃 铃 ...)
+* Mettacrit brought you onto his show? * How wonderful!
+* You know, I remember when he first started out.
+* He was so nervous... but his passion shined through all the same.
+* I wanted him to feel happy being who he wanted to be.
+* So, I decided to surprise him with those gloves and bow!
+* Ever since, this city has felt a little more alive, with him around.
+* (Click...)
+* ( 铃 铃 铃 ， 铃 铃 铃 ...)
+`#`* Howdy! I hope that `i`RUINED HOME isn't `i`giving you much trouble.
+* ...Ah, really?
+* My, I'm quite impressed!
+* After all, you've reached the puzzle gauntlet's midpoint.
+* I am very impressed with you, young one.
+* Now, this brings me to what I wished to call you for.
+* I have quelled the panic amongst the city residents.
+* And since I have more time to myself, I wondered...
+* How about a little treat to commemorate today's events?
+* Now, I won't say WHAT this treat will be, but...
+* Do you prefer cinnamon or butterscotch?
+Cinnamon
+Bscotch
+* Wonderful! In that case, I will-
+* Would you happen to prefer cinnamon?
+* Would you happen to prefer butterscotch?
+是
+否
+* 吼 吼 吼 ！ * My suspicions are confirmed.
+* Ah, my apologies. * I assumed that...
+* 呼 呣 ， 有 趣 。
+* It's quite odd. * Whenever a human has fallen...
+* I have the strangest sense of deja vu...
+* Almost as if I know them already.
+`#`* Perhaps... I'm just `i`being reminded of `i`someone from the past...
+* ...or perhaps it's just my old age getting the better of me.
+* But, thank you for being so patient.
+* Hm. Now, what am I forgetting...?
+* ...Oh, yes! Is there anything you're allergic to, human?
+* Ah, I see. * I just wanted to make sure.
+* (Click.)
+* ( 铃 铃 铃 ， 铃 铃 铃 ...)
+* Howdy again, human!
+* I'm calling because, erhm...
+* There MIGHT be some slight complications with your treat.
+* Nothing too drastic to worry about, however!
+* I'm sure you will still enjoy it after today's journey.
+* Now, where would you happen to be, if I may ask?
+* ...Ah! You've finished the puzzle gauntlet!
+* Ahead lies a bridge that leads to The City of Old.
+* It crosses over the sewers and water canals of RUINED HOME.
+`#`* Now, while it may be `i`a tad bit rickety, `i`there's nothing to fear.
+* I always make sure that bridge is tended to and maintained.
+* I will see you ahead.
+* (Click.)
+* ( 铃 铃 铃 ， 铃 铃 铃 ...)
+* Howdy, human!
+* At this point, I'm sure you're exploring The City of Old.
+* Now, don't go rushing ahead to meet me. * Take your time!
+* There's a lot to explore, and so many monsters to talk to!
+* Plus, you may learn something new through repeat conversation.
+* Just make sure you save room in your pockets!
+* Who knows what little trinkets you'll find?
+* (Click.)
+* ( 铃 铃 铃 ， 铃 铃 铃 ...)
+* Howdy! This is ASGORE.
+* I'm terribly sorry for taking so long! * You see...
+* On my way, I may have... gotten confused with a puzzle solution.
+* If, by chance, you're still in that hallway...
+* You may wish to go ahead, as I will take a while.
+* Don't you worry! * Sooner or later, we're bound to cross paths.
+* Until then!
+* Howdy! This is ASGORE, again.
+* I reached the CITY, and I'm currently talking with its residents.
+* From what they've said, it appears the one who caused such a fuss...
+* Was actually that training dummy, from before!
+* ( 叹 息 ...)`p1` * I do hope they cause no more trouble for you.
+* They're already on my \"naughty list\" for this!
+* ASGORE here!
+* There's been no more signs of that training dummy around the CITY.
+* Perhaps they left...?
+* With any luck, they shouldn't be an issue.
+* Just make sure you-
+* (SNATCH\\!)
+* H-hey! You! * What are you doing?!
+* Come back here with my CELL PHONE, please!
+* (...)`p1` * (It sounds like somebody running away.)
+* Now, now! There's no need to run!
+* If you need to borrow my phone, you can just ask!
+* ... * T-there, thank you for stopping... (pant, pant)
+* Now, if you could just return my-
+* (ZOOM\\!)
+* N-no, come back!
+* Golly, I'm not prepared for this workout...!
+* (...)`p1` * (I hear a distant voice.)
+* Hello...? Are you out there?
+* Please, I'm not upset with you! I just want my CELL PHONE back.
+* You don't need to hide...
+* (...)
+* (....)
+* (......)
+* (...............)
+* Put some pep in your step`@`. ;)
+* 哦 ， 谢 天 谢 地 ！ * 你 在 这 里 ， 孩 子 ！
+* The most peculiar thing just happened to me...
+* I was talking to you, when suddenly, my CELL PHONE was stolen!
+* Unfortunately, I lost track of the thief. * But...
+* After some searching, I came across a... nest, of sorts.
+* . . .
+* I... don't want to talk about it.
+* (Click.)
+* (Dialing...)
+* (...)
+* (There's some kind of interference.)
+* ( 铃 铃 铃 ， 铃 铃 铃 ...)
+* 艾 斯 戈 尔 在 这 里 ！
+* I apologize if you were unable to contact me.
+* The most peculiar thing just happened to me...
+* I was talking to you, when suddenly, my CELL PHONE was stolen!
+* Unfortunately, I lost track of the thief. * But...
+* Now that I have retrieved it, you may call me again.
+* (Click.)
+* 呱 呱 ， 呱 呱 。 * ( 你 好 ， 人 类 `@`。)
+`#`* ( 我 对 刚 刚 发 生 的 事 表 示 `i`感 谢 `@`。)
+* ( 并 不 是 所 有 的 人 类 都 和 你 一 样 慈 善 的 `@`。)
+* (\"永 远 要 对 他 人 报 以 同 情 与 仁 慈 `@`。\")
+* ( 这 是 艾 斯 戈 尔 教 导 我 们 时 所 说 的 `@`。)
+* 呱 呱 。
+* 呱 呱 ， 呱 呱 。 * ( 啊 ， 你 遇 见 骑 士 团 了 `@`？)
+`#`* ( 这 很 正 常 。 他 们 `i`总 是 在 追 猎 人 类 `@`。)
+* ( 你 应 该 能 想  到 ， 这 正 是 艾 斯 戈 尔 所 不 满 意 的 地 方`@`。)
+* (They're not even real knights! They have no authority whatsoever`@`.)
+* (But at least they try to keep the peace around RUINED HOME`@`.)
+* (...Emphasis on \"try`@`.\")
+* 呱 呱 。
+* 呱 呱 ， 呱 呱 。 * ( 再 次 向 你 问 好 ， 人 类 `@`。)
+`#`* (After our earlier `i`conversation, I was `i`reminded`@`...)
+* (Do keep an eye out for the Knights, will you`@`?)
+* 呱 呱 。
+* 呱 呱 ， 呱 呱 。 * (Ah, human. It's you`@`.)
+* (No hard feelings about what happened earlier`@`.)
+* (I completely understand your surprise`@`.)
+* (After all, you couldn't have predicted me jumping towards you`@`.)
+* (\"Always make sure to put yourself in another person's shoes.\")
+* (That's something ASGORE has taught us.)
+* 呱 呱 。
+* 呱 呱 ， 呱 呱 。
+* (Well, if it doesn't belong to you`@`...)
+* (I'm sure they won't mind if you take some\\.)`p1` * 呱 呱 。
+* 呱 呱 ， 呱 呱 。
+* ( 看 起 来 某 人 好 像 放 弃 了 他 的 野 餐 `@`。)
+* ( 这 是 你 的 了 。 大 概 吧 \\？)`p1` * 呱 呱 。
+* ... 哈 啊 ？？ \“ 幸 运 星 \\？\”
+* Actually, now that you mention it...
+* Something like that washed down here!
+* I thought it was neat, but if it belongs to someone else...
+* (I got the Lucky Star.)
+* I'm sorry for the trouble!
+* T-the noises are gone??
+* I think s-something really bad happened over there!
+* D-do you hear those noises from ahead?
+* I think it m-might be a sewer monster!
+* ...Huh?? * You want to GO that way?
+* I guess you can if you want...
+* B-but don't tell the monster that I'm here!
+* Oh hey, it worked? Sani-tacular!
+* ... Just, uh, let me know when you wanna use it again.
+* Need another ride?
+是
+否
+* Doo dee doo, da-dabadee-doh...
+* Oh! Well, howdy there. * I'm just working on this transporter pipe.
+* (With how much this place is falling apart, a quick exit is good to have.)
+* ... * What's that look for?
+* Anyhow! You wanna give it a test drive?
+* It'll take you straight to the ladder by the city.
+* Fair warning, it's a `cY`one-way trip`c$`.
+是
+否
+* You sure? You don't look like you want to...
+* Remember, it's a `cY`one-way trip`c$`.
+是
+不 ！！！
+* Al-riiight! Hop on in, kid!
+* So be it.
+* Be careful about that... s-sewer monster.
+* Al-riiight! Hop on in, kid!
+* Y'sure? Well, it's your choice.
+* Be careful about that... s-sewer monster.
+* Anyways, keep looking around. I'm sure you'll find it.
+* \"Lucky Star\\?\" * I haven't seen one of those around...
+* Although, I think someone down here likes collecting little trinkets that wash up.
+* Something about one's treasure being another's trash, or something...?
+* What? You're saying it's possessed and was chasing after you?
+* ...Pssht. Typical ghost story.
+* Sometimes, as a sewer-dweller, you see the strangest things.
+* I just saw a training dummy fly through the air!
+* Someone must've tossed it over the bridge, and the air caught it just right.
+* Perhaps there's someone else, down here...?
+* \"Lucky Star\\?\"`p1` ...Ah, yes, I think I've seen something like that.
+* It was floating through the water here, earlier.
+`#`* I don't touch the stuff... and `i`I believe that plumber fellow `i`was too busy to notice it.
+* Who does that leave...?
+* It's always the moss that seals the deal. Always!
+* A lot of monsters prefer the city, but there's TONS of benefits to this dank sewer!
+* For one thing: TOTAL peace and quiet. Plus, everyone knows each other!
+* But the best part? * All-you-can-eat moss!
+目 录
+怪 物
+怪 物
+收 藏
+收 藏
+任 务
+任 务
+[X / SHIFT]\n退 出
+[`$0`]\n退 出
+[X / SHIFT]\n返 回
+[`$0`]\n返 回
+\"`$0`\"
+C/CTRL
+你 好 ！ 你 知 道\n你 可 以 随 时\n按 [`$0`]\n来 退 出\n日 志 吗 ？\n快 试 试 吧 ！\n   - 艾 斯 戈 尔
+状 态 : 存 活
+状 态 : `$0`
+状 态 :  已 饶 恕
+已 灭 绝 。
+已 杀 死 。
+状 态 : 见 过
+状 态 : 已 饶 恕\n          `$0` 次
+状 态 : 已 杀 死\n          `$1` 次 
+状 态 : 已 饶 恕\n          `$0` 次 ,\n  已 杀 死 `$1` 次 
+我 还 不 是\n很 了 解\n这 个 怪 物。\n\n`~`
+艾 斯 戈 尔
+艾 斯 戈 尔
+一 个 住 在 遗 迹\n的 年 迈 怪 物\n， 保 护 着 我 的\n安 全。\n\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 80 防 御 80
+愉 快
+提 米
+提 米
+一 个 想 杀 死 \n我 的 不 猫 不 狗 的\n生 物 。\n\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 ？？ 防 御 ？？
+令 人 后 怕
+愤 怒 假 人
+愤 怒 假 人
+一 个 仇 视 我 的\n假 人 。\n\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 ？？ 防 御 ？？-
+竞 争\n关 系 ？
+Guitar??
+蛙 吉 特
+蛙 吉 特
+生 活 对 于\n\n这 只 长 得 像\n青 蛙 的 怪 物\n来 说 很 是 艰 难 。\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 4 防 御 5
+忧 郁 虫 虫
+忧 郁 虫 虫
+这 个 怪 物\n似 乎\n非 常 害 怕\n战 斗 。\n\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 5 防 御 0
+卢 克 眼
+卢 克 眼
+我 几 乎 能\n感 觉 到 这 个 怪 物 的\n锐 利 的 目 光 。\n\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 5 防 御 6
+蔬 菜 兽
+蔬 菜 兽
+高 纤 维 ，\n本 地 产 。\n\n`~`
+攻 击 ?? 防 御 ??
+攻 击 6 防 御 6
+Migosp
+MIGOSP
+是个唯唯诺诺的\n怪物， 可能是因为\n糟糕的\n成长环境。\n\n`~`
+攻 击 ?? 防 御 ??
+攻 击 5 防 御 5
+小膜怪
+小膜怪
+即使有着曲线美, \n但不因此骄傲。\n\n`~`
+攻 击 ?? 防 御 ??
+攻 击 6 防 御 0
+八 卦 玫 瑰
+八 卦 玫 瑰
+这 朵 花\n充 满 了 傲 慢 ，\n洋 溢 着\n美 丽 。\n\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 5 防 御 7
+假小子
+假小子
+她很喜欢\n飙车，\n因为可以\n逃避责任。\n\n`~`
+攻 击 ?? 防 御 ??
+攻 击 6 防 御 4
+遗 迹 骑 士 团
+遗 迹 骑 士 团
+Karapaes, Scutler,\n和 Ballard: 一 帮\n自 以 为 是 的 \n乌 合 之 众\n罢 了。\n\n`~`
+捣 蛋 鬼 小 分 队
+捣 蛋 鬼 小 分 队
+Aaxel, Norman,\n和 Moldrick: 古 城\n的 一 帮\n小 混 混 。\n\n`~`
+\n 吓 跑 了
+镁 格 丽 特
+镁 格 丽 特
+一位著名的\n幽灵演员，\n深受\n古城怪物们\n的喜爱，\n\n`~`
+攻 击 ？？ 防 御 ？？
+攻 击 12 防 御 12
+饱 受 欢 迎
+汉 堡 裤
+汉 堡 裤
+一个能说会道，\n努力工作，\n有着理想和抱负\n的快递员小哥。\n\n`~`
+玩 世 不 恭
+小花
+小花
+一朵友善的\n小花\n似乎有很多要说的。\n\n`~`
+攻击 ?? 防御 ??
+新朋友?
+???
+Crossbones C.
+无名小卒 : 阶段1
+???
+已完成！
+进度: `$0` / `$1`
+清 理 旧 报 纸
+清 理 旧 报 纸
+报社真是\n一团糟！我要\n把垃圾倒出去。\n\n报酬：14金钱
+找寻钱包
+找寻钱包
+一位可爱的老\n太太丢了钱包，\n我需要帮她找回钱包。\n\n报酬：曲奇
+填字游戏
+填字游戏
+一位老人做填字游戏时需要别人帮忙。\n\n报酬: 5G
+A Drop to Drink
+A DROP TO DRINK
+在花店里发现了一株看起来需要浇水的植物I found a plant\nin the flower shop\nthat looked like\nit could use\nsome water.\n\n
+奖励: ？？？
+奖励: 5G？
+明星之力
+明星之力
+有人失去了他们的幸运星。我不得不在下水道里找它Someone lost\ntheir lucky star.\nI have to search\nthe sewers to\nfind it.\n\nReward: 9G
+* AHA! * We meet again, KILLER.
+* Do you remember me?
+* Because I haven't forgotten about what you've done to me.
+* Or what you've done to all those MONSTERS, back there!
+* Drawing ASGORE away from you was clearly a mistake.
+* All it took was stirring up trouble in the city...
+* And he left you all alone.
+* Regardless. * Regardless! * REGARDLESS!!!
+* AHA! * We meet again, BRAT.
+* Do you remember me?
+* Because I haven't forgotten about what you've done to me.
+* Oh, if only ASGORE was here to protect you!
+* Ahahaha... I made sure that wouldn't happen.
+* All it took was stirring up trouble in the city...
+* And he left you ALL ALONE!
+* Perfect. * Perfect! * PERFECT!!!
+* I FINALLY HAVE YOU WHERE I WANT YOU!!!
+* WELL. * I... didn't think that through.
+* ...
+* BUT NOW! THERE'S! NOWHERE TO RUN!!
+* AHAHAHAHAHA!!!
+AHAHAHAHA!!
+FUTILE!
+USELESS!
+* 不 不 不 不 ！！！ * 你  要  去  哪  里 ？！？！
+* This... THIS ISN'T THE LAST YOU'LL SEE OF ME!!
+* I WILL FOLLOW YOU TO THE ENDS OF THE EARTH!!!
+* I WILL SEARCH EVERY NOOK AND CRANNY!!!
+* I WILL REMAIN AWAKE PAST MY CURFEW!!!
+* UNTIL I FINALLY HAVE MY REVENGE!!!
+HOLD ON JUST A MOMENT!!!
+WHAT?? THAT'S IT???
+WITH A CLIFFHANGER LIKE -THAT\\?-
+`#`YOU CAN'T JUST #BUILD UP SO MUCH #DRAMATIC TENSION...
+AND THEN LEAVE IT THERE!!!
+* eh, i dunno, bro. i think that was a fitting end.
+YES, BECAUSE YOU HAD THE SPOTLIGHT.
+* and?
+`@`\"AND?\"`p1` WHAT ABOUT ME?
+`#`I'M SURE PEOPLE #WERE EXPECTING ME #TO APPEAR THERE!
+WON'T THE FANS BE DISAPPOINTED?
+* probably. i mean, you ARE the coolest.
+* but, hey, think of it this way.
+* now that all of this tension's been built up...
+* when your big moment comes? it'll be even cooler.
+* and TOTALLY worth the wait.
+OH MY GOD??? YOU'RE A GENIUS, SANS!
+* aw, come on, bro. i'm blushing over here.
+WHEN EVERYTHING IS FINALLY READY,
+HOWEVER LONG THAT MIGHT TAKE...
+IN THE END, IT'LL HAVE BEEN WORTH THE WAIT!!!
+BECAUSE I, THE GREAT PAPYRUS,
+WILL FINALLY HAVE MY TIME TO SHINE!!!
+* pretty much. just gotta hope the fans can be patient.
+* stuff takes time, y'know?
+* and even though the wait's gonna suck...
+* ...they'll LOVE what we got in store for them.
+NYEH HEH HEH!! AS MY GOOD FRIEND WOULD SAY...
+`@`\"STAY DETERMINED,\"`p1` EVERYBODY!!!
+* huh? who're you talkin' to, bro?
+OH, JUST THE FOURTH WALL!!!
+* 酷 。
+* ( 进 入 下 水 道 吗 \\？)
+是
+否
+* (Sit on the bench\\?)
+是
+否
+* It's a generic trash can. * Nothing of interest here.
+* Inside this trash can...
+* ...is trash. What a surprise.
+* There's a colony of trash living inside this can.
+* I best not disturb them.
+* Trash... * More trash...
+* Oh! And even more trash!
+* Shockingly, this trash can actually holds cleaning supplies.
+* There's a burger in this trash can. Take it?
+Yes
+No
+* I'm carrying too many items to take it.
+* ...I got the Grillburger.
+* Thank goodness.
+* It's empty.
+* Well, let's see here...
+* There's a burger in this trash can!
+* Should I... take it?
+Yes
+No
+* I'm carrying too many items to take it.
+* Well... I got the Grillburger.
+* Thank goodness.
+* It's empty now.
+* No more garbage-dwelling for me, it seems.
+* It's locked.
+* I jiggle the doorknob to no avail. It's locked.
+* As it turns out, this door is locked.
+* Locked... * How disappointing.
+* It's locked. I wonder what secrets lie beyond it...
+* ...A well-furnished living room, perhaps?
+* Locked.
+* Let me in.
+* I don't bite.
+* (Nothing of interest.)
+`@`* (?!?!)
+* (There's a treehouse up there\\!)
+* \"Welcome to Grillby's, the UNDERGROUND's top place for tasty food\\!\"
+* \"Our family-friendly establishment caters to monsters of all ages\\!\"
+* \"Note: no longer serving angry dummies.\"
+* The door is barricaded. * I think I see something moving...?
+* Perhaps it was just my imagination.
+* I spent my GOLD on the last milkshake...
+* And this guy just spills it! * Some people are just ungrateful...
+* Kid, when someone goes outta their way to be kind...
+* Don't spill your shake!
+* \"SPILLED MY SHAKE\\?\"`p1` * I DID NOTHING OF THE SORT, FILTHY SIMPLE-MINDER!
+* I MERELY... EXPRESSED MYSELF THROUGH ART!
+* ...BEGONE THIS INSTANT!
+* \"FULL OF IT\\?\"`p1` * I AM NOTHING OF THE SORT, FILTHY SIMPLE-MINDER!
+* I MERELY... * ...
+* ...BEGONE THIS INSTANT!
+* What a waste.
+* ...I hope nobody cried over this.
+* (The urge to scream... it fills me with determination.)
+* (He's fast asleep.)
+* \"Come and see The City of Old's shining star, Mettacrit\\!\"
+* \"Performances take place in the town square\\!\" * \"- MTC Productions\"
+* Greetings again, human...!
+* Since our battle, we have taken this time to bond...!
+* The Ruined Knights have never been stronger...!
+* Our brotherhood is ABSOLUTE...!
+* Tougher than STEEL...!
+* More righteous than... RIGHTEOUSNESS...!
+* ...Hey, human. * ...Thanks again for helping us out.
+* ...It's really nice knowing my friends care about me.
+* ...We should all hang out sometime.
+* ...Never give up, human.
+* ...You're strong and capable enough to get past any obstacle.
+* Aha~! Our human friend, here again~!
+* Perhaps we could throw a ball~!
+* It would be fun for ALL~!
+* Aha~! How about a cup of tea~!
+* That sounds grand to me~!
+* (It's a lovely picnic basket, filled with assorted finger foods.)
+* Where are the Ruined Knights...?
+* I've gone all around town, but I can't find them anywhere...
+* The Knights helped me feel a lot better about myself...
+* I'm usually really scared of a lot of things...
+* I hope they're okay...
+* Awh, your blush looks adorable! What products do you use?
+* I'm trying to go for a puffy, carnation look this season.
+* Wait, is that your face actually blushing?
+* Aw, it's okay! I get embarrassed too, sometimes.
+* She couldn't have fallen into any of the traps...
+* ASGORE altered those ages ago.
+* Oh, Syrose... please come home!
+* Where could she be! My darling Syrose!
+* Have you seen her around, little one?
+* She's been on a rebellious streak lately, but... she's always home around now.
+* Oh dear... I hope my Syrose comes back soon.
+* (Wiggle, wiggle...)
+* (It seems Moldrick is thankful for my intervention.)
+* (It seems Moldrick has changed his ways.)
+* (We share a brief wiggle of respect.)
+* Boy do I Love   blocking the Way.
+* ...Oh, hello there.
+* Are you trying to get inside this building?
+* Why's that? * Hoping to poke around?
+* Maybe take a thing or two?
+* Well, if that's the case, then BUZZ OFF!!!
+* ...O-oh, you weren't going to do that?
+* I'm terribly sorry.
+* Though, you couldn't get into this place anyways.
+* I'm a~all locked up~...!
+* Oh, dearie me... * Why are some people so rude?
+* I just want to talk, but they skip over my words with [`$0`]!
+* (Sigh)........... Just skipping my words with [`$0`]......
+* Oh, dear. Not you too! * Listen to people when they're talking!
+* At least you didn't ignore me, dear. * You're such a patient child!
+* (I got the Dog Cookie\\!)
+* (I don't have room for the Dog Cookie...)
+* Thank you again, dearie! I hope you enjoy your cookie!
+* Hello again, dearie! What can I help you with?
+* ...Oh? You'd like another cookie, would you?
+* Well... I suppose it's okay! You did help me, after all.
+* (I got another Dog Cookie\\!)
+* (I don't have room for the Dog Cookie...)
+* Thank you again, dearie! I hope you enjoy your cookie!
+* What's that, dearie? * You'd like yet another cookie?
+* Well, okay... just know that this is the last one of the batch!
+* (I have achieved full Dog Cookie.)
+* (I don't have room for the Dog Cookie...)
+* Make sure not to eat too many sweets, dearie!
+* I might just have to give you a Dog Salad next!
+* Oh, dearie! * Have you found my purse just yet?
+* ...Hm? That spiffy mole fella said...
+* Oh, that's right! * I also attended the bingo tournament today!
+* I believe I was seated right next to... that wolf lady!
+* I've forgotten her name...
+* \\.\\.\\. but her son is always hanging out in the rightmost alleyway...
+* Perhaps she saw something!
+* Oh, dearie me... * I do hope your search is going well!
+* Perhaps that wolf lady saw something...?
+* Welcome back! Did you find it...?
+* Aaah! You did! My precious purse!
+* And with what luck, the cookies just finished cooling off.
+* (I gave back the Pup Purse.)
+* I hope I didn't mess the recipe up without it on-hand...
+* (I got the Dog Cookie\\!)
+* (I don't have room for the Dog Cookie...)
+* Oh, hello again! * Do you need something to do, dear?
+* Because, if it's not any trouble... I seem to have misplaced my purse!
+* It has all of my valuables, including my city-famous cookie recipe...!
+* Would you please help me find it?
+* I'll give you a cookie!
+Yes
+No
+* Oh, thank goodness! You're such a kind young soul.
+* Now, if memory serves... I went to Grillby's earlier, on a blind date!
+* Try looking there! Maybe the waitress had seen it?
+* Oh... well, I suppose I'll keep looking... all by myself...
+* Oh, dearie me... * I do hope your search is going well!
+* Remember, I last saw my purse at Grillby's.
+* ...Eh? You really think so? * Young people nowadays...
+* See! Someone else gets it! * ...Y'know what?
+* I think I'll go tell my friends it's time to return to the old times!
+* And then they'll tell their friends, who'll tell THEIR friends...
+* Who'll tell THEIR friends, who'll tell...
+* No colors at all? That's pretty daring.
+* If we switch to that, you `cY`won't be able to tell`c$` when to `cY`SPARE`c$` a monster in battle.
+* You sure that's the way to go?
+No
+Yes
+* Good thinkin', kid.
+* Well... if that's what ya want.
+* I'll go tell my friends it's time to retire the colored names.
+* And then they'll tell their friends, who'll tell THEIR friends...
+* Who'll tell THEIR friends, who'll tell...
+* If memory serves, he's in the area up ahead...
+* Whatever pickle you've found yourself in, I hope it goes well.
+* Hm? A blind date?
+* Heavens, no, I haven't done that sort of thing in years!
+* Perhaps you're looking for the other mole in this city.
+* We get mixed up all the time, don't worry.
+* Hey, you're that human that's been all the hubbub!
+* ...Say, you know how monsters wear `cY`YELLOW`c$` names when you `cY`SPARE`c$` them?
+* Ah, I remember back in the day, when we had `cp`PINK`c$` names! They were bold, stylish!
+* And now, we've got these namby-pamby `cY`YELLOW`c$` names... feh!
+* What do you make of that?
+Keep yellow
+Go pink
+No colors
+* Eh? Can I do somethin' for ya, young'un?
+* Everything's been the same 'round here, with those...
+* `cY`YELLOW`c$`... names...
+* Feh! Where's the appreciation for our old traditions?!
+* What do you make of that?
+Keep yellow
+Go pink
+No colors
+* Ever since we started using `cp`PINK`c$` names again, everything's been great!
+* Ah... `cp`PINK`c$` names. It really takes me back...
+* What do you make of that?
+Keep pink
+Go yellow
+No colors
+* Yeah!
+* I'm glad at least you appreciate tradition, unlike SOME people...
+* ...What?!
+* What's wrong with `cp`PINK`c$` names?
+* I swear, you young people have no appreciation for tradition!
+* I'm going to go and tell my friends about this!
+* And then they'll tell their friends, who'll tell THEIR friends...
+* Who'll tell THEIR friends, who'll tell...
+* Things have been... pretty confusing without colored names, to be frank.
+* I can't speak for your own experiences, but, well...
+* What do you make of that?
+Keep\nno colors
+Go yellow
+Go pink
+* Well... if that's what ya want.
+* ...Really?
+* Back to `cY`YELLOW`c$` names?
+* Well... I guess it's better than nothing.
+* (Sigh...)
+* I'll go and tell my friends to take their `cY`YELLOW`c$` names back out.
+* And then they'll tell their friends, who'll tell THEIR friends...
+* Who'll tell THEIR friends, who'll tell...
+* ...No, that can't be it.
+* It just doesn't make sense!
+* I don't think that's the right answer.
+* Darnit!
+* Eh, nope, that doesn't fit...
+* What could it be...
+* That almost sounds right, but it doesn't fit...
+* Thanks for the help, kiddo!
+* \"The color of our walls of old. (4 letters)\"
+* Hm...
+Ruby
+Blue
+Grey
+Gold
+* ...Actually, that makes a lot of sense!
+* \"We're not feeling blue\\!\" is a popular saying around here, after all.
+* \"The abundant cushions of nature. (7 letters)\"
+* This one's tough...
+Pillows
+Gelatin
+Flowers
+Couches
+* ...Oh, yeah! Those flowers are pretty soft, after all.
+* \"These have died, yet remain vibrant. (6 letters)\"
+* ...Feh! What's that supposed to mean?
+Beasts
+Hedges
+Dreams
+Leaves
+* Ah, of course! * Always thought that was kinda strange...
+* \"The stuff food is made of. (5 letters)\"
+* Alright, just this last one to go.
+Grease
+Magic
+Flesh
+Tiles
+* Psht, obviously!
+* Can't believe the answer was so obvious on this one.
+* Hey, what do ya know! That's everything answered and sorted!
+* You're a real whiz-kid, kiddo!
+* Maybe you should tag along with me for Bingo night! Heh heh hoo...
+* Aah, well, in any case, have some G for your troubles.
+* (I got 5G\\!)
+* Huh?! What're you talking about?
+* Do we look like some bloodthirsty freaks to you?
+* Hm? A blind date?
+* Well, yes, I did go on a date with that sweet-smelling lady earlier today.
+* Why do you ask, though...?
+* ...Her purse was stolen?! * That's awful!
+* I don't recall that happening at Grillby's, though...
+* Maybe try jogging her memory about it?
+* Hm? How did the date go?
+* Well, it went rather splendid!
+* She's quite talkative, and I'm an excellent listener.
+* Especially with a voice as lovely as hers!
+* Excuse me, are you busy? * I could use some help.
+* See, the newspaper has a weekly crossword. By solving it, you could win some G!
+* The problem is... they didn't give me the braille version.
+* So, whaddya say? Help me out and I'll split the prize 50/50!
+Yes
+No
+* Oh, really? Great!
+* Now, the first one I'm having trouble with...
+* ...Well, it's your loss!
+* I'll just have to enjoy this crossword... all by myself.
+* Extras, extras! * Read all about it!
+* Looking for exclusive content? Trophies to mark your achievements?
+* With extras, they're all yours! All in today's edition of \"The Main Menu\\!\"
+* Mmm... * Into the sewers, I must go...
+* Hey! Didja know that we have sewers?
+* ...What's that look for? You've seen 'em already? Neat!
+* The pipes can be kind of a tight squeeze, but they're great for transportation!
+* Apparently, it's not what humans use them for, though...?
+* Well... I mean, I DO wanna get a burger later...
+* Chyeah, I'm just, like, standing here.
+* It's crazy how you can just like, stand somewhere.
+* And then that's like, your place in the world?
+* Until you start moving. But I don't wanna move!
+* I wanna stand in this exact spot for as long as I possibly can!
+* There's a \"menu skin\" in this trash can.
+* Take it?
+Yes
+No
+* ...I took it.
+* Do I want to switch back?
+Yes
+No
+* Perfect.
+* ...Hey, kid. Wanna buy a menu skin?
+* It's only 5G.
+Yes
+No
+* Nice choice. It's a classic.
+* Hey, that's not enough money.
+* Well, your loss.
+* ...Huh?
+* You wanna switch the skin back?
+Yes
+No
+* Well, here ya go.
+* Well, okay.
+* ...Though, this dog shouldn't wear itself thin.
+* I'm sure it's appreciated by a lot of people, who wouldn't want to see it hurt.
+* There's a small, white dog sleeping here. * Its paw looks cramped...
+* I hope it heals soon, so it can get back to doing dog things.
+* ...like sleeping, but more comfortably.
+`#`* Listen here, you little `i`termite. #* You oughta make like a tree...
+* ...And get chopped down.
+* Well, wooden-cha know it, you caught me.
+* What are you gonna do now, huh?
+* Knock me over? * Take out my other leg?
+* You don't scare me. In fact, you should be worried about what's coming to you...
+* ...If you even make it out of this place, of course.
+* Whoa, kid, is something the matter? Should I just LEAF you be?
+* ...Nothin', huh? Strange, it always worked on ASGORE.
+* Well, guess it's time to spruce up my jokes!
+* . . . * Yeah, it's a problem.
+* Whoa-hey there, kid! * What're you worried about?
+* I'm doing oak-ay!
+* . . . * Yeah, that joke is terrible, isn't it?
+* My wife gives me that same look.
+* Everyone else is on their break right now, so it's up to me to pick up the slack!
+* Woah, hey, watch where you're going!
+* ...Oh, you did. Er, thank you.
+* Hey! Youse there! Don't even think about sneakin' past me!
+* Some ragin' ragdoll stormed in and made a real mess.
+* I'm not gonna let you muck it up more, so beat it!
+* Didn't cha hear what I just said?!
+* There ain't nothin' to see here.
+* ...Except cotton. * Lots and lots of cotton.
+* You doing okay, there? Did somethin' happen?
+* Well, hey... whatever it is, I'm sure ASGORE will help you fix it.
+* He tends to do that.
+* Yeeesh... finally got most of dat rubble all cleaned up.
+* Though, I'm tellin' ya, kid...
+* Tomorrow, somethin's just gonna go and collapse out of nowhere!
+* In this old bunch-a-bricks, a worker's job ain't never done!
+* Don'tcha touch anything, kid!
+* The last thing I need is another wall fallin' down, capiche?!
+* \"Here lies the former Capital of The City of Old.\"
+* \"They say that if one is to bask in its glory for long enough...\"
+* \"They may see something extraordinary.\"
+* Admire the Capital?
+Yes
+No
+* \"Tree growth in progress. Please do not trample.\"
+`#``p1``i`\"- ASGORE\"
+* Ribbit, ribbit. * (Just between you and me...)
+* (I saw ASGORE pass through here just a little while ago.)
+`#`* (He was carrying some `i`groceries.)
+* (I didn't ask what they were for...)
+* (He seemed to be in a hurry.)`p1` * Ribbit.
+* I've sent the kids and my father inside.
+* Something just... came over me.
+* It feels as if we've all lost something very dear to us.
+* Don't let your best days slip by you, child. Try new things!
+* Or, perhaps, try old things with new twists!
+* For instance, I used some lemon-scented mustache oil this morning...
+* I got a few compliments from my coworkers!
+* What a pleasant day it is. Reminds me of my youth!
+* Such wondrous days, they were. Everything seemed so new, and exciting!
+* ...Ah! You're right! Maybe I just need to get used to it!
+* Guh! Yeah... I think I can do this!
+* Gah, I'm tired of this mundane shape I have!
+* I want to be bold! Different!
+* I'll be something like... THIS!
+* Hah... hooh... okay, maybe not THAT different.
+* ...well, I guess I fear my girlfriend getting mad at me.
+* But that's it! Nothing else!
+* I'm so cool. Or at least, I like to think I am.
+* I zoom so fast, and fear NOTHING!
+* Everything's too SLOW around here!
+* Once I grow up, I'm gonna make it BIG and FAST!
+* This place used to be the ROYAL FAMILY'S private grounds...
+* But after a while, it became a spare town for the calmer monsters here.
+* Man... talk about BOOR-IINGG!
+* What?! A stolen purse?!
+* Goodness gracious, why didn't she let me know sooner!
+* I've got to make some calls-
+* ...Wait a minute.
+* \"Doggo-Bytes, in 3 Easy Steps...?\"
+* Hippie memorabilia...? * BABY PICTURES?!
+* This... this isn't my purse!
+* Oh my goodness, I'm a purse-snatcher!!
+* Listen, child, please take this back to its rightful owner.
+* (I got the Pup Purse.)
+* I'd return the purse myself, but that would just be embarrassing!
+* How could I ever get hers mixed up with mine...
+* I oughta sign you up for some attitude lessons!
+* Maybe that young man at Flower King would be interested...
+* He sure seems to be well-behaved!
+* Do you even know how hard ASGORE tries to keep this place clean, young man?!
+* You're going to clean up this mess, and then tell him just how SORRY you are!
+* By TOMORROW!
+* (Mutter, mutter...)
+* I wonder if he'd like a card...
+* \"I'm sorry for vandalizing public property.\" * \"I won't do it again.\"
+* And then I'll paint a GIANT mural for him...!
+* (Grumble, grumble...)
+* Stupid Greasers and their... stupid DARE...
+* Stupid... stupid...! ME!
+* ASGORE always supported my art...
+* I gotta make this up to him...
+* Kid. I can't do Crimes, if you're Watching me.
+* He He He... I'm gonna commit some
+* Crimes
+* That look on your face...
+* You look as if you had to make an impossible choice, in an impossible situation.
+* Was it the right one?
+* Personally, I'm rather fond of chocolate sauce.
+* If there are two hallways on either side of you, which do you take?
+* Right, or left? Fight, or flight?
+* Ketchup, or Mustard?
+* It's important to weigh your options, but not forget just how MANY options you have.
+* Quiche Kilt-...huh? Oh, yeah, I've been lifting some heavy stuff with these legs.
+* How could you tell?
+* Hey, isn't that guy over there supposed to be at that fast food place, right now?
+* Aw man, that poor delivery boy... whatever his name was.
+* Hot Dog Shorts? * Panini Pantaloons?
+* I guess it doesn't help that I can't see...
+* But at least this phone has text to speech!
+* ...Except the voice is... annoying...
+* (Sigh...) * I'm trying to find the phone set-up that's right for me...
+* But there's just too many options!
+* I really like the accessibility features... but...
+* I don't even care about \"border designs\\!\"
+* ... (Perhaps this monster would rather be left alone.)
+* (The monster stares at the flowers below.)`p1` * (Menacingly.)
+* Keep on exercisin' kid!
+* Maybe one day, you'll be just like me...
+* WORK THEM CALVES! * STRENGTHEN THOSE THIGHS! * TIGHTEN YOUR GLUTES!
+* Someday my legs will be the greatest in the entire UNDERGROUND!
+* ...someday.
+* It's the middle of the day, but the streets are so empty, now.
+* What happened...?
+* You see, I was just like any other lamp around here.
+* Then one day, some kids came by and dressed me up.
+* Everyone had a good laugh about it...
+* But I never asked for this life!
+* Well gosh, kid! * No one's walked up to ol' Manpost in a while.
+* I used to be a bit of a local attraction, you know.
+* Pictures taken and everything!
+* ... * I hated it.
+* Using the treadmill's gonna be awkward for a while...
+* My lil' bro trainin' to be like me is really inspiring.
+* I want to be like him some day.
+* By that, I mean not forgetting leg day. * I walk with my arms now.
+* Never forget the core muscles, either! That makes your bullet patterns tougher!
+* ...Don't ask me how! I'm a jock, not a biologist.
+* I'm liftin' these weights to be like my big bro!
+* He's friggin' SWOLE!
+* ...From the waist up. He forgot leg day.
+* I'll make sure not to forget my leg lifts! HUH!
+* My sister, though, she's not as fond of other people, y'know.
+* She's more of an introverted type, y'know.
+* That doesn't mean she's not FAMILY, though, y'know?
+* I just love it here in the park, y'know?
+* It's nice to get some fresh air, get outside and such, y'know?
+* Plus you might get to meet someone new, y'know.
+* Just like right now, y'know!
+* blblblblblblblblbl... blblblb!
+* blblblblblblblb
+* SLITHERING.
+* Do you MIND? * I am SLITHERING.
+* Hey. Kid. Yeah, you. You look like you've been walkin' a while.
+* Why not sit down for a bit?
+* There's an empty bench right over there, ripe for the takin'.
+* What? You're a human?!
+* ...Naaaah, there's no way. Humans are like, way taller!
+* With armor! And they have HUGE swords, and spiky hair. 
+* My grandpa likes to talk about the war times, when we could walk on the surface.
+* I think he's trying to make it sound cool, but... I think humans terrify me!
+* I hope I never see one...
+* ...I... forgot what humans look like.
+* Gehehe, y'know I was a real crafty creature, back in the war days!
+* Those humans kept swingin'... and they kept missin', too!
+* Could hardly land a hit on my slippery self!
+* Took 'em about fifty tries before they finally knocked me out, HEE HEE HEE~!
+* Ah, I can't wait fer a human to fall down here...
+* I'd aggravate 'em somethin' FIERCE, I bet!
+* Yea-haha! We STILL got it!
+* You really think so?! Whew, I thought I was getting a little rusty.
+* Whaddya mean? You're nickel-plated!
+* We used to have jobs working for this comedian, but we got laid off.
+* Luckily, Mettacrit was happy to employ us!
+* He gave us a chance when nobody else would!
+* In other words, we had...
+* ...a GHOST of a chance!
+* I'm almost finished with my route!
+* Last package is for someone named \"ASGORE DREEMURR...\"
+* Oh hey, I know that guy! I wonder how he's doing.
+* At least this city's easy to navigate!
+* I heard it used to be an awkward labyrinth to move around in.
+* Aw, man, I really hope I'm getting everyone's mail right...
+* It's my first day on the job, and I want to start my career off on a high note!
+`#`* I hear if you get good `i`enough, you get to deliver `i`messages to the queen herself!
+* ...Although, apparently she never reads them.
+* (Hey, little buddy! Don't forget about that offer.)
+* (You want some grub, just come up to the counter.)
+* It's a jukebox playing old rock and roll music.
+* Should I change it?
+Yes
+No
+* (It's broken...)
+* (...I kick the jukebox.)
+* \"Employees Only.\"
+* Yeah, definitely check with that mole guy.
+* Maybe he'd know something?
+* Oh! Hey there, kid. You need something?
+* ...A purse-napping? Hm.
+* I remember seeing the old lady seated with that mole.
+* You know, the one who usually hangs out at the far end of the city.
+* Maybe he'd be able to sniff something out...?
+* Did you know, this one time...
+* We caught Aaxel stealing grease from people's food?
+* HA! The guy was using it to slick his hair!
+* No wonder they call themselves the \"Greasers...\"
+* They sure smell the part!
+* Oh! Hey there, kid!
+* Thanks for... y'know. Helping out my pal earlier.
+* I swear, those Greasers...
+* Thanks a bunch for helping my pal earlier.
+* Perhaps I just need a bite to eat!
+* Excuse me, Burger Boy, do you carry ghost-friendly food?
+* . . .
+* ...Erm, Burger Boy? * That was your name, wasn't it?
+* (Just keep ignoring him... just keep ignoring him...)
+* Well, well, well! * Fancy meeting you here, gorgeous!
+* I didn't expect our little reunion to happen so soon.
+* You know, I've been trying to come up with new material...
+* ...But, I've come down with a case of Artist's Block.
+* And before you ask, no, I can't phase through it.
+* (Sigh)... if only I could get that spark of inspiration!
+* To ignite my creative bonfire once more!
+* ...Nice hat, partner.
+* Y'know what? I like ya, kid. Have some G.
+* (I got 7G.)
+* Don't spend it all in one place, y'hear?
+* Be smart with yer savings, 'n all that.
+* That's what my pa taught me.
+* ...Sorry, kid. I only talk to ten gallons, and you're barely a quart.
+* ...
+* Rrrribbit, rrrribbit. * (You know, it's funny...)
+* (We first created \"Norman\" as a one-time thing.)`p1` * (For what, I won't say.)
+* (But one thing had led to another, and, well...)
+* (\"Norman\" was here to stay.)
+* (Shockingly, we kept our secret for this long\\!)
+* (Even from the Greasers...)
+* Rrrribbit.
+* Rrribbit, rrribbit. * (Ah, it's you. I do apologize for the trouble.)
+* (You see, I didn't want to break our cover.)
+* (Even if that meant some roughhousing...)
+* Rrribbit.
+* It was only supposed to be for sneaking into a movie...
+* I never knew it would \\*hic* go that far...!
+* Sorry for fooling you, back there... \\*sniffle*
+* I never should have listened to my friends...
+* (Still... eating...)
+* (He's too busy eating his burger...)
+* (The right amount of water for a little sprout.)
+* (Take it\\?)
+Yes
+No
+* (It's an ambiguously half-full, or half-empty, glass of water.)
+* (It's strangely silent.)
+* Ah, the ECHO FLOWER!
+* Truly, a magnificent specimen...
+* Come on... pick up`@`! ; )
+* I know you're old, but you can't be asleep THIS early, Mr\\. Dreemurr`@`! ; )
+* Gah, forget it. I'll just go up to his house later`@`. ; )
+* Aw, man`@`... ; )
+* What am I doing with my `@`life...? ; )
+* At least you're here, ECHO `@`FLOWER... ; )
+* You never let me `@`down... ; )
+* ...Thanks`@`. ; )
+* Just get OUT of here already`@`! ; )
+* ...Just... go gloat somewhere else`@`! ; )
+* I just wanna get some flowers, but nobody's running the store.
+* What's that guy even doing...?
+* I want the Golden Echo Flower, but this guy's holding out on me.
+* I've SEEN photos of it on the Undernet, so it MUST be real!
+* This little sprout has no future.
+* (This little sprout could use some water...)
+* (Search for some water to give it\\?)
+Yes
+No
+* (I need to find some water to give to this sprout...)
+* (Give the sprout some water\\?)
+Yes
+No
+* (..........)
+* (The plant just handed me 5G.)
+* (I don't want to think about what happened.)
+* \"Thank you for your continued donations, Mr\\. Dreemurr\\!\"
+* \"All flowers 50% off\\!\"
+* A wheelbarrow, full of dirt.
+* ...No, just dirt. * Thank goodness.
+* I hope that's not manure...
+* You... you watered the plant`@`? ; )
+* The one I kept forgetting to`@`? ; )
+* ...
+* ...Thanks`@`. ; )
+* No, I don't feel bad about my actions`@`! ; )
+* No, I'm not lying to look cool`@`! ; )
+* No, I'm not telling ASGORE I'm sorry and having tea with him... AGAIN`@`...! ; )
+* Just get OUT of here already`@`! ; )
+* ...
+* ...Yeah, it's me`@`. ; )
+* So what if I work here, huh`@`? ; )
+* So what if it's for community service, huh`@`? ; )
+* So what if I like this... this... FLORAL-PATTERNED SHIRT, HUH`@`?! ; )
+* ...Just... go gloat somewhere else`@`! ; )
+* What's that guy even doing...?
+* Man, the service here suuuuucks.
+* I just wanna get some flowers, but nobody's running the store.
+* Seriously, you wouldn't believe this guy!
+* Says \"that's not a real flower\"!
+* I've SEEN photos of it on the Undernet, so it MUST be real!
+* FINALLY, some service!
+* Problem is, I still can't get what I want!
+* I want the Golden Echo Flower, but this guy's holding out on me.
+* Pick up the pace, pal! * We're already late to Mettacrit's show!
+* Gimme a break, I got four feet and one leg!
+* Hey... have you ever experienced loss? * I have.
+* I lost my lucky star. It's my most prized possession.
+* It fell in the water, and it got swept into the sewer.
+* ...
+* Hey... you seem tough... and I have 9G I can offer you...
+* Could you go find it?
+Yes
+No
+* There's a manhole by the shops that leads to the sewer.
+* Good luck. I heard there's a monster down there.
+* I wonder why...
+* Okay.
+* Where does everything go when it goes into the sewers, anyways...?
+* Wow...! You found my star!
+* I thought I'd never get this back.
+* Thank you.
+* Thank you...
+* (I got too thirsty and drank the water...)
+* Look, I know what this looks like...!
+* A-actually, now that I think about it, I don't.
+* I just kinda woke up here.
+* (Frozen shut.)
+* (...The door has frozen shut.)
+* Gyah! * Uh, occupied?!
+* Er, t-this freezer's taken!
+* Gyah! I always wanted attention, but not like THIS...
+* Hey, cut it out!
+* Can't a guy fix his magnificent hat in peace?!
+* This is getting ridiculous...
+* Please, just chill out and leave me be!
+* Just... give me a minute!
+* If you don't stop this, I'll...!
+* I'll come up with something, I'm sure.
+* I beg of you! * I IMPLORE YOU! * Leave me be!
+* Look, I put the Ice-E bars in the freezer next to me.
+* I didn't steal them, or anything!
+* Just!! Give me a few moments of privacy!! PLEASE!!!!!
+* ...Then again, have you seen the newspaper's latest drivel?
+* No wonder people want comics instead!
+* Bah, I can't believe this place.
+* They used to sell newspapers on this rack, here...
+* But now, it's home to those trashy \"Cross-Bones\" comics!
+`#`* What kinda place is this, `i`where some smiley goofball is `i`more important than THE NEWS?!
+`#`* Hehe, welcome, to the Mini-Mart. #* Do you see any items that `i`interest you?
+* We have many items for sale, over there.
+* If you, ah, see any items you like... you can just bring them over.
+* I can appraise the total amount when you're satisfied with your, heh, haul.
+* Jelly Juice! That's my personal blend.
+* Works a treat when you're down and out.
+* Sea Tea, ah, yes. * My own family recipe!
+* Lasts a good long while.
+* I see, Muu Milk... going for an interview later?
+* This really helps with the nerves.
+* Cute Coffee, eh? Nice.
+* \"Crack a smile, so they won't crack you\\!\"
+* Strange motto, they have.
+* Ooh, so you're getting a `$0` and a `$1`?
+* So that'll be a `$0`, a `$1`, and a `$2`?
+* Ah! You'll be getting...
+* ...A `$0`, a `$1`, a `$2`, and a `$3`?
+* (Purchase\\?)`p1` * (Cost\\: `$0`G)
+Yes
+No
+* Sorry, but you don't got enough GOLD.
+* And unless you want to try for a, heh, discount...
+* You're gonna have to put those back.
+* Heh, it's been... a pleasure, doing business with you.
+* Hmm... seems you don't got any inventory space left.
+* You'll have to put those back where you got 'em.
+* Very well. I await your eventual purchase.
+* Hey, what do you think you're doing!?
+* Put those back before you leave!
+* There's a lone `$0`. * Take it?
+Yes
+No
+* Took the `$0`.
+* No space.
+* The shelf is empty.
+* I may be getting ahead of myself.
+* Costs `$2`G. Take one?
+Yes
+No
+* It's frozen shut.
+* This freezer has popsicles!
+* They come in: \"Libel Lemon-Lime\\,\"`p1` \"Getaway Tropical Punch...\"
+* \"Embezzlement Berry Blast\\,\"`p1` and \"A Murder in Orange.\"
+* All part of the \"Criminally Tasty Popsicle Pack\\!\"
+* ...I'll pass.
+* It's frozen shut.
+* This freezer seems to be stocked with packages...
+* Frozen pizzas, frozen steaks, frozen TV dinners, frozen TVs...
+* A fine selection, to be sure.
+* It's frozen shut.
+* ...It's just a slab of ice with a door handle jammed into it.
+* It's frozen shut.
+* True to his word, Ice Cap did, in fact, put the Ice-E bars in this freezer.
+* It's filled to the brim with \"Ice-E\" bars.
+* I'd take one... but it's frozen shut.
+* It's frozen shut.
+* This one in particular feels uncomfortably close to the cash register.
+* (Nothing but garbage.)
+* (The same smiling skeleton stares back at me.)
+`#`* (The rack is filled with `i`comic books about \"Crossbones\\,\"`p1` `i`a skeleton superhero.)
+* (Something underneath it catches my eye...)
+* (Oh! It's a lone, torn page.)
+`#`* Oh, yes, it appears that `i`someone was... dissatisfied, `i`with this issue of Crossbones.
+* Something about how it became less and less about the \"cool merchandise.\"
+* Feel free to take that page and keep it for yourself.
+* It would only end up in the trash, anyways.
+* (I got a Crossbones Comic Page\\!)
+* (It's a bathroom.)
+* Huh? Never heard of a BATH room before?
+* What ELSE would they be used for?!
+* Hey! Wait your turn! * I'm getting squeaky CLEAN!
+* A computer. * Too bulky to be useful.
+* It requires a password...
+* ...Which, unfortunately for me, isn't \"password.\" Drat.
+* A very old-looking computer.
+* It seems like it can be folded up, and carried like a suitcase...
+* ...But it's much too heavy for me.
+* A typewriter. Looks like an older model.
+* A typewriter. Has seen better days.
+* A typewriter. There's some ink bleeding through the page.
+* If I squint my eyes, and read backwards, I can just barely make out...
+* \"The\"
+* A typewriter. Looks like a newer model.
+* A typewriter.
+* A door. It's locked. * Nothing worth breaking in for.
+* The sight of such terrifyingly complex machines...
+* It would break the minds of lesser beings.
+* Through the window, there's a lot of complicated machinery.
+* Lots of gears, conveyor belts, and stamping mechanisms...
+* Though, they don't seem to get much use.
+* This cabinet is full of files.
+* This cabinet is also full of files.
+* This cabinet, unsurprisingly, is stuffed to the brim with files.
+* This cabinet... oh. * This one doesn't have any files.
+* At least this one gets to sit on the soft carpet.
+* Useless information.
+* Useless information.
+* This file is labeled \"Sensitive Information.\"
+* ...I think it squirmed a little when I touched it.
+* Nope. Not doing that again.
+* Nah.
+* No.
+* Nuh-uh.
+* Absolutely not.
+* A swivel chair.
+* A swivel chair with wheels for moving around.
+* I wonder if I could make it out by rolling on one of these...
+* ...Nah. I'd slip up on that banana.
+* Wait, you're... serious? * ...Oh no.
+* ...What? ASGORE's dead?
+* Haha... I may be bad at my job, but that's a falsehood even I wouldn't stoop to.
+* Haha... * Having a job you hate is just a family tradition!
+* I... I... I can't sell any of these papers...
+* I... I... I keep trying to, but nobody... finds them interesting...
+* Everyone says they belong in the trash...
+* Well, there you are!
+* I thought you'd gone and disappeared on me.
+* You know, when I told you to take the trash outside...
+* I didn't mean take it ON VACATION!!
+* Feh... just, continue where you left off, I suppose.
+* Just, uh, you can start now, I suppose.
+* Egads, this room is brimming with filth...!
+* ...And I'm not just talking about the man in the suit, mind you.
+* Do you think you could tidy this place up a bit?
+* I'll pay you 7G up front, and double that amount when you finish the job.
+* Sound good?
+Yes
+No
+* Excellent! I'm sure you'll get this cleaned up in no time.
+* Hmh. I suppose I can get that \"Jazzboar\" fellow to do it, if he comes around.
+* Err, you should throw away that trash in your hands.
+* Err, there's quite a bit of trash over there.
+* Wonderful job!
+* Hopefully my employees can make better headlines in a cleaner environment.
+* Here's the other half of that payment, by the by.
+* (I got 7G.)
+* Ah, much better.
+* (I put the trash into the can.)
+* (I throw away more trash.)
+* (I finished throwing away the trash.)
+* 只 是 一 些 垃 圾 。
+* There's a sweat-soaked newspaper in this trash can.
+* The only legible part reads something about \"the retired royal scientist.\"
+* This waste bin is overflowing with wads of paper.
+* They all seem to be rejected headlines.
+* Most of them read: * \"Another Nice Day in The City of Old\\!\"
+* (I can't pick up any more trash right now.)
+* (I should throw it away in a trash can somewhere...)
+* Connor
+`$0`G
+`$0`/`$1`
+购买
+出售
+聊天
+退出
+用\n`$0`G 购买这个物品？
+是
+否
+管 理 指 导
+艺 术 设 计
+音 乐
+文 本
+程 序
+基 础 测 试
+~ 特 别 感 谢 ~
+前 成 员
+游 戏 测 试
+其 他 贡 献
+还 有 最 重 要 的 一 位 ，就 是 你 。\n感 谢 你 游 玩 我 们 的 游 戏 。
+致 以 纪 念
+鸥皇不欧，奕哲，1个渣渣 ，鲸流
+中文本地化团队成员
+* 所 以 ， 你 就 是 那 个 我 早 已 有 所 耳 闻 的 人 类 了 。
+* ...
+* 你 要 知 道 ...
+* 许 多 人 都 为 下 一 个 人 类 的 陨 落 而 激 动 不 已 。
+* 不 论 它 们 是 激 动 于 终 于 可 以 重 获 自 由 ...
+* 可 以 去 看 看 那 些 稀 少 全 新 的 事 物 ...
+* 亦 或 是 觉 得 可 以 去 结 交 新 的 朋 友 。
+* 从 你 脸 上 的 表 情 和 衣 服 上 的 尘 埃 来 看 ...
+* 你 不 是 来 这 里 交 朋 友 的 。
+* 没 事 。 * 因 为 我 也 不 是 来 交 朋 友 的 。
+* 我 来 这 里 你 要 让 你 为 你 的 所 有 罪 行 做 出 回 复 。
+* 所 以 准 备 好 ， 孩 子 ...
+* 因 为 你 要 来 些 坏 时 光 了 。
+* 呵 ...
+* 尽 管 我 真 的 很 想 和 你 握 手 ...
+* ... 但 我 并 不 能 表 现 的 和 你 很 亲 密 。
+* 我 潜 伏 于 暗 影 之 中 ， 随 时 准 备 制 裁 歹 恶 之 徒 。
+* 无 论 是 威 胁 和 平 之 人 。
+* 亦 或 是 威 胁 怪 物 种 群 之 人 。
+* 而 现 在 是 你 来 了 ？
+* 好 吧 ， 我 就 直 说 了 吧 ...
+* 你 是 个 坏 家 伙 。
+* 来 吧 ， 孩 子 ！ * 你 就 没 有 别 的 事 可 做 了 吗 ？
+* I bet there's somebody in the right alley somewhere...
+* Someone that could use a \"pick-me-up.\"
+* 如 果 你 能 听 懂 的 话 。
+* What if there's a sweet old lady who needs some help?
+* Try asking around!
+* There could be a crossword waiting to be solved!
+* The people who made it don't go out of this area much, you know.
+* Who knows? There could be a sad little plant in need of water!
+* And it certainly isn't me, hee hee!
+* Someone could have lost something important to them.
+* How often does a star end up washed away?
+* You have a whole world waiting for you outside that exit door.
+* Geez, kid, you're givin' me a real workout!
+人 偶
+* 我 靠 近 了 训 练 人 偶 。
+* 检 查
+* 聊 天
+* 人 偶 就 站 在 那 里 。
+* 人 偶 什 么 也 没 做 。
+让 我 们 开 始 吧 ！
+在 战 斗 中 ， 你 有 很 多 种 选 择 。
+其 一 便 是 你 可 以 用 「 行 动 」 来 和 平 解 决 问 题 ...
+然 后 对 你 的 对 手 以 示 「 仁 慈 」...
+使 用 你 手 上 的 「 物 品 」...
+...或 者 要 是 事 态 太 过 严 重 的 话 ， 你 也 可 以 进 行 「 战 斗 」 。
+你 为 什 么 不 自 己 试 一 试 呢 ？
+好 吧 ， 我 想 这 就 是 你 需 要 学 习 的 ！
+我 希 望 你 能 喜 欢 我 们 的 这 个 简 单 课 程 ！
+好 了 ， 在 我 们 离 开 之 前 ...
+让 我 们 对 人 偶 说 个 再 见 吧 ！
+. . .
+* 我 胜 利 了 ！ * 我 获
+...
+........
+.................
+我 受 够 了 。
+我 受 够 了 ！
+我 真 的 受 够 了 ！！！
+YOU!!! You call THAT an attack?!
+You come here looking for a fight, and THAT'S all you can do?!
+You're the farthest thing from a REAL opponent!!
+W-well! I... suppose that's all for now.
+You seemed to... enjoy our little lesson!
+Now, before we go...
+How about you say goodbye to the dummy?
+Yes! Just like that!
+Once you land a harder hit, though...
+I'd advise following it up with softer ones.
+That way, you do no true harm.
+Golly! For someone so young, you're very strong!
+While it would be wise to resolve things peacefully...
+...If push comes to shove, you may need to FIGHT.
+Just enough to scare off your opponent, though!
+Now, now.
+You shouldn't rely on flinging your fists.
+We don't want to hurt anyone, now, do we...?
+Erhm...
+Is everything alright, child?
+Are you frustrated with something...?
+There's no need to take it out on the dummy...
+Erhm...
+Is everything alright, child?
+Are you frustrated with something...?
+There's no need to take it out on the dummy...
+...
+W-well! I... suppose that's all for now.
+You seemed to... enjoy our little lesson!
+Now, before we go...
+How about you say goodbye to the dummy?
+Much better!
+Weaker attacks are good for scaring.
+We don't want to hurt anyone, now, do we?
+My, my! How impressive!
+You're getting the hang of it, child!
+Just remember to time your hits! ([`$0`])
+That way, you do no true harm.
+My, my! How impressive!
+Though, when striking your opponent...
+Be sure to time your hit on the right mark.
+Get ready, then strike! ([`$0`])
+While it would be wise to resolve things peacefully...
+...If push comes to shove, you may need to FIGHT.
+Just enough to scare off your opponent, though!
+Remember, child. Get ready, then strike! ([`$0`])
+Though don't harm your opponent TOO much.
+Just enough to scare them off!
+Oh, dear. Do you need help, child?
+Now, you shouldn't rely on flinging your fists...
+But if needed, you can FIGHT to scare your opponent.
+Be sure to time your hit on the right mark.
+Get ready, then strike! ([`$0`])
+Though, we don't want to hurt anyone, now, do we...?
+Remember, child. Get ready, then strike! ([`$0`])
+Though don't harm your opponent TOO much.
+Just enough to scare them off!
+...
+........
+.................
+我 受 够 了 。
+我 受 够 了 ！
+我 真 的 受 够 了 ！！！
+What. Was. THAT?!?!
+Did you even TRY to attack me?!
+I've seen DUMMIES better at combat than YOU!!!
+`#`* DUMMY - AT 0 DF YES`p1`#* Such a tattered old mess, `i`staring right into nothingness.
+Good, very good!
+If you ACT to CHECK your opponent...
+You may learn something useful about them!
+Further on, you may use that information to your advantage...
+And ACT further to find a peaceful resolution, if possible.
+...
+........
+.................
+我 受 够 了 。
+我 受 够 了 ！
+我 真 的 受 够 了 ！！！
+EX-CUSE ME?! #I'm RIGHT HERE, you little ANKLE-BITING BRAT!!
+Yeah, that's RIGHT! I heard you MUTTERING to yourself!!
+\"Tattered old mess\" THIS, \"staring into nothingness\" THAT!!
+`@`* I walk up to the dummy and say \"Howdy!\"
+* Unfortunately, it gives no response.
+Wonderful! I see you've made a new friend!
+It seems like they no longer wish to fight you, even!
+Perhaps all they wanted was someone to talk to.
+From here, you can show your opponent MERCY and SPARE them.
+* I ask the dummy what it thinks of the weather.
+* Again, no response.
+Ho ho ho! That's adorable, young one.
+You must remember that we're underground!
+There's no weather down here, unfortunately.
+* I ask the dummy about life's many mysteries.
+* ...It seems I'll remain ignorant for good.
+Enjoying time with your friend?
+My, how wonderful!
+Though, there's still more we should tend to.
+* I stare at the dummy. * The dummy stares back.
+* I'm at a loss for words.
+Come now, child! Let us continue!
+`@`* I walk up to the dummy and say \"Goodbye!\"
+* As expected, nothing happ--
+...
+........
+.................
+我 受 够 了 。
+我 受 够 了 ！
+我 真 的 受 够 了 ！！！
+YOU!!!
+That's ALL you have to say?!
+After everything we went through TOGETHER...
+You're just going to say GOODBYE?!?
+Like NOTHING even MATTERED?!?!
+Come now, child! Let us continue!
+Very good, human!
+Waiting for your opponent's first strike can be rewarding.
+Things that the enemy says and does can provide vital information.
+And once you've managed to pacify your opponent...
+You can SPARE them from further battle!
+Is... everything alright, human?
+You seem to be standing rather still...
+It... may not be the best choice to do that.
+Are you trying to intimidate the dummy?
+I'm sure that would work very well, yes!
+But with all due respect...
+Standing in place won't accomplish much...
+...
+...
+........
+.................
+我 受 够 了 。
+我 受 够 了 ！
+我 真 的 受 够 了 ！！！
+Oh my GOD, what is your PROBLEM?!
+All you're doing is STANDING THERE, doing NOTHING!
+Come now, child! Let us continue!
+Don't fret, human. This dummy doesn't bite!
+Though, if you ever feel threatened by an opponent...
+You may need to FLEE and regain your senses.
+There's nothing wrong with that, after all!
+Oh, dear. Are you scared, human?
+I'm sorry... perhaps I should have dressed up the dummy...?
+Maybe a top hat would appear less imposing.
+...
+* I start to back up, intimidated by the dummy.
+* I...!
+* ...I tripped over a rock.
+...
+........
+.................
+我 受 够 了 。
+我 受 够 了 ！
+我 真 的 受 够 了 ！！！
+...WHAT. ARE YOU. DOING?!?!
+What, are you that SCARED of a DUMMY that you COWER IN FEAR?!
+I was doing NOTHING AT ALL!! Absolutely NOTHING!!!
+Ah! You have an ITEM on you?
+Good! They can be very useful in battle.
+Especially if you need to heal.
+However, you should only use them if needed!
+You don't want to waste them, do you?
+Come now, child.
+You mustn't waste your items!
+Who knows what you may need them for?
+Oh, dear. Are you hungry, child?
+Don't worry! While I don't want to spoil the surprise...
+Let's just say... there's more treats to come!
+* Waste not, want not.
+* I should save the God Cheese for later.
+* I should save the Chocolate Bar for later.
+* Deciding that I deserve a treat, I take out the God Cheese.
+* Deciding that I deserve a treat, I tear open the Chocolate Bar.
+* I can almost tast--
+...
+........
+.................
+我 受 够 了 。
+我 受 够 了 ！
+我 真 的 受 够 了 ！！！
+Oh, LOOK AT YOU!
+You have a GOD CHEESE, and you don't even think to SHARE?!
+You have a CHOCOLATE BAR, and you don't even think to SHARE?!
+What if I WANTED some?! Even just a LITTLE BIT?!?
+And!! AND...!!!
+You REALLY think you can solve your problems by TALKING IT OUT?!?
+Well, I have news for you, DUMMY!!!
+NOBODY is going to listen to your \"HOWDY\" when they're trying to KILL YOU!!!!
+You're such a BULLY, too!!
+Do you think you'll make FRIENDS by beating them up?!
+Don't count on it, you DUMMY!!!
+You're absolutely HORRIBLE!!
+Beating up a poor, defenseless dummy...
+Just makes YOU the REAL DUMMY!!!
+This ENTIRE TIME, you've just stood around doing NOTHING!!
+`#`SOME of us have #PLACES TO BE probably #BUT NOOO. Everybody #has to RESCHEDULE #AROUND Y`p1`O`p1`U, DON'T THEY?!
+Maybe I don't WANT TO BE LATE FOR MY TEA PARTY!!!
+Not to mention... you stood there TAUNTING ME with that CHEESE!
+Not to mention... you stood there TAUNTING ME with that CHOCOLATE!
+Taking it out, putting it back... over and OVER AGAIN!
+It's like you WANTED me to SUFFER!!
+Not to mention... all you do is talk and TALK AND TALK!!!
+`@`Not even a \"how are you?\" or \"what's your favorite color?\"
+I'll have you know that my favorite color IS HOT PINK!!!
+But you wouldn't CARE, WOULD YOU?!?!
+And how does it even take someone SO MANY TIMES to just LAND A HIT?!
+I'm not even MOVING!!!
+Are you THAT bad at this?!
+I come here in search of a REAL opponent...
+And I get stuck with YOU?!?!
+I have NEVER been insulted like this in ALL MY LIFE!!
+Your mere presence has just... made me SO...
+Mad. Livid. ABSOLUTELY ENRAGED!!!
+AND DO YOU KNOW WHAT I DO WHEN I'M MAD?!!
+. . .
+一 般 来 说 我 还 有 别 的 刀 子 的 。
+. . .
+THIS ISN'T OVER!!!
+Mark my words with your brightest marker, human! From this moment forth...
+We are MORTAL RIVALS!!!!!!!!
+Well, that was... unexpected!
+However, you still did a great job!
+* So the human finally shows their face...!
+* What's the matter, human? * Are you surprised...!?
+* ...You look like you've seen a ghost.
+* Aha~! A handsome ghost, perhaps~?
+* I've seen one of those, too~!
+* Regardless...! * There's nowhere left to run, nor hide!
+* Aha~! * What a turn of events~!
+* The fabled human, in their flesh~!
+* ...Typically, humans DO have flesh.
+* Regardless...! * There's nowhere left to hide, you fleshy foe...!
+* For we are the purveyors of righteousness...!
+* ...We are the strong and mighty.
+* Aha~! * We are the embodiment of glory~!
+* We are...! `!rkb` * ...We are... `!rkk` * Aha~! We are~...!
+* The RUINED KNIGHTS!
+* How DARE you show your face down here...!
+* Ever since the WAR...!
+* Aha~! As time has grown, so has the sadness~!
+* A prison of earth, a prison of time~!
+* ...We've been waiting for the day we walk free.
+* Your rampage hasn't gone unnoticed, you brute...!
+* Aha~! * Most dreadful, most disgusting~!
+* A slaughter most senseless, and quite silly too~!
+* ...We refuse to let you go any further.
+* Quite right, my comrades...!
+* And so now...! `!rkb` * ...Now... `!rkk` * Aha~! Now~...!
+* We shall DO BATTLE!
+* What's the matter, human? Are you surprised...?!
+* Surely, you expected to encounter...
+* The RUINED KNIGHTS!
+* Engarde, fiend...!
+* Thank you, human...!
+* You've helped us all realize something about ourselves...!
+* ...I can be myself, and my friends will accept me.
+* Aha~! My hubris shall blind me~!
+* My eyes are too beautiful for that~!
+* ...Heh, some things never change, I guess.
+* ...Let's get going, guys.
+* The Ruined Knights attack!
+* The Ruined Knights pose!
+* The Ruined Knights!
+* It's the Ruined Knights!
+* The Ruined Knights prepare to strike!
+* Scutler prepares his next attack.
+* Scutler prepares to strike!
+* Scutler prepares his strongest attacks.
+* Scutler vows to get revenge.
+* Scutler isn't holding back anymore.
+* Scutler tightens his grip.
+* Scutler admits defeat.
+一个小偷 ...！ 那 是 我 的 三 明 治 ...！
+Now! RIGHTEOUS BLADE...!
+Scoundrel...!
+Surrender, fiend...!
+JUSTICE shall prevail...!
+Now! Prepare for DEFEAT...!
+Prepare yourself...!
+I don't need them...! I have JUSTICE on my side...!
+Vile scum...!
+How DARE you...!
+Demon...!
+Despicable...!
+`#`They ABANDONED #their mission...! #They don't CARE #about me...!
+You're right...! I'm sorry, my comrades...!
+You VILE FIEND...!
+Let's finish this fight...!
+POWER UP...!
+POWER UP...! AGAIN...!
+POWER UP...! YET AGAIN...!
+* SCUTLER - AT 6 DF 6 * This self-proclaimed knight keeps his allies close.
+* I remind Scutler how much the Knights mean to him.
+* Nothing happens.
+* I remind Scutler how much the Knights mean to him.
+* He begins to tremble...
+* I remind Scutler that the Knights care about him.
+* He finally understands.
+* I remind Scutler that the Knights are waiting for him.
+* I remind Scutler about his fallen comrade.
+* I remind Scutler about his fallen comrades.
+* Scutler's AT went up!
+* I challenge Scutler to a duel, but he refuses.
+* I challenge Scutler to a duel.
+* I ask Scutler why he's holding back his strength.
+* Before I can get a word out, Scutler prepares a strong attack.
+* Scutler's AT went up!
+Scutler
+* Check
+* Remind
+* Challenge
+* Ballard stares into my SOUL.
+* Ballard swears vengeance upon me.
+* Ballard attacks!
+* Ballard shifts nervously.
+* Ballard is ready to be himself.
+...I wasn't hungry anyways.
+...
+... 呵 。
+...Face our power.
+... 放 弃 吧 。
+...Keep pretending.
+...Gotta play the part.
+... 现 在 正 是 你 的 死 期 。
+... 你 已 经 没 有 后 悔 药 吃 了 。
+... 你 会 后 悔 的 。
+`#`...I must put #my duty first. #What would the #others think...?
+`#`...I can't keep #pretending I'm #someone else. I #need to be happy.
+...Thanks, human.
+...
+...Good luck. Even Loox can't beat me.
+...A worthy opponent.
+...Nice try, kid.
+...You had your chance.
+* BALLARD - AT 7 DF 5 * Quiet and stoic, `#`this brooding `i`brute masks his emotions.
+* I give Ballard a smile.
+* He seems reluctant to do the same...
+* I tell Ballard that the others will accept him for who he is.
+* He lets out a large sigh.
+* I give Ballard another smile!
+* He... probably smiled back.
+* Ballard isn't listening to me.
+* I stare at Ballard.
+* He stares back.
+* I continue to stare at Ballard.
+* His gaze doesn't waver one bit.
+* I keep staring at Ballard...
+* ...But I can't help but blink.
+* I stare at Ballard, but he shakes his head.
+Ballard
+* Check
+* Encourage
+* Stare
+* Karapaes sings a song of vengeance.
+* Karapaes prepares to prove his power!
+* Karapaes attacks!
+* Karapaes has been humbled.
+* Karapaes has been humbled...?
+Aha~! Now I'm going to starve~!
+Aha~! Glory~! Gold~! Grapes~!
+Aha~! So sweet, yet so bitter~!
+Aha~! Let's fight tonight~!
+Aha~! I can't stop laughing~!
+Aha~! Let's win on a whim~!
+Aha~! Prepare for your doom~!
+Aha~! It's time to die~!
+Aha~! The nectar of revenge~!
+Aha~! Heroic, that's me~! The one and only~!
+Aha~! An adoring fan, how I adore~!
+Aha~! The mixing of messages, how marvelous~!
+Aha~! I can't hear you~!
+Aha~! They... don't like that~!
+Aha... How could I have been so blind...?
+Aha~! stop
+* KARAPAES - AT 4 DF 8 * With an ever-inflating ego, this monster adores praise.
+* Karapaes doesn't seem to listen to me.
+`#`* I decide to praise Karapaes... #* ...Right after I criticized `i`him.
+* Suffice to say, he is very confused.
+* I praise Karapaes for his heroic nature.
+* I tell Karapaes what an amazing Knight he is.
+* He almost seems to sparkle.
+* I tell Karapaes that nobody's charisma can compare to his own.
+* He lets out a hearty laugh.
+* Karapaes's AT went up!
+* I try to praise Karapaes further...
+* But he doesn't seem to hear me over his ego.
+* Perhaps this was a bad idea.
+* I ask Karapaes what the Knights think of his arrogance.
+* I tell Karapaes that he'll never be a good Knight if he holds on to his pride.
+* I tell Karapaes that egotism isn't a good thing.
+* He gets the picture.
+* Karapaes isn't listening to me.
+甲 壳 兽
+* 检 查
+* 赞 颂
+* 斥 责
+蛙 吉 特
+* 一 只 蛙 吉 特 朝 我 走 来 了 ！
+* 检 查
+* 鼓 励
+* 亲 吻
+* 蛙 吉 特 - 攻 击 4  防 御 5 * 这 个 怪 物 的 生 活 似 乎 很 艰 难 。
+* 我 给 了 蛙 吉 特 一 个 灿 烂 的 微 笑 并 竖 起 了 大 拇 指 。
+* 蛙 吉 特 理 解 了 我 的 意 思 ， 并 以 微 笑 回 应 。
+* 我 跪 下 吻 了 蛙 吉 特 的 鼻 子 。 * ...什 么 都 没 有 发 生 。
+* 我 不 知 道 我 在 期 待 什 么 。
+嘿 ， 你 好 啊 ， 小 蛙 吉 特 ！ 你 今 天 过 得 怎 么 样 ？
+看 来 你 已 经 见 过 我 的 新 朋 友 了 ！
+我 们 之 后 再 聊 吧 ， 我 现 在 很 忙 。
+`#`呱 ， 呱。 #(我 很 抱 歉 ， 艾 斯 戈 尔 ！ #我 们 过 会 再 见 `@`！)
+哦 - 噢 ， 天 啊 ！ 我 很 抱 歉 ， 小 蛙 吉 特 !
+这 是 我 的 一 个 朋 友 。 他 没 有 真 正 的 恶 意 ， 他 只 是 太 害 怕 了 而 已 。
+你 需 要 我 的 帮 助 吗 ？
+呱 ， 呱 ... #( 我 还 好 。 谢 谢 你 ， 艾 斯 戈 尔 `@`。)
+人 类 ， 你 要 记 住 ， 虽 然 保 护 好 你 自 己 很 重 要 ...
+但 你 得 先 冷 静 下 来 分 析 你 的 对 手 。
+直 接 诉 诸 暴 力 不 是 解 决 问 题 的 办 法 。
+呱 ， 呱 !! #( 艾 斯 戈 尔 ！ 你 还 好 吗 \\？)
+啊 - 啊 ，  是 的 ， 是 的 。 我 还... 我 - 我 还 好 。
+抱 歉 ， 我 的 朋 友 只 是 ... 太 害 怕 了 。
+他 没 有 恶 意 的 。
+呱 ， 呱 ... #( 既 然 你 这 么 说 了 ...)
+( 我 真 心 希 望 你 能 好 点 。) 呱。
+孩 子 ... 那 个 蛙 吉 特 没 有 恶 意 。
+保 护 好 你 自 己 固 然 重 要 ...
+但 你 也 不 能 没 有 警 告 就 立 刻 攻 击 。
+立 刻 就 诉 诸 暴 力 不 是 解 决 问 题 的 办 法 。
+尤 其 是 当 你 还 没 有 ... 被 攻 击 的 时 候 ...
+...
+我 们 走 吧 。
+蛙 吉 特
+* 检 查
+* 鼓 励
+* 亲 吻
+* 蛙 吉 特 - 攻 击 4  防 御 5 * 这 个 怪 物 的 生 活 似 乎 很 艰 难 。
+* 我 给 了 蛙 吉 特 一 个 灿 烂 的 微 笑 并 竖 起 了 大 拇 指 。
+* 蛙 吉 特 理 解 了 我 的 意 思 ， 并 以 微 笑 回 应 。
+* 我 跪 下 吻 了 蛙 吉 特 的 鼻 子 。 * ...什 么 都 没 有 发 生 。
+* 我 不 知 道 我 在 期 待 什 么 。
+* 蛙 吉 特 尝 试 着 逃 跑 。
+* 蛙 吉 特 似 乎 不 愿 和 我 战 斗 。
+`#`呱 ， #呱 呱 ！
+`#`( 脸# 一 下# 红 了 )#呱 - 呱 呱 ？
+`#`呱 呱 。
+跳 ， #跳 。
+蹦 ， #跳 。
+Crrro-#oooak!
+忧 郁 虫 虫
+* 检 查
+* 安 慰
+* 恐 吓
+* 亲 吻
+* 忧 郁 虫 虫 - 攻 击 5  防 御 0 * 这 个 怪 物 看 起 来 好 像 非 常 害 怕 战 斗 。
+* 话 还 没 说 到 一 半 ， 忧 郁 虫 虫 就 哭 着 飞 走 了 。
+* I make a creepy face and do an evil laugh.
+* Whimsun freaks out!
+* I give Whimsun a little kiss on the forehead.
+* Whimsun blushes.
+* Whimsun is hyperventilating.
+* Whimsun is trying to escape.
+* Whimsun feels a bit more appreciated.
+`#`I can't #handle #this...
+`#`Please #don't...
+`#`C-Can... #I have #one...?
+`#`谢 - 谢 谢#你 ...
+`#`呃 - 呃 呣 ...
+我 - 我 喜 欢 花 ..
+`#`我 不 怎 么 #出 去 #的 ...
+我 很 抱 歉 ...
+哦 不 ...
+`#`*呜 呜 ， #呜 呜*
+`#`我 别 无#选 择 ..
+`#`原 谅 #我 吧 ...
+卢 克 眼
+* 检 查
+* 凝 视
+* 欺 负
+* 卢 克 眼 - 攻 击 6 防 御 6 * 我 几 乎 能 感 觉 到 这 个 怪 物 的 锐 利 的 目 光 。
+* 我 目 不 转 睛 地 盯 着 卢 克 眼 。
+* 他 认 为 这 是 一 种 挑 战 。
+* 我 继 续 盯 着 卢 克 眼 。
+* 他 似 乎 没 有 预 料 到 这 一 点 。*...
+* 继 续 ... 盯 着 ... `!looxblink_0`There! * 卢 克 眼 眨 了 眨 眼 睛 ！
+* 继 续 ... 盯 着 ... `!looxblink_1`There! * 卢 克 眼 眨 了 眨 眼 睛 ！
+* 那 么 做 没 有 意 义 。
+* 我 已 经 赢 了 ，卢 克 眼 知 道 。
+* 我 告 诉 卢 克 眼 他 的 眼 袋 至 少 能 装 25 G 。
+* 他 笑 了 笑 作 为 回 应 。
+* 我 问 卢 克 眼 是 否 参 加 过 躲 避 球 比 赛 。* 当 然 是 他 当 球 。
+* 我 告 诉 卢 克 眼 ， 他 有 像 一 头 疲 惫 的 驴 一 样 的 魅 力 。
+* 这 不 是 很 有 效 。
+* 不 管 我 说 什 么 ，卢 克 眼 一 点 都 不 在 乎 。
+* 卢 克 眼 在 出 汗 。
+* 卢 克 眼 承 认 自 己 输 了 。
+* 他 似 乎 没 有 预 料 到 这 一 点 。
+`#`我 打 赌#你 在#盯 着 看#比 赛 里#赢 不 了 我 ！
+`#`继 续！
+你 就 知 道 ！
+`#`哈 ！你 是 #永 远 也 #没 办 法 #打 败 我 的 ！
+`#`加 油 ， #努 力 ... #就 差 #一 点 点 #了 ...
+`#`切 ...! #你 赢 了...
+我 想 巴 拉 德 是 对 的 ...
+哈 ！真 不 错 ！
+`#`几 #次， #讲 真 。
+呃 ，这 太 过 分 了 。
+放 弃 了 ？ 好 ！
+`#`我 明 白 ，#我 明 白 ...
+你 在 看 什 么 ？！
+我 在 盯 着 你 呢 。
+蔬 菜 兽
+* 检 查
+* 说 话
+* 吞 噬
+* 晚 餐
+* 蔬 菜 兽 - 攻 击 6  防 御 6 * 高 纤 维 ，本 地 产 。
+* 我 对 \"蔬 菜 兽 说 \\，\" 你 好 ！
+`#`* 我 吃 了 一 口 蔬 菜 兽 * 嗯 ... 味 道 不 错 。 * 我 恢 复 了 5HP！
+* 我 试 着 咬 蔬 菜 兽 ，但 是 它 的 表 面 太 硬 了 。
+* 也 许 一 些 暴 力 会 让 它 变 软 点 ！
+* 我 揉 了 揉 肚 子 。* 但 是 蔬 菜 兽 拒 绝 再 给 我 吃 了 。
+* 我 揉 了 揉 肚 子 。* 蔬 菜 兽 提 供 美 味 的 一 餐 。
+* 蔬 菜 兽 心 满 意 足 。
+当 地 特 产
+`#`你 知 道 #植 物 #是 #没 法 #讲 话 的 吗 ？
+`#`咱 们 #可 别 #太 #贪 心 了 。
+`#`熏 制 ， #可 口 ， #绿 色 。
+派 对 必 备
+全 新 口 味
+`#`配#方 #说 出 来#吓 死 #你
+小 膜 怪
+* 检 查
+* 戳
+* 模 仿
+* 小 膜 怪 - 攻 击 6  防 御 0 * 曲 线 迷 人 ，但 似 乎 不 太 明 亮 。
+* 我 伸 手 捅 了 捅 小 膜 怪 。* 它 用 抖 动 来回 应 我 。
+* 我 发 出 一 些 咯 咯 的 声 音 来 和 小 膜 怪 交 流 。
+* ... 我 不 知 道 我 刚 刚 说 了 什 么 ，但 它 看 起 来 很 开 心 。
+`#`哇 呜 -#啦 卟...
+`#`卟 啦 -#咕 啦 ！！
+吧 卟  叭 吧 叭 卟 ！
+`#`*史 莱 姆 #嘀 咕 #噪 音*
+`#`嘎 咕 ？
+`#`咕 啦-#咕 啦 吧 。
+`#`*优 美 的 #扭 动*
+`#`*很 史 莱 姆 的 #声 音*
+`#`卟 啦#吺 吺 吺 卟 ！
+八 卦 玫 瑰
+* 检 查
+* 八 卦
+* 赞 美
+`#`* 八 卦 玫 瑰 - 攻 击 5  防 御 7 #* 这 朵 花 充 满 了 傲 慢  `i`，洋 溢 着 美  丽 。
+* 我 悄 悄 告 诉 八 卦 玫 瑰 我 听 到 的 一 些 事 情 ...
+* 我 解 释 一 下 ， 这 与 ...
+* 最 后 ，我 揭 露 了 整 个 事 情 是 由 ...！
+* 我 想 不 出 还 有 什 么 可 以 八 卦 的 了 。* 就 算 是 八 卦 玫 瑰 也 似 乎 想 不 出 来 了 。
+* 我 告 诉 八 卦 玫 瑰 ，她 的 花 瓣 今 天 看 起  来 特 别 饱 满 。
+* 她 咯 咯 地 笑 着 ，移 开 了 自 己 的 目 光 。* 八 卦 玫 瑰 的 防 御 力 下 降 了 ！
+* 八 卦 玫 瑰 在 发 抖 。
+* 八 卦 玫 瑰 已 经 准 备 好 把 这 事 给 别 人 说 了 。
+哦 ，真 的 吗 ？告 诉 我 更 多 ！
+什 么 ！你 开 玩 笑 的 吧 ！！
+难 以 置 信 ！ 哦 ， 我 的 天 呐 ， 这 真 是 一 次 大 开 眼 界 的 经 历 ！
+我 得 把 这 事 告 诉 大 家 ！
+你 自 己 也 不 错 ， 小 可 爱 。
+连 续 5 年 呼 啦 圈 冠 军 ， 好 耶 ！
+我 跟 你 说 ， 小 姑 娘 ， 你 戴 上 蝴 蝶 结 一 定 很 可 爱 ！
+天 呐，我 的 天 呐 ，是真的吗？！
+来 吧 ，亲 爱 的 ，别 害 羞 ！
+花 的 力 量 ！
+你 听 说 过 ...
+你 闻 起 来 像 泥 土 。真 不 错 ~
+花 的 力 量 ！
+你 听 说 关 于 ... 的 最 新 丑 闻 了 吗 ？
+你 知 道 吗 ？
+你 不 会 相 信 的 ...
+篷 姬
+* 检 查
+* 提 速
+* 讲 笑 话
+* 腾 姬 - 攻 击 6  防 御 4 * 她 很 喜 欢 飙 车 ，因 为 可 以 逃 避 责 任 。
+* 我 用 嘴 发 出 摩 托 车 的 声 音 。
+* 腾 姬 认 为 这 是 挑 战。* 腾 姬 的 速 度 提 升 了 ！
+* 我 伸 出 双 手 ，模 仿 摩 托 车 把 手 的 动 作 。
+* 腾 姬 拒 绝 放 弃 。* 腾 姬 的 速 度 提 高 了 ！
+* 我 发 出 更 多 的 摩 托 车 噪 音 。
+* 腾 姬 如 此 兴 奋 ，她 加 速 离 开 。
+* 我 示 意 腾 姬 停 下 来 ，但 她 却 在 我 身 边 转 了 个 圈 。 
+* 我 给 腾 姬 发 信 号 让 她 停 下 来 ！然 后 拿 起 她 的 帽 子 扔 到 某 个 地 方 。
+* 我 示 意 腾 姬 停 下 来 ，但 这 次 她 不 听 。
+* 腾 姬 正 准 备 逃 跑 。
+呜 呼 ，开 冲 ！
+我 们 上 路 吧 ！
+我 的 头 盔 ！现 在 我 看 起 来 只 比 你 酷 85% !
+不 错 的 尝 试 ！
+摇 滚 乐 ！
+让 我 们 制 造 点 噪 音 吧 ！
+* 轮 胎 嘶 鸣 *
+好 耶 ，呜 呼 ！
+说 唱 格 罗
+* 检 查
+* 对 话
+* 说 唱 格 罗 - AT 7 DF 5 * 是 个 唯 唯 诺 诺 的 怪 物 ，可 能 是 因 为 糟 糕 的 成 长 环 境 。
+* 我 对 说 唱 格 罗 \"说\\，\" 你 好 * 看 来 这 次 没 有 嘘 声 了 。
+* 我 试 着 和 说 唱 格 罗 说 话 ，但 它 只 是 对 我 发 出 嘶 嘶 声 。
+* 说 唱 格 罗 不 再 因 和 我 战 斗 而 感 到 压 力 了 。
+你 好 ~
+你 的 废 话 没 用 ！
+`#`嗨 - 嗨 ~！
+让 我 们 整 夜 跳 舞 吧 ！
+哈 洽 洽!
+`#`我 毫 不 #在 意 #这 个 #世 界~！
+`#`Take one #step, #and then #again~!
+`#`Swing #your arms #from #side to #side~!
+`#`EXECUTE #THE #STRATEGY!
+HEED THE SWARM!
+战 斗 ！ 取 胜 ！
+WE SHALL #OVER-#WHELM!
+`#`WE ARE #LEGION!
+`#`PERISH, #SINGLE-#MINDER!
+* 帮 帮 我 ！
+* ...！ 一 个 人 类 ？！ * 你 看 起 来 很 能 干 ， 能 帮 帮 我 吗 ？
+* 我 刚 在 和 朋 友 聊 天 ， 然 后 突 然 ...
+* Those Greasers kidnapped him!
+* They've had it out for him, since... well, that's not important. He needs help!
+* 求 你 了 ！ 你 会 干 的 吧 ？
+是
+否
+* 真 - 真 的 吗 ！
+* They dragged him down that alley to the left of me.
+* If you need to prepare yourself, go and visit the mini-mart! But quickly!
+* Go teach 'em a lesson, kid! * And be careful!
+* W-what?! No?! * You're just gonna LET this happen?!
+* I mean, he's tough... (enough), but he can't handle all three of them!
+* Look. They're in the alley to the left of me.
+* If you need to prepare yourself, go and visit the mini-mart! But quickly!
+* Please, just... do something!
+* Oh, Buddy...
+* Look, don't worry! * They're all a bunch of pushovers, anyways.
+* If you beat them up, they'll just FLEE! Wimps...
+* C'mon, bud`@`. ; )`p1`#* I'm only asking you to stay away from MY gal. ; )
+* Wh- Aaxel, what are you talking about?
+* She's rejected you every! Single! Time!
+* Plus, I'm just her COWORKER! I've done NOTHING.
+* Oh, really`@`? ; )
+`#`* Is that why you've been `i`making googly eyes at her`@`? ; )
+* (Yeah, googly eyes\\!)
+* Squorb, squirb!
+* Are you even listening to what I'm saying, meathead?
+* Or are your ears just clogged?
+* with MEAT
+* (You really think you can talk to the boss like that\\?\\!)
+* (Ooh, you'rrr-REALLY gonna get it\\!)
+* Squorsh, squirsh!
+* Alright, alright. Cool it, fellas`@`. ; )
+* Let's not have a cow over this`@`. ; )
+* Now...
+* Listen here, bozo. This can go one of two ways`@`. ; )
+* Either you flake off, or we'll give you a knuckle sandwich`@`. ; )
+* F-fine, heheh! I'll take mine with extra cheese!
+* LIKE THAT CHEESY HAIRDO OF YOURS!
+* Squip, squip, squip!
+* Wh- Moldrick! Whose side are you on`@`?! ; )
+* Squick... squash.
+* Tch`@`...! ; )
+`#`* ...You wanna talk tough, `i`punk`@`? ; )
+* Let's see how far I can dig into your face`@`...! ; )
+* Rib...?
+* (ACK! Aaxel, I think we got anotherrr customer\\!)
+* Huh? Norman, we're about to cook this small fry`@`! ; )
+* What could possibly b--
+* Huh, an audience`@`! ; )`p1`#* I wasn't expecting that,`p1` let alone a human. ; )
+* Don't you know it's rude to snoop, though`@`? ; )`p1`#* What's your deal? ; )
+* (I think this human... wants to pick a FIGHT with us\\!)
+* Squelch, squilch`@`! >:(
+* Well, if it's a FIGHT they want...
+* Let's rumble, Greasers`@`! ; )
+* Huh? You wanna say that again, punk`@`? ; )
+* I'm not sure I heard that correctly`@`... ; )
+* Are you even listening to what I'm saying, meathead?
+* Or are your ears just clogged?
+* with MEAT
+`#`* Haw, that's really `i`funny`@`... ; )
+* Wanna know what's even funnier, though`@`? ; )
+* The knuckle sandwich I'm about to give you`@`...! ; )
+* 呱 ...？
+* (ACK! Aaxel, I think we got anotherrr customer\\!)
+* Huh? Norman, we're about to cook this small fry`@`! ; )
+* What could possibly b--
+* Huh, an audience`@`! ; )`p1`#* I wasn't expecting that,`p1` let alone a human. ; )
+* Don't you know it's rude to snoop, though`@`? ; )`p1`#* What's your deal? ; )
+* (I think this human... wants to pick a FIGHT with us\\!)
+* Squelch, squilch`@`! >:(
+* Well, if it's a FIGHT they want...
+* Let's rumble, Greasers`@`! ; )
+* Let's rumble, Greasers`@`! ; )
+* Aagh, this human is t-too strong`@`...! ; )
+* H-heh, yeah! And if you think that's it...
+* Just wait until you see what ELSE they can do...!
+* N-no! NO! WE'RE SORRY`@`! ; )
+* WE WON'T BOTHER YOU EVER AGAIN`@`! ; )
+* L-let's get out of here, Moldrick`@`! ; )
+* L-let's get out of here, Norman`@`! ; )
+* L-let's get out of here, fellas`@`! ; )
+* Boo.
+* YEAH! You guys better run!
+* And if you ever think of messing with me again...
+* My little buddy here's gonna BITE YOUR ANKLES!
+* ...
+* I can't believe that actually worked???
+* Holy cow. Thanks, little buddy!
+* I thought I was a goner for a second there.
+* 我 是 -
+* 好 吧 ， 我 是 谁 完 全 不 重 要 ！！
+* What matters is, you got me out of that jam.
+* So hey, thanks a lot for that.
+* . . .
+* Tell ya what, little buddy.
+* Since the frycook is...
+* \"...TAKING A BREAK...\"
+* I guess I can hook you up with some grub `cY`at Grillby's`c$`.
+* Even though it's. Not my job??
+* . . .
+* Later!
+* The Greasers are ready to rumble!
+* The Greasers are ganging up on me! * ...Like a gang!
+* The Greasers all snap their fingers. And sleeves. And gelatinous forms.
+* Aaxel flexes his muscles! * Norman flexes his height! * Moldrick flexes his... self.
+* The Greasers cackle in unison!
+* Attack of The Greasers!
+* The Greasers cackle in unison!
+* The Greasers snap their fingers. And sleeves.
+* Aaxel cracks his knuckles and glances over at his former prey.
+* Aaxel flexes his muscles!
+* Aaxel prepares to pack a punch!
+* Aaxel is getting tired.
+* Aaxel mourns the loss of his jacket.
+* Aaxel ran away!
+`#`This is a wink #of sadness`@`. ; )
+Now everybody's going to see my glistening pecs`@`... ; )
+That was my third-favorite jacket, too`@`... ; )
+Guys? Hey, GUYS`@`?! ; )
+WEEAAKK`@` ; )
+Can't handle this`@`! ; )
+Buzz off, unless you wanna see what I can REALLY do`@`. ; )
+Just you and me, now`@`. ; )
+Greasers, assemble`@`! ; )
+You shouldn't have tangoed with us`@`! ; )
+Next on the menu: pound cake`@`! ; )
+Buzz off, unless you wanna see what we can REALLY do`@`. ; )
+Me and the boys, here`@`... ; )
+`#`You look like you#crawled out of#the sewers, kid`@`.#; )
+`#`Buzz off,#unless you#want some more`@`.#; )
+`#`We'll wipe the#floor with you`@`!#; )
+You call THAT a flex? Let me show you how it's done`@`. ; )
+`#`Getting tired? #I know I'm not`@`.#; )
+`#`*sniffle, sniffle* #My coolness`@`... ; )
+I can't believe it`@`... ; )
+B-buttface?! You call THAT an insult`@`? ; )
+That's what I thought`@` ; )
+*sniffle* I'm a doody-head, alright`@`... ; )
+Yeah, right! Try again when you've got muscles like MINE`@`! ; )
+`#`I have nothing#left to lose`@`...#; )
+Kid, I literally have nothing else to lose`@`... ; )
+* AAXEL - AT 24 DF 12 * The boss of the bunch. Proud of his muscles.
+* I challenge Aaxel to a flexing contest. * Aaxel's AT went up!
+* Aaxel and I both flex harder, staring intensely at one another.
+* Aaxel's AT went up!
+* Aaxel continues flexing his bulging muscles until...!
+* ...he flexes too hard, ripping his leather jacket into pieces.
+* I flex my muscles, but Aaxel is too lost in shame.
+* I think of the nastiest insult I can say, and...! * Aaxel's EMOTION went down!
+* I think of the nastiest insult I can say, and...! * Aaxel's DF went down!
+* I refuse to embarrass myself further.
+* I demand more money, but Aaxel just shakes his head.
+* I demand Aaxel to give me his lunch money. * Dejected, he throws me 15G.
+* I demand Aaxel to give me his lunch money.
+* He's... laughing.
+Aaxel
+* Check
+* Flex
+* Insult
+* Lunch Money
+* Moldrick gurgles aggressively.
+* Smells like rancid citrus.
+* Moldrick bubbles with fury.
+Squorsh, squirsh!
+Squersh, squeersh!
+Blurg, glurg!
+*angry gurgling*
+Squib, squab!
+Squo~ob!
+Blorgawoorb!
+Blooorrrggg...!
+*content gurgling*
+Bluurrrrbb!
+Wiggle worgle??
+...Glorb?
+*content gurgling*
+* Moldrick is focused on me.
+* Moldrick is following my lead.
+* Moldrick has finally calmed down.
+* Moldrick ran away!
+* MOLDRICK - AT 6 DF 2 * A renegade Moldsmal looking to fit in.
+* Moldrick is already calmed down. There's no need to do that.
+* I wave my arms to get Moldrick's attention. * He noticed...!
+* I shout at Moldrick to look at me, but he already is.
+* I start bobbing up and down, like Moldrick. * We're syncing up!
+* I keep wiggling from side to side.
+* Moldrick does the same... `!moldbrows`until his eyebrows fall right off.
+* I do a slow, interpretive dance with Moldrick.
+* I start bobbing up and down, like Moldrick.
+* ...Uh oh, that just made him mad!
+Moldrick
+* Check
+* Call Out
+* Imitate
+* Norman towers above!
+* Norman rocks from side to side.
+* The shadow of Norman looms over me.
+Get rrrrready for THIS!
+You little brrrrat!
+Let's tussle!
+Let's dance!
+You'rrre going DOWN!
+(We RULE these streets\\!)
+(Yeah, the SEWERS`@`!!)
+(Yeah, rrrun away! Like a scared little... uh...)
+(W-what? No, you don't! ...D-Do you\\?)
+(W-what does that MEAN`@`?!)
+(Yeah, rrrrright! Like I'd fall for THAT\\!)
+`#`(GYAH! WHERE`@`?!)
+(Not so fast, brrrrat\\!)
+...Uh oh.`p4``!normspare`
+* Norman is quaking with fear.
+* Norman looks around wildly for the distraction.
+* Norman ran away!
+* \"NORMAN\" - AT 9 DF 5 * Is there more to this guy, than meets the eye?
+* I tell Norman that I know his secret.
+* I tell Norman I know he eats his toast butterfly side down.
+* I say there's another person who knows his secret... * And they're RIGHT BEHIND HIM!
+* I tell Norman that there's something distracting behind him.
+* I quickly pull on Norman's trenchcoat, revealing...!
+* ...
+* I try to pull on Norman's coat, but he quickly shuffles away.
+Norman
+* Check
+* Intimidate
+* Distract
+* Reveal
+* Thank you, dear audience, for coming out to see me!
+* But oh, how dreadful! * It seems the show has come to an end!
+* 不 ！ 镁 格 丽 特 ， 留 下 来 吧 ！
+* 呱 呱 ， 呱 呱 ！ (镁 格 丽 特 ， 我 们 爱 你 \\！)
+* Mettacrit Is Love Mettacrit Is Life
+* 我 知 道 ， 我 知 道 ！ * You're all so desperate for more!
+* Well, have no fear, my wonderful audience!
+* Stay tuned for my next show, where I'll...
+* ...
+* (...Wait. Is that... a human`@`?!)
+* (HERE?! RIGHT NOW`@`?!)
+* (I can't stop the show just yet\\!)
+* (...)
+* (Imagine the ratings...)
+* (EVERYONE will know my name\\!)
+* My next show, which... I'll have right now, at this very moment!
+* After all, how could I pass up such an opportunity...
+* ...for my adoring fans!
+* Introducing: a surprise guest performer...
+* The human!
+* Whoa... it's so real!
+* How did he get one of those?!
+* I LOVE YOU, METTACRIT!!!
+* (...Hey, do I know you from somewhere\\?)
+* (You look... familiar...)
+* (Just play along, okay? I need this.)
+* (Hey, human! Just play along, okay? I need this.)
+* Oh, human! How you've fallen so far from the surface...
+* And overcome so many obstacles just to make it here!
+* Yes, it's obvious to me that you have what it takes...
+* ...To be a STAR!
+* But oh! How could I forget...
+* What's your name, darling?
+Me...?
+I think...
+* Yes, of course! Best not to keep the audience waiting now!
+* ...\"Papyru\\?\"`p1` * I'm sure I've heard a similar name before!
+* Well, if this is your way of \"phoning in\" for a friend...
+* I suppose I'll indulge it for the sake of a fan, \"Papyru\\!\"
+* Oh
+* Are... are you sure? * \"Jerry\\?\\?\"
+* Well, that's... not what I expected, admittedly.
+* But that's besides the point!
+* ...\"Death\\,\"`p1` you say? * My, how... poetic!
+* Though, I must say... this show is far from dying!
+* (Nor do you look the \"grim reaper\" type, my dear.)
+* Ah, \"`$0`\\!\"`p1` * Quite a heroic sound to it, I must say.
+* Oh, I'm sure prophecies speak of your good nature!
+* Though, the only world for you to save here... is the stage!
+* Oh, my! * You mustn't let stage fright get to you, dear!
+* I understand it may be intimidating, being in my presence...
+* Though for the sake of time, I'll call you \"`$0`\\.\"
+* Oh, human. You can't fool me! I recognize an act when I see one.
+* After all, nobody has ever fallen asleep during my performances!
+* Repeating \"zzz\" over and over...
+* Why, that's not going to fool anyone!
+* Though I suppose I'll play along for now, and call you \"`$0`\\.\"
+* ...\"Asgorb\\?\"`p1` * You mean, like ASGORE...?
+* ...Oh, I see! * It's your stage name, isn't it?
+* Not exactly the most original... but it'll do, for the show!
+* Ah, \"`$0`\\!\"`p1`#* A cute name for a cute human!
+* Now, my wonderful audience...
+* Prepare for a unique performance overflowing with drama!
+* Action!
+* Romance!
+* And last but not least...
+* Bloodshed!
+* Oh, my!
+* Even with all my amazing acting and style...
+* I've never gotten the crowd THIS riled up!
+* They'll be talking about my show for weeks!
+* ...No. They'll be talking about OUR show for weeks!
+* I couldn't have done this without you, darling.
+* Thank you so much!
+* Just kidding!
+* Believe it or not... ghosts are immune to physical attacks!
+* But I bet I really sold you on that performance, didn't I?
+* I have to thank you for your excellent acting, darling.
+* You really sold your part!
+* In fact...
+* As a reward, I want to give you a personal, one-on-one...
+* Hangout session with yours truly!
+* Oh, everyone is going to be so jealous of you!
+* Just stop by my house in Crystal Springs whenever you're there.
+* I'll see you there, `$0`!
+* Well, well, well.
+* It seems you've been quite the busy little murderer.
+* How rude of you, slaughtering my audience like that!
+* And here I was under the impression humans WEREN'T freaks.
+* Perhaps you're just an exception?
+* A rotten egg? * A black sheep?
+* Tch... * Well... that's just fine!
+* If it's bloodshed you want, darling...
+* ...then I, Mettacrit, will put on a show you'll NEVER forget!
+镁格丽特
+* Check
+* 摆 姿 势
+* 调 情
+* Heckle
+* Mettacrit takes the stage!
+* Not very subtle, Mettacrit. * But if it's a plot twist you want...
+* Mettacrit scoffs.
+* Mettacrit stands proud!
+* Mettacrit turns to look at his crowd, then remembers there is none.
+* Mettacrit floats from side to side, anticipating my next attack.
+* Mettacrit prepares his next attack.
+* Mettacrit vows to avenge his audience.
+* Mettacrit dramatically sobs over my \"dead\" body.
+* Mettacrit sways from side to side, humming a little tune.
+* Mettacrit strikes a dramatic pose!
+`#`* Mettacrit turns to the mirror! #* ...But there isn't one there.
+* Mettacrit's eyes sparkle.
+* The audience proclaims their love for Mettacrit.
+* The crowd is chanting Mettacrit's name.
+* Unfortunately, dead people cannot move.
+* METTACRIT - 攻 击 12 防 御 12.
+* METTACRIT - 攻 击 12 防 御 12 * A glamorous ghoul with a goal for greatness.
+* Unfortunately, dead people cannot move.
+* In a tragic twist of fate, I fall dead upon the stage.
+* All an act, of course.
+* I strike a dramatic pose, and tell Mettacrit we were never meant to be.
+* For my heart... belongs to another!
+* I pose dramatically, and Mettacrit does the same.
+* The crowd loves it.
+* I strike another pose!
+* A round of applause, but not as much excitement as before.
+* Once again, I strike a pose.
+* It seems the audience is getting bored...
+* Unfortunately, dead people cannot move.
+* I tell Mettacrit that he shines brighter than any star.
+* He looks like he has an idea...
+* I wink at Mettacrit, and he blows a kiss in return.
+* The crowd is eating it up.
+* I make a heart gesture with my hands towards Mettacrit.
+* The crowd is going wild!
+* I try to tell Mettacrit that it isn't him, it's me...
+* But he quickly brings a finger to my lip, shushing me.
+* Unfortunately, dead people cannot move.
+* I come up with my best insult, and fling it Mettacrit's way.
+* I tell Mettacrit that he's a talentless hack.
+* He seems to take offense to this.
+* Before I can let out another insult, Mettacrit interrupts me.
+* I go to heckle Mettacrit further...
+* But he quickly brings a finger to my lip, shushing me.
+* I give Mettacrit a cruel stare, and reveal...
+* That I think he smells bad.
+* I come up with my best insult, and fling it Mettacrit's way.
+(Oh... Oh my god. Did I kill them\\?)
+(Please just be an act...)
+What's the matter? Are you intimidated by my looks, human?
+I can't say I blame you!
+Checking me out, are you, darling~?
+Oh, well. I can't say I blame you!
+I'm flattered, my dear, but we still have a show to put on!
+Oh, how dreadful! You've completely missed your shot!
+Better luck next time!
+Come on, you can do better than that!
+My, my! It seems you're no match for my power!
+What's the matter, human? Scared to hurt my handsome face?
+You sure know how to pack a punch.
+But can you try THIS on for size?
+Oooh, violence!
+Well, if it's a fight you want... it's a fight you'll get!
+You might be strong, but do you truly think you're destined to win?
+Oh, what strength you have!
+I may have underestimated myself...!
+Once I'm finished with you...
+...I-I'll notify the UNDERGROUND of my victory!
+Oh, I'll be celebrated as the savior of monsterkind!
+The pain! Oh, the pain!
+I'm not sure how much more I can take...!
+And t-then, all of the monsters you killed...
+Will... be avenged...
+Oh, the humanity! Human, won't you show me mercy?
+(gasp\\!) Oh, how horrible! My one true love... dead, from an unspecified cause!
+My heart... I do believe it's broken!
+Oh, `$0`...! Please, someone SPARE my poor heart from more pain!
+(gasp\\!) You already have a lover?!
+Oh, terrible day! My heart... I do believe it's broken!
+Oh, `$0`... please, SPARE my poor heart from more pain!
+Why must you toy with me further?!
+Please... just SPARE me from this torment...!
+That's it, gorgeous! Pose like there's no tomorrow!
+My, what style! But can you bring something NEW to the table~?
+(Come on, let's spice things up a little\\!)
+(We can't just pose for the whole show, now, can we\\?)
+(Oh, romance! That's genius\\!)
+Why, a human after my own heart! How poetic!
+But can your actions speak louder than mere words?
+Oh, my... you really are serious about this!
+Could... could it be?
+Are you my one true love?
+(No, that's too predictable\\!)
+(Let's give the audience a surprise TWIST~\\!)
+Oh! One true love! Let us join hands together, and frolick to the future!
+Nothing could possibly break us apart...!
+(...wink)
+Why must you toy with me further?!
+Please... just SPARE me from this torment...!
+Oh, murderous human...
+Sticks and stones may break my bones, but your words will never hurt me!
+Only a villain like you wouldn't appreciate REAL talent...!
+Enough talk, freak! Now is the time for actions, not words!
+W-what?! But, I even used my MTC-Brand Perfume...!
+Do... do you really think that...?
+Oh... my heart... I do believe it's broken!
+Oh, `$0`... please, SPARE my poor heart from more pain!
+Why must you toy with me further?!
+Please... just SPARE me from this torment...!
+What fierce words you have, my dear!
+The better to ignore them with!
+Smile for the audience!
+Let's see how you handle this!
+Show me what you got!
+It's showtime!
+Let's dance, darling!
+Alas! I have been struck down in fair combat!
+To think that things would end this way for little old me...
+(cough, cough...)
+I'd like to thank... everyone who's come to watch my shows...
+For giving me... everything... I've ever... wanted...
+(cough, cough...)
+Oh... I see a light! A light, off in the darkness!
+It's... (cough) time for me to go!
+Farewell, cruel world!
+Oh, what a cruel day...!
+I just wanted to love, and to be loved...!
+And instead... I was deceived by the one I loved most!
+Tricked by a crafty human...!
+(cough, cough...)
+I guess this... is the end... for little old me...
+M-my heart... (cough) I can feel it begin to shatter...!
+(cough, cough...)
+Farewell, cruel world!
+好 - 好 吧 ...
+至 少 ... 我 已 经 尽 力 了 。
+...
+哈 ... 哈 哈...
+I can't stop laughing, for my tears are welling up!
+I c-can't believe this is my final act...
+What a tragic end! Dying to avenge the monsters I swore to give hope...
+It's... almost poetic, in a way.
+Human...
+As vile as you are, I must commend you.
+Out of all my audiences...
+You have been the most memorable.
+This was surely a battle...
+...That will go down in history.
+艾 斯 戈 尔
+* 检 查
+* 聊 天
+* 提 问
+* 回 忆
+* 安 慰
+* 拥 抱
+* 艾 斯 戈 尔 挡 住 了 去 路 ！
+* 艾 斯 戈 尔 挡 住 了 我 的 去 路 。
+`cR`我 不 能 让 你 活 着 过 去 。`c$`
+`cR`... 就 是 战 胜 我 。`c$`
+* 艾 斯 戈 尔 - 攻 击 80 防 御 80 * 想 做 可 以 对 每 个 人 都 好 的 事 。
+* 我 告 诉 艾 斯 戈 尔 他 已 经 杀 了 我 三 回 了 。
+* 我 告 诉 艾 斯 戈 尔 他 已 经 杀 了 我 四 回 了 。
+* 我 告 诉 艾 斯 戈 尔 他 已 经 杀 了 我 五 回 了 。
+* 我 告 诉 艾 斯 戈 尔 他 已 经 杀 了 我 六 回 了 。
+* 我 的 所 作 所 为 无 法 用 言 语 来 形 容 了 。
+* 艾 斯 戈 尔 毫 无 反 应 。
+* 没 什 么 好 聊 的 。
+* 我 再 怎 么 努 力 ...
+* 我 好 像  就 是 说 不 出 口 。
+* 但 是 没 什 么 好 聊 的 了 。
+* 我 坚 决 地 告 诉 艾 斯 戈 尔 停 止 战 斗 。
+* 突 然 间 ...！
+* 我 差 点 就 告 诉 了 艾 斯 戈 尔 我 见 过 了 他 的 死 亡 。
+* 但 是 ... 这 会 很 诡 异 的 。
+* I quietly tell ASGORE that I don't want to fight him.
+* He hesitates a moment... but regains his composure.
+* I almost tell ASGORE that he's killed me already.
+* But... would he understand...?
+* I tell ASGORE that he's killed me twice.
+* Does he understand...?
+* I tell ASGORE that he's killed me too many times to count.
+* He's struggling to keep his composure.
+* 艾 斯 戈 尔 的 攻 击 力 下 降 了 ！ * 艾 斯 戈 尔 的 防 御 力 下 降 了 ！
+* 他 羞 愧 地 低 下 了 头 。
+* 我 坚 定 地 对 艾 斯 戈 尔 说 我 不 想 战 斗 。
+* 他 长 叹 一 声 ...
+* I ask ASGORE what he needs me to understand.
+* I ask why he chose to make a pie, if he's clearly more experienced with tea.
+* His breathing gets funny for a moment.
+* I ask ASGORE if pie reminds him of someone. * He chokes back a sob.
+* ASGORE's ATTACK went down! * ASGORE's DEFENSE went down!
+* But there was nothing else to ask.
+* I try to remind ASGORE of something, but he doesn't budge.
+* I remind ASGORE how I handled the Mad Dummy.
+* I remind ASGORE how I handled the Knights. * He's trembling...
+* I remind ASGORE how I handled the Knights. * His eyebrows raise.
+* I remind ASGORE how I handled the Greasers.
+* There's nothing else to remind him about.
+* I try to comfort ASGORE... * But now doesn't seem to be the right time.
+* 我 想 艾 斯 戈 尔 保 证 一 切 都 会 好 起 来 的 。
+* 突 然 间 ...！
+* ...
+* My options are expanding...! * TALK has opened to more ACTs!
+* ASGORE grips his trident harder than before.
+* ASGORE is starting to hesitate.
+* ASGORE remains unconvinced. * But maybe one more reminder...?
+* ASGORE remains unconvinced.
+* ASGORE looks impressed! * But there's still something to do.
+* . . .
+* But...
+* ASGORE is trembling.
+* It's starting to get hotter.
+* ASGORE is preparing something.
+* ASGORE has low HP.
+* ASGORE breathes heavily.
+* ASGORE contemplates his next attack.
+* ASGORE hesitates to attack.
+* ASGORE grips his trident.
+* ASGORE waits for my next action.
+. . .
+. . .
+... 为 什 么 ？
+... 我 - 我 ...
+我 不 - 不 能 ...
+我 ... 我 不 - 不 能 ...
+... 为 什 么 ...?
+我 的 朋 友 ... 我 的 子 民...!
+你  为  什  么  要  这  么  做 ？！
+我 给 予 你 了 我 的 仁 慈 ...
+我 给 予 你 了 我 的 信 任 ...
+这 就 是 你 的 回 报 ？！
+`e8`你 ... `e1`你 ...！
+我 ... 我 - 我 ...
+Human... I promise you. For as long as you remain here...
+I shall take care of you as best I can.
+We can sit by the fire, telling stories...
+Eating butterscotch-cinnamon pie...
+Eating butterscotch pie...
+We could even be like...
+Like a family!
+. . .
+...But no matter what I tell myself...
+I suppose that isn't what you want, is it...?
+You want to leave this place. To be free...
+I... I am so terribly sorry, young one. I shouldn't have brought you harm.
+I still believe the outside world is dangerous.
+But, at the same time, I recognize your determination...
+...Ha. What am I worried about. You'll be just fine, won't you?
+After all, you've made it this far...
+Perhaps... it's about time this old man had hope once more.
+Then please... turn back.
+Please... turn back.
+P-please... turn back.
+You don't understand...
+I'm doing this for your own good, young one!
+You don't understand what dangers await you.
+RUINED HOME has its perils, but...
+Just go back inside, human.
+We can share some pie and talk about this later.
+It's nothing you need to worry about.
+...
+对 不 起 ， 人 类 。 我 必 须 这 么 做 。
+印 象 深 刻 ， 不 过 ...
+你 ... 呃 呣 。
+我 ...
+You even taught Aaxel a lesson...?
+* My options are expanding...!
+* 聊 天 产 生 了 更 多 的 行 动 ！
+. . .
+You... have passed your final test, young one.
+I believe that, no matter what troubles you will face ahead...
+...You will reign triumphant.
+. . .
+D-don't you worry about me.
+That last hit just... took a lot out of me, is all.
+I just... need to take...   a  #l i t t l e   n a p .
+...!
+Human...? But, I thought... you...
+. . .
+I... was a fool to do this to you, wasn't I?
+Throwing you into mortal combat out of the blue...
+Of course you don't trust me after that.
+人 类 ... 我 很 抱 歉 。
+我  真  的  . . . #真  的  . . . #很  抱  歉  。
+. . .
+所 以 ... 这 就 是 结 局 了 。
+. . .
+I told monsters to lock their doors and seek shelter.
+Evacuate if possible.
+And I've already alerted the monsters outside.
+Know this, human: the underground shall go empty, and you will be left alone.
+I n   y o u r #s p e c i a l #h e l l .
+* The note reads: \"Howdy! If I'm not around, I'm most likely in my garden.\"
+* \"If you need to get something off your chest, don't hesitate to come by.\"
+`#``p1``i`\"- ASGORE\"
+* ...Yes, yes. I know. * I am fully aware of the situation.
+* With any luck, it won't come to that.
+* However, if it does... * I trust you will look after them.
+* . . .
+* 真 不 错 ！ * 我 就 知 道 你 靠 得 住 的 。
+* Now, about---
+* ...Oh!
+* It's great to see you again, child!
+* (Do excuse me, friend.) * (I'll have to call you back later.)
+* (Click.)
+* It's felt like forever since I last saw you!
+* With all of this ruckus about, I've been worried...
+* But while one thing led to another...
+* I shouldn't have left you alone. * For that, I am sorry.
+* You weren't given... too much trouble, were you?
+* Hmm... why, you're in tip-top shape!
+* Not that I expected any less, ohoho!
+* Now...
+* ...Oh, dear. Are you injured?
+* There, there... * You're in safe hands now, I assure you.
+* And if you need anything to get your spirits up, well...
+* My, that's... quite a lot of dust on your clothes!
+* I, erhm...
+* . . .
+* 不 - 不 管 怎 么 说 ！
+* Do you remember that \"treat\" I mentioned?
+* I had some... slight complications, but...
+* In the end, I whipped up something just as good.
+* Come inside and see!
+* Now, would you smell that?
+* Surprise! To celebrate your arrival...
+* I brewed a fresh pot of golden flower tea!
+* There's even cinnamon sprinkled in, just for you.
+* There's even a chunk of butterscotch on the side, just for you.
+* Now... you may be stuck here for some time.
+* So if you need a place to stay...
+* I have another surprise for you:
+* A bedroom of your own!
+* It's even stocked with toys and books! * How about that!
+* ...
+* I, erm... hope you don't mind all of this.
+* I'd like you to be comfortable for as long as you're here.
+* With that being said... I shall finish preparing the tea.
+* Perhaps take a nap in the meantime? You surely deserve it.
+* Hello, child! * The tea is currently cooling down.
+* It may take a while, in which case...
+* Perhaps you should take that nap?
+是
+否
+* Splendid! I will ensure your tea isn't cold when you awake.
+* I'd urge you to change your mind, young one.
+* Those bags under your eyes won't do you any good, ho ho ho!
+* Don't hesitate to tell me if you need anything.
+* Why, hello there!
+* Don't mind the change in clothes. * It's just to celebrate!
+* I can imagine a good rest did some wonders for you, eh?
+* And I'm sure that tea will, too!
+* Did you notice the cup of tea I left for you?
+* Don't worry, it won't grow cold any time soon.
+* ...
+* (Sigh...) It's such a pleasure to have you here, young one.
+* I know that your journey thus far has been difficult...
+* But now, you have nothing to worry about.
+* There are so many things I want to share with you.
+* Old stories and books, tea, gardening...
+* My, we could even visit Grillby's for a treat, occasionally!
+* I just... want you to be happy here.
+* That being said...
+* Is there anything you would like, right now?
+* Howdy! Is there anything you would like right now?
+出 口#在 哪 里 ？
+#没 什 么
+我 可 以#待 在 这 里 吗 ？
+* ...
+* ...Erm... the exit?
+* Well, yes, I can show you, but...
+* Why do you ask, child?
+Need to#leave
+#没 什 么
+I didn't#say that
+* ...T-the surface?
+* ...
+* Child... I do not want to keep you here against your wishes.
+* But, erm... could we speak about this later...?
+* Right now, I'm... not in the right mind to discuss it.
+* Do you need anything else?
+Can't#stay
+#N没 什 么
+I want#to stay
+* Now, now. There's no need to get upset...
+* I promise to explain everything in due time.
+* I just need to prepare myself.
+* If you want, I can... make you another cup of tea...?
+Return to#the surface
+#没 什 么
+What's#happening?
+* P-please, do calm down, child!
+* I promise you, it's safe here!
+* Nobody is going to hurt you anymore.
+#没 什 么
+帮 帮 我
+* 我 ... * 你 ...
+* ...
+* I... need some time to myself right now.
+* Please excuse me.
+* (Sigh...)`p1` * Human, I must confess...
+* Today is a very important day for me. After all...
+* It marks the day that I lost everything, many years ago.
+* Ever since, I've only wanted to atone for my mistakes...
+* But time and time again... I've done nothing but fail.
+* Since that fateful day, six humans have fallen.
+* Whether they would stay a while, or just be passing through...
+* Ultimately, they would leave. And t-then...
+* Their SOULs... * Taken from them, by the monsters outside.
+* This burden weighing down on my back...
+* `cB`TORIEL`c$`...
+* Human.
+* At first, I wanted to believe you were scared. Acting in self-defense.
+* But you... you went out of your way to find every monster you could.
+* To kill them all, until... I can't even imagine what your end goal was.
+* I once believed that anyone was capable of redemption.
+* However... today seems as if it will be an exception.
+* As such, I cannot allow you to leave.
+* . . .
+* Let us get to the point.
+* I know that look in your eyes...
+* That insatiable curiosity, that spark of adventure.
+* 你 的 「 决 心 」 ...
+* Just... like...
+* . . .
+* 我 真 心 地 感 到 抱 歉 ， 人 类 。
+* But on a day like this, wearing these robes of commemoration...
+* I can't allow myself to doom another child.
+* . . .
+* I am truly sorry, young one. But as I said.
+* You know what happens next.
+* The only way you're leaving Ruined Home...
+* Please... return inside. * I need to think.
+* . . .
+* Once you leave Ruined Home, a brand new journey shall begin.
+* While it will be hard, with monsters trying to take your SOUL...
+* You must remember that there are always friends to be made.
+* Still... don't forget about this place, once you go.
+* I certainly don't think the people of this city will forget YOU! Ho ho!
+* Hm? What's that?
+* . . .
+* 哦 — 哦 ！ Why, that's... quite a coincidence...?
+* I know, I should have asked for your name sooner!
+* It's just, there's this friend of mine, who...
+* ...Well, that doesn't matter right now.
+* You'll meet him soon enough.
+* . . .
+* 哦 — 哦 ！ Why, that's... that's your name, is it?
+* Well, I suppose I should have asked sooner...
+* . . .
+* 哦 — 哦 ！
+* That is... quite an interesting name to give a child.
+* Regardless...
+* \"Noelle\"...?
+* Ah. I know someone with that name.
+* Perhaps you'll get to meet her, out there! In any case...
+* `$0`! My goodness!
+* I take it that you're not comfortable giving out your name?
+* That's perfectly fi-, oh?
+* That... IS your name?
+* (Humans always did come up with the strangest names...)
+* Well, nonetheless...
+* . . .
+* Erm... child? * You haven't fallen asleep, have you?
+* Ah! You mean to tell me, that's your...
+* ...Well, I suppose I should have asked sooner.
+* ...Ohoho! Why, that's something.
+* I know I should have asked your name sooner...
+* But if you'd prefer a nickname, how am I to refuse?
+* ...Ah! My sincerest apologies.
+* I never even thought to ask your name!
+* Stay determined, `$0`. No matter the distance between us...
+* We will always be family.
+* There was a key among the dust. * I took it.
+* (He's fast asleep.)`p1` * (Best to let him rest.)
+* Using the key, I unlock the door.
+* 锁 上 了 。
+* . . .
+* 出 去 !
+* 锁 上 了 。
+* 锁 上 了 。
+* An old calendar.
+* It's an old calendar from 201X.
+* Oddly enough... today's date is circled.
+* Tattered rags.
+* These tattered scarves have seen better days.
+* These books... * I can't waste time reading them.
+* These books are so worn...
+* Seems like ASGORE enjoys a good read.
+* Cheap plastic distractions.
+`#`* A collection of action figures. #* Brave heroes and dastardly `i`villains, locked in combat.
+* But who will be the victor in this battle?
+* Stay tuned.
+* Boring toys.
+* Wow, so many cool toys...! * I hope someone enjoys them.
+* Old clothes.
+* This closet is filled with clothes for every occasion. * All with stripes, of course.
+* A fake window.
+* On second glance, it's just a glow in the dark decoration.
+* Huh.
+* Since when did it get so dark outside? * And... underground...?
+* It's a comfortable-looking bed.
+* Should I take a nap?
+是
+否
+* I suppose I deserve some rest.
+* The next day...
+* I wake up to the smell of a butterscotch-cinnamon pie.
+* I wake up to the smell of a butterscotch pie.
+* ASGORE opens the door to my room, saying \"Howdy\\!\" as he brings me a slice.
+* We spend the day sitting by the fire, telling stories...
+* Eating pie...
+* Almost like... like a family.
+* It makes me hopeful that, perhaps...
+* Life underground won't be so bad, after all.
+* ...
+* But as much as I want to stay here...
+* I feel compelled to keep going.
+* While I can't remember why... * The thought of the surface terrifies me.
+* And yet...
+* Perhaps later, then.
+* ...No time to sleep right now.
+* I... really don't feel comfortable sleeping here.
+* A Froggit plush.
+* It's a Froggit. * . . .
+* Plush. * Of course.
+* It's dusty.
+* It's a familiar-looking, dusty plush doll.
+* I hope this one doesn't bite.
+* Nothing of value here.
+* It looks like an old video game console.
+* ...but it's just a \"brick game.\"
+* \"9999 games in one\\,\"`p1` huh?
+* Actually, now that I check the drawer...
+* This nightstand is overflowing with comic books!
+* Some look like they were drawn by a child.
+* ...With their mouth??
+* There's nothing noteworthy about this nightstand.
+* Separated from the rest.
+* Looks like someone's in time-out.
+* It's still warm... * Smells like cinnamon, too...
+* It's still warm... * And that butterscotch looks so tasty...
+* This tea looks useful.
+* ...I'll take this tea for later.
+* ...I'm carrying too much to take this tea.
+* Never felt better.
+* It's me, `$0`!
+* It's a golden flower. * There seem to be a lot of these around here.
+* This drawer is empty, save for some crayons.
+* Nothing but flowers.
+* Huh. * There's a miniature Froggit living in the flowers.
+* It looks at me... ribbits... and then returns to existing.
+* ...?! * This drawer is filled with golden flowers!
+* ...That, and the remains of seed packets.
+* Dusty books.
+* An assortment of neglected books. * They're all very dusty.
+* The mirror is too high to see my reflection.
+* ...Idiotic drivel.
+* It's a set of instructions on how to use the toilet.
+* (Step 1: Sit down.)
+* (Step 2: Do your business.)
+* (Step 3: Use complimentary toilet paper to your advantage.)
+* (Step 4: Flush.)
+* (Step 5: Do a victory dance while it flushes\\!)
+* (\\- Sincerely, ASGORE)
+* (P.S\\. Remember to remove your bottom apparel before sitting down\\!)
+* Unnecessary.
+* (Should I flush the toilet\\?)
+是
+否
+* (I flush the toilet.)
+* (. . .)
+* (It doesn't seem to be working.)
+* (I decide not to flush the toilet.)
+* (This toilet paper seems newly restocked.)
+* There's fur in the drain. * Disgusting.
+* (...Should I take a bubble bath\\?)
+是
+否
+* (In that case...)
+* (That was a very relaxing bubble bath\\!)
+* (HP fully restored.)
+* (. . .)
+* (I... decide not to take a bubble bath.)
+* Is it a bathtub, or is it a shower?
+* The world may never know.
+* ...
+* Seems like ASGORE enjoys taking bubble baths.
+* Golden flower.
+* It's yet another golden flower.
+* It's completely stained with tears.
+* It's ASGORE's journal. * Read the latest passage?
+是
+否
+* I read the passage...
+* \"Another human has fallen down.\"
+* \"Today, of all days... could this be a sign...`@`?\"
+* \"My last chance to make up for my mistakes...\"
+* \"I will not fail again.\"
+* There's no point either way. * I already read it.
+* Good choice. * It'd be rude to invade his privacy.
+* This chair seems too small for ASGORE...
+* A small nightstand with a trophy on top.
+* It reads \"Number 1 Nose-Nuzzle Champs '98\\!\"
+* This closet is missing some robes.
+* It's a closet filled with robes, sweaters, and a Santa Claus outfit.
+* Nothing interesting here.
+* Scandalous...! * It's ASGORE's sock drawer!
+* A bed fit for a fool.
+* A bed fit for a king.
+* It's a classical guitar.
+* I guess ASGORE played it as a hobby.
+* I guess ASGORE plays it as a hobby.
+* It's a classical guitar. * It's... vibrating slightly?
+* No, that can't be right.
+* It's a classical guitar- * Okay, it's definitely shaking.
+* And... mumbling?
+* It's a classical guit-
+* Don't you have anything better to do, you DUMMY!
+* Insolent. Insolent! INSOLENT!!!
+* Can't you see that I'm trying to STALK YOU?!
+* Er, I mean...
+* It's... a classical guitar. Yup.
+* Golden flower.
+* It's yet another golden flower.
+* The fridge is filled with unopened containers of... snails?
+* Yuck.
+* There's some white fur stuck in the drain.
+* The stovetop is very clean.
+* The stovetop is very clean. * Perhaps ASGORE used magic to cook?
+* The stovetop is very clean. * Perhaps ASGORE uses magic to cook?
+* It's cold.
+* The tea is still rather hot. * I should avoid touching it.
+* Smells gross.
+* Miraculously, even the trash emits a floral scent.
+* It's a burnt butterscotch-cinnamon pie.
+* It's a burnt butterscotch pie.
+* I guess ASGORE wasn't the baking type.
+* I guess ASGORE isn't the baking type.
+* It's a dining table with chairs for three.
+* A familiar-looking landscape portrait.
+* Gardening tools. * Nothing worthwhile here.
+* Seems like a collection of gardening tools.
+* Nothing but books.
+* There are photo albums... * Journals...
+* Books on gardening and tea...
+* A history book catches my eye.
+* 我 要 阅 读 吗 ？
+是
+否
+* Here's a random page...
+* \"Humanity had won, trapping us far beneath the earth...\"
+* \"...But still, we remained fearful of their strength.\"
+* \"With nowhere else to go, we could only retreat into the caverns.\"
+* \"And upon meeting their end, we created our brand new home.\"
+* \"The City of...\"`p1` * \"Home.\"
+* \"While lacking originality... it served its purpose.\"
+* Never mind, then.
+* Just a fireplace.
+* It's cold.
+* Strangely enough, this fire isn't even hot. * Just pleasantly warm.
+* I could probably put my hand inside...
+* ...No, I shouldn't tempt fate.
+* 没 时 间 休 息 了 。
+* It's a large, comfy-looking couch.
+* Just looking at it relaxes me...
+* Can't get distracted.
+* A moderately-sized, old television. * It's currently turned off.
+* Nothing useful.
+* Is this a coffee table, or a tea table?
+* Yet another mystery of the world.
+* Yet another golden flower.
+* It's a golden flower. * There seem to be a lot of these around here.
+* 没 时 间 休 息 了 。
+* It's a comfortable-looking chair, minus its resident.
+* Hello, child! * The tea is currently cooling down.
+* It may take a while, in which case...
+* Perhaps you should take that nap?
+是
+否
+* 太 好 了 ！
+* I will ensure your tea isn't cold when you awake.
+* I'd urge you to change your mind, young one.
+* Those bags under your eyes won't do you any good, ho ho ho!
+* Hey there, little buddy.
+* You may be wondering who I am.
+* And what I'm doing here.
+* Well... I'm bound by contract to keep my name a secret.
+`#`* So you can call me... `i`\"`cY`Bugerpant`cW`.\"
+* It's not a name I picked, nor one that I like.
+* But at the end of the day... it's what I'm stuck with.
+* Ah...
+* I was once young, just like you.
+* So full of hopes and dreams, wriggling around like worms in an apple.
+* But on that fateful day... destiny had other plans in store.
+* Today, I'm going to tell you a story of a great misfortune.
+* Like a stormy sky of nothings, raining hopelessness upon me...
+* This was the day that ruined my life.
+* And took almost everything from me in the process.
+* Leaving me a broken man, with no identity to call my own...
+* Just an empty shell with a fake name.
+* This... is my story.
+* This is...
+* It all started in Grillby's...
+* A place slicked with grease as far as the eye can see.
+* That day, I was filling in for that old fry cook again.
+* It wasn't part of the job description...
+* But with how many times he skipped out to snooze?
+* They couldn't afford to have nobody cooking.
+* And so, only one man would take the task nobody else could...
+* Ugggghhhh.
+* Huh? What's the matter, darlin'?
+* Oh, nothing! Nothing at all.
+* I'm just incredibly sick of this job
+* my pointless life
+* and everything else
+* Aw, lighten up! * It could be worse, couldn't it?
+* Flara. I am the ONLY delivery boy for Grillby's.
+* The chain of fast food restaurants
+* That spans across the ENTIRE UNDERGROUND
+* And I am the only delivery boy
+* Well, then why are ya workin' the...
+* ...
+* ...Oh, yeah. Contract?
+* YEP! Contract.
+* \"In the event of unforeseen absence of vital personnel\\,\"
+* \"You are to temporarily assume their responsibilities\\,\"
+`#`* \"...And ignore any `i`delivery calls, which `i`are to be made up later.\"
+* ...
+* Yeah.
+* W-well...
+* Hey, at least Aaxel isn't puttin' the moves on ya, right?
+* Wouldn't THAT be worse?
+*  .
+* Fair.
+* See? Just gotta look at the bright side.
+* Yeah, yeah. I know, I know, it's just...
+* (Sigh...) I wish I could be doing more with my life.
+* I came into this job thinking it would help me, right?
+* Meet people, get connections...
+* But it's done NOTHING!
+* Oh, if only I could get out of here!
+* To fulfill my dreams of being an ACTOR...!
+* Oh, here we go again...
+* Come on, Flara! Imagine it!
+* The adoring fans, the popularity...
+* The BABES!
+* A whole future out there, just waiting for me!
+* Haw haw haw! * Yeah, right`@`! ; )
+* You think you got a chance, loser`@`? ; )
+* ...Oh, shi
+* ...Aaxel.
+* Flara~`@` ; )
+* ...Man, I can't keep listening to this`@`! ; )
+* What makes YOU think you'll make it big`@`? ; )
+* Yeah! Someone stuck in a dead-end job like this?
+* You'rrrrrrrre hopeless!
+* Burgle wurgle!
+* ...
+* H-heh, just you wait, Grease-suckers.
+* It's only a matter of time until I make it big!
+* And THEN we'll see who's laughing!
+* Really? And how are ya gonna do that, hotshot`@`? ; )
+* You think some big opportunity's just gonna fall on you`@`? ; )
+* Haw! Like those moldy patties that flopped onto your fat head, that smell like-
+* For your information, meathead...
+* Flara's already scraped those off the ceiling!
+* Y'know, because we like to keep ourselves and our work environment...
+* \"CLEAN.\"
+* Unlike SOME monsters.
+* G-GLURB?!
+* Yeah, don't think for a second I've forgotten what YOU did.
+* (Those stains. I still see them in my nightmares...)
+* I hearrrd Mettacrit is perrrforming in the parrrk~!
+* Oooh, Mettacrit`@`~? ; )
+* Some spicy intel from the Norm, as per the norm`@`! `i`; )
+* Psht. Yeah, yeah, that's great for you, buddy.
+* How about you go and watch him, then?
+* Because, unlike you...
+* SOME of us have JOBS. Very IMPORTANT job--
+* (Huh? Flara, what-\\-)
+* ...
+* Wait a minute...
+* OH MY GOD?!
+* That's RIGHT! Mettacrit is an ACTOR!
+* If I can convince him to let me work with him...
+* I could be a FAMOUS ACTOR!
+* The kind you get to promote crappy video games and cereal!
+* I could be... I COULD BE A STAR!
+* MOVE IT, slippery-do! I got a CAREER to kickstart!
+* 欢 迎 。
+* Today, you're here because you wanted to experience something new.
+* But before we go ahead, I must advise you:
+* This is no mere \"performance.\"
+* Together, we shall take the stage...
+* And create a brand new world.
+* Something that has never truly existed before.
+* So please, do prepare yourselves...
+* For a performance to rock your world and steal your heart...
+* And, of course...
+* 戏 剧 ！
+* 动 作 ！
+* 浪 漫 ！
+* And last but not least...
+* 我 ！
+* Oh, so many faces in the crowd!
+* I'm so flattered that all of you came to see me!
+* It really is a dream come true~!
+* But, wait! This is BETTER than a mere dream, isn't it?
+* I'm sharing this delightful experience...
+* With all of you, my adoring fans~!
+* Excited, are we? * Well, it gets better!
+* For today's show... is no ordinary show.
+* One lucky monster will be able to come on-stage...
+* And perform alongside yours truly!
+* Now, who would be willing to join me?
+* Oh, oh! Me, Mettacrit! Pick me!
+* Mettacrit, pick me! I'm your biggest fan!
+* Ribbit, robbit! (Oh, do choose me\\!)
+* Mettacrit Is Love Mettacrit Is Life
+* My, my! Quite the enthusiasm we have here!
+* I'm not sure who to pick!
+* Perhaps whoever shows the most adoration for me wi--
+* OH MY GOD METTACRIT PICK ME?!
+* Well, everyone, it looks like we have a winner!
+* Come on up here, darling!
+* I have something special in mind for you.
+* Now, what's your name, my newest contender?
+* O-oh! I'm, heh, I'm... uh...
+* (Sigh...) Here we go again...
+* (Ahem.)
+* I'm contractually obligated to tell you that my name is, uh...
+* \"Bugerpant.\"
+* As you can see, it says so on my nametag.
+* My, what an... interesting name!
+* I understand why, however.
+* You do?
+* Of course! That grease-stained uniform...
+* The aura of fast food and unhappiness...
+* And those bags under your eyes?
+* You're obviously a delivery boy!
+* Working tirelessly for the corporate giant...
+* Forced to confine to a terrible name for the sake of business!
+* Oh, what a terrible tale! Simply dreadful!
+* T-that's right, Mettacrit! Heh!
+* You know, I really aspire to be an actor instead of-
+* Yes, yes. That's nice and all, but we have a show!
+`#`* Now, er... `@`\"汉 堡 男 孩 ，\"`p1` `i`was it?
+* Since you obviously have no acting experience...
+* 可 是 ， 我 —
+* Today, I'm going to teach you how to be an actor!
+* (OH MY GOD IT'S MY DREAM COME TRUE)
+* Think you're up for the task, Burger Boy?
+* I'm MORE than ready!!!
+* Wonderful! Now, your first task...
+* I'll take a double mocha chocolate latte double shot extra whip 
+* don't go easy on the sugar LOTS of cream shaken, not stirred,
+* And make it snappy, darling! I don't have all day, you know.
+* U-uh...?
+* Didn't you hear me?
+* I DID, but... I thought we were going to act...?
+* And indeed we are! By playing your role as the delivery boy...
+* ...You're doing a phenomenal job at sustaining my own act!
+* I... are you kidding me?
+* You're my IDOL! You're the reason I want to ACT!
+* And you want me to...
+* To just... get you a coffee?
+* Well, to be specific, it's a double mocha chocola-
+* No, screw this. * You're a hack.
+* I... can't believe this.
+* I'm out of here.
+* Hmph, how rude. And we were just getting to the good part.
+* Fear not, however, as the show must go on!
+* And there you have it.
+* Like a box of fries going stale and uneaten in the rain...
+* ...This is where my story comes to an end.
+* My big break... never happened.
+* And so off I go, back to the marching monotony of everyday life.
+* So many questions left unanswered.
+* Why did Mettacrit want a coffee if he's a ghost?
+* How did I end up with a nickname like \"Bugerpant\\?\"
+* And... will I ever get that chance to impress?
+* 我 不 知 道 ， 小 伙 计 。
+* But I do know this: I'll keep hoping, and I'll keep dreaming.
+* So long, little buddy.
+* So long...
+附加
+返回菜单
+浏览成就
+战斗贴图:\n  `$0`
+彩色
+经典
+菜单皮肤: `$0`
+TS!US
+汉堡裤: 原版
+连接至GameJolt
+GameJolt设置
+Discord Presence: `$0`
+开启
+关闭
+~ 汉堡裤 ： 原版 ~\n\nThis is an ~11 minute animation we\nmade for April Fools' Day 2020.\n\nSince it was coded in-game, we\ndecided to keep it as an extra.\n\nYou cannot skip this cutscene.\nProceed?
+是
+否
+连接至GAMEJOLT
+输入用户名:
+(No spaces or special characters, as in profile URL)
+Enter game token:
+(不是让你输入你的密码)
+*
+Save your login details so\nthat the game can log you in\nautomatically?
+Use your keyboard to type, and\nENTER to move on to the next field.
+Use your keyboard to type, and\npress \"Done\" on your keyboard to\nmove on to the next field.
+Logging in...
+Lost connection midway, retrying...
+登录失败！ 重试吗？
+登录中断。 重试吗？
+成功登录！
+继续
+If the keyboard doesn't appear, try\nrestarting the app. This seems\nto be a GameMaker issue...
+GAMEJOLT设置
+Logged in as
+已连接！
+重连中...
+Session error.
+Disconnecting...
+返回
+Log out
+下载已保存的数据
+(While connected to GameJolt, using a\n savepoint will upload your save data\n to GameJolt. You can use this to load\n the data, as a backup, or to\n use it across devices.)
+Downloading...
+Succeeded! Save data\nhas been loaded.
+Failed to download\nsave data.
+Really download save data?\nThis will overwrite your\ncurrent save data.
+Uploaded save data\nto GameJolt!
+Failed to upload save\ndata to GameJolt!
+成就
+`$0` / `$1`  (`$2`%)
+返回至菜单 (`$0`)
+启程
+遗迹之行，始于足下。
+解密大师之证
+解决所有挑战中的谜题，证明你的力量。
+Rootin' Tootin' Cowpoke
+Put the yee in your haw. Or maybe the haw in your yee...?
+We're Not Feeling Blue
+You're almost there!
+Lights Out
+You're almost there.
+Executive Producer
+Support a local thespian.
+Crossbones Comic Connoisseur
+Every collection has to start somewhere.
+Nature is Beautiful
+Witness something extraordinary.
+Helping Hand
+Take some time to help out some monsters in need.
+全知全能冰帽子
+You'd think a guy named \"Ice Cap\" would know how to chill out...
+Compulsive Spender
+Get a little bit of everything.
+糟糕，可怕，没有好处的事情
+Don't be fooled, this is not an achievement. This is a badge of\ndishonor, to let everyone else know you're a horrible person.
+Struck a Chord
+Find Mad... Strummy?
+Rest & Relaxation
+Reward yourself with a relaxing bubble bath.
+What Lies Ahead
+离开遗迹之家。
+(获得此成就以解锁成就描述。)
+* Hey there, little buddy. * What can I do for you?
+* Anything else I can do for you?
+* See you around, little buddy!
+Here's a list of our specials!
+享 受 美 食 吧 ！
+你 想 来 点 吗 ？
+That's not enough money.
+You don't have room.
+`#`哦 ， 谢 谢 #你！ #你 绝 对 #不 会 后 悔 的 ！
+Take it from me, little buddy.
+10G - 酥 脆 薯 条
+A customer favorite.\nHeals 12 HP.
+22G - Grillburger
+The iconic\nGrillburger(TM)!\nHeals 24 HP.
+15G - 奶 昔
+Sorry, but we're out\nof stock.
+12G - Small Fry: Act I
+My own self-written\nmusical! Gotta make\ncash, y'know.
+关 于 你 的 名 字
+关 于 你 自 己
+关 于 你 的 工 作  (新)
+你 的 一 生 ？ (新)
+关 于 镁 格 丽 特 (新)
+镁格丽特是坏人吗？ (新)
+Script? (新)
+Script?
+About Greasers
+About Flara (新)
+Propose! (新)
+PROPOSE!!! (新)
+PROPOSE!!!
+遗迹之家
+关于艾斯戈尔 (新)
+关于艾斯戈尔
+* Uh, kid? This is a burger joint, in case you didn't notice. * You can't sell stuff here.
+* And no offense, but I don't want anything you're offering.
+* Little buddy. You can't sell me anything. I'm not going to take it.
+* I'm trying to be nice here: either buy something, or skedaddle.
+* (WHY IS THIS HAPPENING TO ME JUST BUY SOMETHING OR LEAVE ALREADY OH MY GOD`@`????)
+* ... * (Ahem.)
+* . . .
+* Oh, heh. I appreciate it, but I've got a tight schedule.
+* That tends to happen when you have my kind of responsibilities.
+* (Sigh...)`p1` * Alright, little buddy. I'll bite.
+* 怎么了?
+* ... * 呃 啊... 我 讨 厌 这 部 分 * (叹 息...)`p1`让 我 们 开 始 吧 。
+* Hello! I am contractually obliged to tell you that my name is \"Bugerpant.\"`p1` * As you can see, it says so on my nametag.
+* Please make sure to stop by Grillby's Backyard Barbecue for a tasty treat, and bring a friend!
+* . . . * NOW THAT'S OUT OF THE WAY!
+* Little buddy. Please, don't make me repeat all of that again.
+* The whole thing is a story for another day.
+* As much as I absolutely HATE it, just call me Bugerpant. * Please.
+* Nothing much to say about me, really. * I'm just a man on a mission.
+* ...Unfortunately, that mission isn't going as planned.
+* I really want to do more with my life, but instead I'm stuck working for the corporate machine so I can follow my dreams.
+* And let me tell you, little buddy: this job SUCKS!!
+* Man, you'd think that a massive restaurant chain like Grillby's would have more than a single delivery boy in the ENTIRE UNDERGROUND, right?
+* Heh, heh... * WRONG!!!
+* I work myself EXHAUSTED every. Single. Day.
+* And do I get benefits? Do I get health care? DO I EVEN GET A SINGLE MOMENT OF RECOGNITION? * NOT A CHANCE!!!
+* And if that isn't enough, I'm stuck working the counter whenever the frycook takes one of his NAP BREAKS.
+* So much for my career... 
+* SO! This job? NOT my future plans! * I'm sure you could tell, but I want to be an ACTOR!
+* I thought being a delivery boy could help me get there. * Y'know, meet people, see some new faces.
+* Maybe along the way, I'd find an agent who'd help my career take off.
+* There WAS Mettacrit, but... he turned out to be a sham.
+* And so now, my chances of success? * NOTHING!!!
+* Let me give you some advice, little buddy: NEVER TRUST POPULAR PEOPLE.
+* See, I'd heard of Mettacrit before I came to Ruined Home.
+* He's pretty obscure. Does some performances here and there, people occasionally chit-chat about him.
+* But here? He's a freaking SUPERSTAR. Monsters WORSHIP him.
+* I'd been to some of his shows, and he's got SOME talent, I'll give him that.
+* I started to idolize him, and wanted to impress him. * I thought it'd finally be my chance to follow my dreams...
+* . . .
+* 老 天 ， 这 也 太 浪 费 时 间 了 !!!
+* So he's taking volunteers for one of his shows, and just my luck, he PICKS ME!!!
+* He asks for my name, I... FOLLOW THE COMPANY POLICY... and you know what?
+* HE INSTANTLY FORGETS MY NAME!!! Calls me \"BURGER BOY\\!\"`p1` * FOR YOUR INFORMATION, METTACRIT, IT'S \"BUGERPANT\\!\\!\\!\"`p1` * I'M BUGERPANT!!!!!
+* . . . * A-anyways. The guy leads me to believe he's going to take me under his wing, but you know what he does?
+* Asks me to get him some food. * Claims I'll be \"playing the role of the delivery boy.\"
+* Heh... I guess stardom really gets to you, huh? So much for THAT opportunity...
+* (Sigh...)`p1` Maybe someone else will read my script...
+* OH! Heh, yeah! * I've actually been working on my own self-written musical.
+* It's kind of ambitious, yeah. And while I want to keep it hush-hush until it's all done...
+* ...Eh, what the heck. * Want to be the first to buy a copy of my script? Let me know!
+* The freaking GREASERS. Of COURSE. * Please, little buddy. Don't grow up to be like them.
+* They're CONSTANTLY screwing with me! * Throwing burgers at me, prank calling me, threatening to beat me up...
+* And ALL because that meathead, Aaxel, has the hots for Flara.
+* Heh. No wonder he doesn't have a girlfriend.
+* That tends to happen when you INTIMIDATE AND THREATEN PEOPLE TO GET WHAT YOU WANT!!!
+* Oh, Flara? The waitress? * Well, she's. Heh...
+* She's great, little buddy. She's really great. * No matter what, she always listens to me, and...
+* She cares. She honestly, genuinely cares about my problems, and about my career.
+* If there's one good thing that came out of this job... it's her.
+`#`* . `p2`#* Little buddy uh that's not uh `p1`#* how it works???
+* (oh god how do i explain this to the kid)`p1` * . . .
+* SO! Love is... complicated.
+* Trust me, I've tried it before! With numerous chicks! BABES! * And it's never really... worked out???
+* And with Flara, she's... a really good friend to me, y'know? * I don't want to ruin that.
+* ...She'll love me for who I am, huh?
+* Heh...
+* Thanks, little buddy. I'll... keep that in mind.
+* Now, why don't you buy something already?
+* You know why some people say this place is called \"Ruined Home\"?
+* I can't remember the joke, but it's something like, \"It got too old to be called Old Home.\"
+* As for the place itself, I guess it's nice... for an ancient city about to FALL APART.
+* Seriously, take it from me, kid. Just the other day, a part of the road cracked, and I nearly fell into the sewer.
+* At least ASGORE and some others are trying to hold everything together... in more ways than one.
+* ASGORE, huh? * Man, that guy... he's like a big, friendly dad to everyone around here.
+* He's not the mayor or anything, but he's always helping people out. Sponsoring town events, donating to needy monsters...
+* This one time, he even invited me over for tea when he saw I wasn't doing too great. * Even though this isn't my home.
+* We talked for a while about life, our passions... and he was really supportive of me.
+* Though, from what I gather, he's got a TROUBLED past.
+* I dunno the details, but... please be gentle with him, kid. * He's a big old softy who just needs some love.
